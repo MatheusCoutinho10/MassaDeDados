@@ -1,0 +1,5 @@
+Avenida
+Rua
+Alameda
+Travessa
+Praça

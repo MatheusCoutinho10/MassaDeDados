@@ -1,0 +1,1000 @@
+1#Liz Goncalves Guimaraes#Kaue Guimaraes  #Maria Julia Goncalves  #Avenida Theo Lombardi  , nº583#73.735.161-3#(11) 99617-9558#Liz.Guimaraes@coutinhos.com.br#R$4400.00#Recursos Humanos
+2#Rafael Santos Coutinho#Joao Gabriel Coutinho de Araujo#Rafaela Santos de Jesus#Praça Esther Nunes da Costa, nº681#36.699.979-1#(11) 93440-7052#Rafael.Coutinho@coutinhos.com.br#R$3400.00#Recursos Humanos
+3#Benjamin Esposito Tavares#Joao Gabriel Tavares da Conceicao#Maria Cecilia Esposito  #Avenida Waldecir Nascimento  , nº1542#95.936.869-3#(11) 96477-8267#Benjamin.Tavares@coutinhos.com.br#R$4000.00#Comercial
+4#Samuel Moreira Fontana#Flavio Fontana  #Liz Moreira  #Praça Matheus Greco de Carvalho, nº709#90.136.218-4#(11) 98896-9933#Samuel.Fontana@coutinhos.com.br#R$1700.00#Financeiro
+5#Miguel Souza Mancini#Enzo Gabriel Mancini de Souza#Ana Beatriz Souza da Cruz#Avenida Gael Santoro  , nº1176#78.859.384-5#(11) 93073-9544#Miguel.Mancini@coutinhos.com.br#R$2000.00#Comercial
+6#Leonardo Rizzo Correa#Enzo Gabriel Correa de Souza#Vitoria Rizzo de Freitas#Travessa Lucca Silva de Souza, nº1230#55.694.148-9#(11) 93817-2753#Leonardo.Correa@coutinhos.com.br#R$3900.00#Administrativo
+7#Pietro Pires Moretti#Caio Moretti  #Lara Pires de Melo#Avenida Isis Andrade  , nº133#96.695.320-6#(11) 92865-9957#Pietro.Moretti@coutinhos.com.br#R$2800.00#Estoque
+8#Giovanna Fernandes Batista#Ravi Batista de Luca#Lavinia Fernandes  #Rua Antonella Cruz de Carvalho, nº2243#81.625.130-4#(11) 96670-6465#Giovanna.Batista@coutinhos.com.br#R$3100.00#Administrativo
+9#Isadora Vieira Goncalves#Joao Guilherme Goncalves da Silva#Mariah Vieira  #Alameda Rafael Moura  , nº1469#63.876.463-2#(11) 93966-4338#Isadora.Goncalves@coutinhos.com.br#R$2500.00#Contabilidade
+10#Leonardo Marino Leite#Guilherme Leite de Carvalho#Catarina Marino dos Reis#Travessa Lucca Correia  , nº2074#13.614.712-8#(11) 92557-6118#Leonardo.Leite@coutinhos.com.br#R$3800.00#Estoque
+11#Caio Dias Silva#Lucca Silva  #Lorena Dias de Castro#Rua Maria Miranda dos Reis, nº1577#61.473.534-4#(11) 99049-1685#Caio.Silva@coutinhos.com.br#R$3000.00#Financeiro
+12#Daniel Marques Henrique#Josue Henrique de Sousa#Luna Marques de Assis#Praça Melissa Brito  , nº2413#81.220.153-3#(11) 96570-6046#Daniel.Henrique@coutinhos.com.br#R$1600.00#Financeiro
+13#Murilo Neves Teixeira#Luiz Felipe Teixeira de Sousa#Alice Neves  #Praça Liz Costa  , nº242#38.811.403-2#(11) 98887-8316#Murilo.Teixeira@coutinhos.com.br#R$2400.00#Financeiro
+14#Ana Santoro Siqueira#Levi Siqueira da Costa#Maria Laura Santoro  #Rua Waldecir Almeida dos Reis, nº871#77.855.878-9#(11) 91550-9784#Ana.Siqueira@coutinhos.com.br#R$4900.00#Marketing
+15#Helena Barbosa Conceicao#Benicio Conceicao  #Pietra Barbosa de Luca#Praça Mariana Barbieri de Assis, nº1563#33.933.583-2#(11) 92200-3389#Helena.Conceicao@coutinhos.com.br#R$2300.00#Contabilidade
+16#Lorena Ferreira Aparecido#Theodoro Aparecido da Cunha#Ana Luiza Ferreira de Almeida#Travessa Leticia Duarte  , nº1036#45.444.988-7#(11) 97966-1317#Lorena.Aparecido@coutinhos.com.br#R$2800.00#Marketing
+17#Eduardo Souza Aparecido#Augusto Aparecido  #Maria Sophia Souza de Lima#Rua Manuela Sousa  , nº316#27.912.181-5#(11) 93183-9020#Eduardo.Aparecido@coutinhos.com.br#R$4800.00#Financeiro
+18#Cecilia Guimaraes Marino#Otto Marino  #Esther Guimaraes de Carvalho#Rua Rafael Viana  , nº2366#77.565.957-1#(11) 92055-3820#Cecilia.Marino@coutinhos.com.br#R$4900.00#Financeiro
+19#Augusto Teixeira Moretti#Flavio Moretti dos Santos#Malu Teixeira da Cruz#Alameda Pietro Silveira de Assis, nº635#51.605.541-8#(11) 97902-9955#Augusto.Moretti@coutinhos.com.br#R$1800.00#Contabilidade
+20#Miguel Bezerra Miranda#Joao Miguel Miranda da Silva#Laura Bezerra de Sousa#Praça Mariana Garcia  , nº532#31.499.125-8#(11) 94940-6043#Miguel.Miranda@coutinhos.com.br#R$4300.00#Estoque
+21#Giovanna Cardoso Lima#Isac Lima dos Reis#Ana Livia Cardoso de Jesus#Rua Esther Gomes  , nº1499#38.591.205-4#(11) 93280-9232#Giovanna.Lima@coutinhos.com.br#R$4700.00#Estoque
+22#Theo Santos Ribeiro#Felipe Ribeiro do Nascimento#Milena Santos de Paula#Avenida Daniel Pinheiro  , nº1491#14.974.822-7#(11) 96824-6776#Theo.Ribeiro@coutinhos.com.br#R$3300.00#Administrativo
+23#Esther Cruz Siqueira#Felipe Siqueira  #Maria Valentina Cruz da Cunha#Praça Augusto Tavares de Paula, nº2395#56.643.419-8#(11) 93800-5664#Esther.Siqueira@coutinhos.com.br#R$1700.00#Administrativo
+24#Joaquim Conceicao Moreira#Rodrigo Moreira de Sousa#Lara Conceicao da Cunha#Travessa Eduarda Guimaraes  , nº287#38.905.140-2#(11) 92069-3981#Joaquim.Moreira@coutinhos.com.br#R$3000.00#Administrativo
+25#Miguel Nunes Machado#Guilherme Machado  #Liz Nunes  #Rua Nicole Coelho  , nº660#83.887.651-7#(11) 98954-7692#Miguel.Machado@coutinhos.com.br#R$3100.00#Recursos Humanos
+26#Antonio Braga Cordeiro#Icaro Cordeiro da Rocha#Joana Braga dos Santos#Alameda Heloísa Marino  , nº2444#92.873.676-7#(11) 94253-1117#Antonio.Cordeiro@coutinhos.com.br#R$2400.00#Contabilidade
+27#Wylliam Tavares Rocha#Felipe Rocha dos Santos#Eloa Tavares da Rocha#Praça Kaique Bezerra  , nº953#59.543.528-8#(11) 96534-3171#Wylliam.Rocha@coutinhos.com.br#R$2500.00#Contabilidade
+28#Melissa Mancini Marques#Joaquim Marques  #Aurora Mancini  #Avenida Victor Rizzo  , nº900#75.576.738-5#(11) 94100-1989#Melissa.Marques@coutinhos.com.br#R$3700.00#Marketing
+29#Luna Araujo Barbieri#Lucas Barbieri da Costa#Heloisa Araujo  #Avenida Antonio Siqueira da Costa, nº201#62.720.314-5#(11) 92318-7732#Luna.Barbieri@coutinhos.com.br#R$2400.00#Marketing
+30#Ana Reis Dias#Benicio Dias dos Reis#Rebeca Reis  #Rua Heitor Nogueira de Luca, nº1104#36.676.511-1#(11) 93084-2927#Ana.Dias@coutinhos.com.br#R$4000.00#Recursos Humanos
+31#Silvanio Costa Fontana#Arthur Miguel Fontana  #Elisa Costa  #Avenida Leticia Silveira  , nº1762#55.807.928-4#(11) 97734-8537#Silvanio.Fontana@coutinhos.com.br#R$1700.00#Administrativo
+32#Luiza Colombo Garcia#Vinicius Garcia  #Ana Clara Colombo de Souza#Praça Helena Duarte  , nº335#42.950.755-8#(11) 99470-9793#Luiza.Garcia@coutinhos.com.br#R$4000.00#Financeiro
+33#Helena Nogueira Cavalcante#Yago Cavalcante de Sousa#Isabella Nogueira de Melo#Travessa Rafaela Reis  , nº1094#40.727.693-6#(11) 97364-7762#Helena.Cavalcante@coutinhos.com.br#R$3600.00#Marketing
+34#Theo Martins Bezerra#Erick Bezerra  #Eliane Martins de Castro#Rua Julia Nunes  , nº2154#17.773.955-7#(11) 96811-6144#Theo.Bezerra@coutinhos.com.br#R$1700.00#Contabilidade
+35#Isabella Rossi Gomes#Noah Gomes de Andrade#Clara Rossi dos Santos#Travessa Giovanna Coutinho de Luca, nº1165#15.577.160-8#(11) 96917-3842#Isabella.Gomes@coutinhos.com.br#R$3600.00#Recursos Humanos
+36#Anderson Lima Santoro#Matheus Santoro  #Antonella Lima  #Praça Rafaela Goncalves da Cunha, nº2365#36.817.346-8#(11) 99370-8425#Anderson.Santoro@coutinhos.com.br#R$1900.00#Financeiro
+37#Joaquim Coelho Mancini#Caio Mancini de Souza#Ana Clara Coelho da Conceicao#Travessa Luna Mendes de Castro, nº1250#75.695.428-9#(11) 94370-2186#Joaquim.Mancini@coutinhos.com.br#R$1500.00#Administrativo
+38#Caio Duarte Ribeiro#Ryan Ribeiro de Carvalho#Maria Laura Duarte de Melo#Praça Lara Lima  , nº712#29.466.977-4#(11) 99897-4112#Caio.Ribeiro@coutinhos.com.br#R$1500.00#Estoque
+39#Yasmin Mariani Barbosa#Flavio Barbosa  #Maria Clara Mariani  #Avenida Joao Mancini da Cruz, nº572#38.451.345-6#(11) 95123-1848#Yasmin.Barbosa@coutinhos.com.br#R$3000.00#Marketing
+40#Enzo Cordeiro Machado#Caio Machado da Conceicao#Ana Luiza Cordeiro de Paula#Alameda Theo Greco  , nº1374#17.897.960-5#(11) 91849-6442#Enzo.Machado@coutinhos.com.br#R$2100.00#Recursos Humanos
+41#Sophia Coutinho Lombardi#Arthur Gabriel Lombardi  #Maria Flor Coutinho  #Travessa Maite Gallo de Almeida, nº1627#58.946.409-5#(11) 94877-4134#Sophia.Lombardi@coutinhos.com.br#R$2300.00#Comercial
+42#Maria Bezerra Marino#Vicente Marino da Cunha#Allana Bezerra  #Avenida Francisco Araujo de Araujo, nº1864#93.559.803-8#(11) 95738-9018#Maria.Marino@coutinhos.com.br#R$3500.00#Marketing
+43#Antonio Alves Marino#Joao Guilherme Marino da Rocha#Ana Clara Alves da Silva#Praça Francisco Soares  , nº2122#50.223.893-6#(11) 98269-4863#Antonio.Marino@coutinhos.com.br#R$3000.00#Estoque
+44#Benicio Cordeiro Vieira#Joao Miguel Vieira de Oliveira#Marina Cordeiro  #Avenida Vinicius Mancini da Silva, nº793#40.575.224-6#(11) 94503-2653#Benicio.Vieira@coutinhos.com.br#R$4700.00#Recursos Humanos
+45#Eliane Fontana Brito#Theo Brito de Castro#Manuela Fontana de Souza#Praça Heitor Marques  , nº2499#39.844.966-7#(11) 97786-5686#Eliane.Brito@coutinhos.com.br#R$2100.00#Marketing
+46#Wylliam Conti Coelho#Joao Lucas Coelho da Cruz#Lais Conti  #Avenida Eduarda Greco dos Santos, nº2428#96.335.844-3#(11) 96233-3957#Wylliam.Coelho@coutinhos.com.br#R$3300.00#Administrativo
+47#Rafael Rodrigues Nunes#Leonardo Nunes de Carvalho#Heloise Rodrigues  #Rua Isabella Almeida da Rocha, nº1487#29.550.844-8#(11) 99513-1355#Rafael.Nunes@coutinhos.com.br#R$2300.00#Administrativo
+48#Theo Siqueira Dantas#Raul Dantas  #Yasmin Siqueira de Oliveira#Avenida Liz Soares de Oliveira, nº821#53.311.341-3#(11) 97942-3581#Theo.Dantas@coutinhos.com.br#R$3300.00#Financeiro
+49#Melissa Braga Coutinho#Gustavo Coutinho de Lima#Ana Cecília Braga de Almeida#Travessa Caleb Marques de Luca, nº1730#56.143.158-9#(11) 95757-8107#Melissa.Coutinho@coutinhos.com.br#R$2200.00#Comercial
+50#Pietro Batista Gomes#Caio Gomes  #Maria Laura Batista  #Travessa Heitor Moreira do Nascimento, nº112#40.520.739-2#(11) 94779-5486#Pietro.Gomes@coutinhos.com.br#R$4400.00#Contabilidade
+51#Antonio Duarte Borges#Murilo Borges de Melo#Ana Luiza Duarte da Costa#Travessa Lucas Fernandes  , nº1355#77.789.705-4#(11) 94718-2225#Antonio.Borges@coutinhos.com.br#R$2000.00#Comercial
+52#Bento Coelho Rossi#Joao Gabriel Rossi de Araujo#Maria Clara Coelho da Costa#Alameda Livia Conti  , nº1244#15.562.572-1#(11) 92560-2200#Bento.Rossi@coutinhos.com.br#R$4900.00#Recursos Humanos
+53#Manuela Colombo Moreira#Breno Moreira  #Maria Luiza Colombo  #Travessa Giovanna Giordano  , nº1249#33.570.636-5#(11) 93590-2215#Manuela.Moreira@coutinhos.com.br#R$2200.00#Contabilidade
+54#Antonella Rossi Ricci#Samuel Ricci  #Emilly Rossi de Araujo#Rua Lavinia Mancini de Paula, nº223#64.740.828-3#(11) 97683-2293#Antonella.Ricci@coutinhos.com.br#R$3000.00#Comercial
+55#Alice Fontana Melo#Yuri Thiago Melo  #Ana Cecília Fontana dos Reis#Avenida Kaique Viana  , nº99#56.417.527-3#(11) 91070-2298#Alice.Melo@coutinhos.com.br#R$4400.00#Estoque
+56#Henrique Guimaraes Esposito#Davi Lucca Esposito  #Livia Guimaraes  #Avenida Ketylin Miranda de Almeida, nº1465#92.784.187-7#(11) 92376-8734#Henrique.Esposito@coutinhos.com.br#R$2300.00#Estoque
+57#Wylliam Goncalves Fernandes#Raul Fernandes da Silva#Maria Vitoria Goncalves  #Avenida Davi Santoro da Costa, nº1519#97.309.563-9#(11) 91684-2007#Wylliam.Fernandes@coutinhos.com.br#R$2000.00#Estoque
+58#Antonio Araujo Medeiros#Davi Miguel Medeiros  #Eduarda Araujo de Castro#Travessa Nicole Alves  , nº133#64.925.563-3#(11) 98723-1067#Antonio.Medeiros@coutinhos.com.br#R$2400.00#Estoque
+59#Enzo Nascimento Brito#Joao Pedro Brito de Araujo#Alice Nascimento  #Rua Ana Cavalcante  , nº1632#44.552.222-4#(11) 98224-5429#Enzo.Brito@coutinhos.com.br#R$3300.00#Administrativo
+60#Eliane Mariani Aparecido#Ryan Aparecido da Costa#Maria Clara Mariani da Cruz#Rua Livia Colombo  , nº22#68.488.318-9#(11) 93541-6770#Eliane.Aparecido@coutinhos.com.br#R$1800.00#Contabilidade
+61#Vinicius Gladys Rocha#Pedro Henrique Rocha da Costa#Sophia Gladys  #Avenida Caleb Vieira  , nº1308#47.317.932-3#(11) 96347-8720#Vinicius.Rocha@coutinhos.com.br#R$4500.00#Comercial
+62#Leonardo Dantas Nunes#Felipe Nunes de Freitas#Maria Laura Dantas da Cruz#Avenida Bryan Carneiro da Rocha, nº342#72.710.630-4#(11) 93135-8719#Leonardo.Nunes@coutinhos.com.br#R$2700.00#Marketing
+63#Victor Almeida Ramos#Lucas Gabriel Ramos  #Maria Laura Almeida  #Alameda Maria Almeida da Conceicao, nº489#31.234.443-8#(11) 93310-1674#Victor.Ramos@coutinhos.com.br#R$4900.00#Recursos Humanos
+64#Luiza Jhonatta Siqueira#Gabriel Siqueira da Conceicao#Alicia Jhonatta  #Rua Antonella Santana  , nº71#83.384.935-5#(11) 99381-9329#Luiza.Siqueira@coutinhos.com.br#R$2200.00#Administrativo
+65#Silvanio Ribeiro Coelho#Caua Coelho  #Malu Ribeiro de Castro#Avenida Lara Lombardi  , nº731#25.225.339-6#(11) 94203-9219#Silvanio.Coelho@coutinhos.com.br#R$4300.00#Contabilidade
+66#Joaquim Bezerra Cavalcante#Bento Cavalcante de Andrade#Fernanda Bezerra de Castro#Alameda Vinicius Braga  , nº1052#89.489.874-9#(11) 99473-7826#Joaquim.Cavalcante@coutinhos.com.br#R$3400.00#Financeiro
+67#Ana Mariani Mariani#Yan Mariani  #Maria Laura Mariani da Cruz#Alameda Bernardo Lima  , nº1234#68.142.544-7#(11) 95821-1671#Ana.Mariani@coutinhos.com.br#R$3100.00#Estoque
+68#Vitoria Cruz Moura#Nathan Moura da Cunha#Melissa Cruz  #Travessa Daniel Giordano  , nº1180#64.765.282-2#(11) 98757-3791#Vitoria.Moura@coutinhos.com.br#R$4600.00#Estoque
+69#Anthony Vieira Conceicao#Caua Conceicao da Cruz#Stella Vieira  #Avenida Helena Medeiros  , nº1772#40.700.382-9#(11) 95494-1314#Anthony.Conceicao@coutinhos.com.br#R$1900.00#Marketing
+70#Sarah Ferrari Pinto#Luiz Miguel Pinto de Souza#Manuela Ferrari de Assis#Praça Henrique Mariani da Conceicao, nº196#15.809.414-8#(11) 98429-9202#Sarah.Pinto@coutinhos.com.br#R$4900.00#Contabilidade
+71#Kaique Barbieri Soares#Emanuel Soares de Jesus#Eduarda Barbieri da Costa#Alameda Felipe Rocha de Carvalho, nº1565#62.628.276-3#(11) 96710-1180#Kaique.Soares@coutinhos.com.br#R$2100.00#Contabilidade
+72#Emanuel Giordano Pires#Samuel Pires  #Vitoria Giordano  #Avenida Kaique Duarte da Silva, nº2071#70.797.310-7#(11) 91906-4534#Emanuel.Pires@coutinhos.com.br#R$3800.00#Contabilidade
+73#Rafaela Melo Rocha#Joao Miguel Rocha da Cruz#Lorena Melo do Nascimento#Rua Miguel Pinheiro de Almeida, nº2365#87.271.704-7#(11) 93919-7833#Rafaela.Rocha@coutinhos.com.br#R$2500.00#Marketing
+74#Caio Pires Melo#Benicio Melo de Almeida#Ana Sophia Pires de Souza#Avenida Liz Machado da Costa, nº2136#25.279.525-2#(11) 95035-9783#Caio.Melo@coutinhos.com.br#R$3200.00#Comercial
+75#Davi Nogueira Romano#Augusto Romano da Conceicao#Stella Nogueira de Andrade#Praça Lavinia Correa  , nº2260#66.440.268-8#(11) 97145-6795#Davi.Romano@coutinhos.com.br#R$3300.00#Comercial
+76#Gustavo Tavares Esposito#Daniel Esposito de Souza#Isis Tavares  #Rua Heloísa Batista de Melo, nº942#63.191.191-8#(11) 98138-2726#Gustavo.Esposito@coutinhos.com.br#R$4700.00#Comercial
+77#Esther Farias Silveira#Rafael Silveira  #Vitoria Farias  #Praça Enzo Lima  , nº666#37.630.419-4#(11) 94765-6028#Esther.Silveira@coutinhos.com.br#R$4500.00#Marketing
+78#Lorena Silveira Santoro#Bernardo Santoro de Carvalho#Gabriela Silveira de Araujo#Alameda Clara Dias  , nº1063#44.358.541-1#(11) 98107-7509#Lorena.Santoro@coutinhos.com.br#R$1600.00#Financeiro
+79#Samuel Pinto Moura#Vitor Moura da Cunha#Ana Liz Pinto de Andrade#Alameda Alicia Santos  , nº239#13.895.752-2#(11) 95255-7619#Samuel.Moura@coutinhos.com.br#R$1600.00#Contabilidade
+80#Caleb Oliveira Soares#Antonhy Soares  #Isabella Oliveira  #Avenida Maite Nunes  , nº76#32.276.559-3#(11) 96439-9615#Caleb.Soares@coutinhos.com.br#R$3600.00#Recursos Humanos
+81#Theo Fernandes Lombardi#Noah Lombardi de Oliveira#Beatriz Fernandes  #Travessa Bryan Silveira de Melo, nº1309#17.594.486-5#(11) 92930-6919#Theo.Lombardi@coutinhos.com.br#R$1900.00#Administrativo
+82#Alice Pinheiro Santana#Levi Santana  #Alicia Pinheiro  #Avenida Maria Nascimento de Castro, nº1242#20.146.291-6#(11) 98103-1849#Alice.Santana@coutinhos.com.br#R$4900.00#Comercial
+83#Waldecir Miranda Almeida#Miguel Almeida  #Maria Isis Miranda de Souza#Praça Vinicius Almeida de Melo, nº1544#51.671.123-2#(11) 93261-3380#Waldecir.Almeida@coutinhos.com.br#R$3800.00#Estoque
+84#Luna Santos Viana#Josue Viana  #Alicia Santos da Cruz#Rua Anderson Neves  , nº443#53.735.517-5#(11) 94063-4202#Luna.Viana@coutinhos.com.br#R$1500.00#Comercial
+85#Livia Melo Alves#Luiz Miguel Alves  #Allana Melo  #Alameda Joao Ferrari  , nº753#10.647.537-5#(11) 97348-5276#Livia.Alves@coutinhos.com.br#R$2700.00#Estoque
+86#Gustavo Garcia Soares#Heitor Soares  #Maria Alice Garcia  #Travessa Sophia Correa  , nº2106#43.135.515-3#(11) 93135-6323#Gustavo.Soares@coutinhos.com.br#R$4400.00#Recursos Humanos
+87#Clara Miranda Lopes#Davi Miguel Lopes  #Giovanna Miranda  #Alameda Eloa Lopes de Assis, nº1836#84.674.622-3#(11) 93055-7526#Clara.Lopes@coutinhos.com.br#R$4600.00#Comercial
+88#Eduardo Gladys Silveira#Benjamin Silveira  #Malu Gladys de Souza#Rua Guilherme Moraes  , nº2108#40.608.595-5#(11) 99918-5943#Eduardo.Silveira@coutinhos.com.br#R$3600.00#Recursos Humanos
+89#Victor Sousa Gladys#Luiz Miguel Gladys  #Sophia Sousa de Assis#Praça Gabriel Rizzo  , nº2354#98.491.996-2#(11) 94871-7119#Victor.Gladys@coutinhos.com.br#R$4100.00#Estoque
+90#Vicente Vieira Gallo#Arthur Gallo de Freitas#Lais Vieira  #Alameda Julia Colombo de Castro, nº631#90.121.977-7#(11) 98954-5818#Vicente.Gallo@coutinhos.com.br#R$2400.00#Contabilidade
+91#Isadora Coutinho Teixeira#Emanuel Teixeira  #Stella Coutinho  #Alameda Samuel Medeiros  , nº2303#48.308.959-9#(11) 94849-5734#Isadora.Teixeira@coutinhos.com.br#R$2500.00#Marketing
+92#Caio Cardoso Vieira#Bryan Vieira  #Maria Fernanda Cardoso dos Reis#Praça Leticia Carvalho da Silva, nº1978#69.774.906-3#(11) 95320-5081#Caio.Vieira@coutinhos.com.br#R$4500.00#Comercial
+93#Yasmin Neves Pinheiro#Enzo Pinheiro de Andrade#Lorena Neves  #Rua Felipe Araujo do Nascimento, nº2204#61.667.793-3#(11) 99760-6130#Yasmin.Pinheiro@coutinhos.com.br#R$4300.00#Estoque
+94#Anderson Costa Costa#Miguel Costa de Melo#Clarice Costa  #Rua Daniel Moretti  , nº1656#86.319.164-1#(11) 91637-5170#Anderson.Costa@coutinhos.com.br#R$4800.00#Administrativo
+95#Marina Santos Aparecido#Henry Aparecido  #Maria Flor Santos da Silva#Alameda Guilherme Gallo de Paula, nº849#78.526.467-5#(11) 91936-9913#Marina.Aparecido@coutinhos.com.br#R$4500.00#Contabilidade
+96#Vitoria Santana Rodrigues#Thomas Rodrigues  #Ana Luiza Santana  #Praça Larissa Ribeiro  , nº438#76.124.675-5#(11) 96478-5750#Vitoria.Rodrigues@coutinhos.com.br#R$3700.00#Recursos Humanos
+97#Caua Cordeiro Mendes#Gael Mendes  #Livia Cordeiro da Costa#Praça Francisco Rossi  , nº741#35.287.120-2#(11) 91355-8891#Caua.Mendes@coutinhos.com.br#R$4700.00#Recursos Humanos
+98#Maite Bezerra Santana#Matheus Santana da Cunha#Ana Sophia Bezerra de Melo#Alameda Pietro Barbosa  , nº1744#81.486.434-9#(11) 93675-8532#Maite.Santana@coutinhos.com.br#R$2700.00#Administrativo
+99#Emanuel Bianchi Marino#Pedro Henrique Marino da Cruz#Laura Bianchi do Nascimento#Avenida Nayan Leite de Paula, nº2311#11.800.328-7#(11) 92807-2544#Emanuel.Marino@coutinhos.com.br#R$2000.00#Comercial
+100#Sophia Gomes Esposito#Davi Lucca Esposito da Conceicao#Heloisa Gomes  #Avenida Antonio Nunes da Rocha, nº689#63.669.972-2#(11) 93915-8944#Sophia.Esposito@coutinhos.com.br#R$3900.00#Administrativo
+101#Julia Moretti Mendes#Erick Mendes de Jesus#Alicia Moretti da Costa#Travessa Nicole Rossi  , nº1379#51.395.952-8#(11) 92885-4402#Julia.Mendes@coutinhos.com.br#R$2700.00#Estoque
+102#Felipe Dantas Cruz#Oliver Cruz  #Joana Dantas  #Travessa Melissa Cardoso da Rocha, nº1361#45.365.721-9#(11) 96792-7069#Felipe.Cruz@coutinhos.com.br#R$3300.00#Estoque
+103#Rafael Moura Barros#Otavio Barros de Melo#Clara Moura de Melo#Avenida Murilo Rocha  , nº1830#45.218.958-8#(11) 94402-1683#Rafael.Barros@coutinhos.com.br#R$3800.00#Marketing
+104#Lorena Cordeiro Rossi#Levi Rossi  #Rebeca Cordeiro  #Rua Leonardo Nascimento da Cunha, nº798#47.589.817-8#(11) 99002-4019#Lorena.Rossi@coutinhos.com.br#R$3500.00#Estoque
+105#Joaquim Medeiros Tavares#Leonardo Tavares  #Emanuelly Medeiros de Araujo#Praça Joaquim Barbieri da Conceicao, nº2066#51.434.199-4#(11) 92221-7438#Joaquim.Tavares@coutinhos.com.br#R$3400.00#Estoque
+106#Rebeca Marino Conti#Antonio Conti  #Luna Marino  #Avenida Julia Giordano de Paula, nº1261#85.444.522-1#(11) 99979-6614#Rebeca.Conti@coutinhos.com.br#R$2300.00#Administrativo
+107#Livia Moretti Almeida#Gabriel Almeida dos Reis#Giovanna Moretti da Rocha#Praça Bryan Greco  , nº178#31.582.370-8#(11) 95366-9005#Livia.Almeida@coutinhos.com.br#R$2600.00#Marketing
+108#Yasmin Conti Moraes#Lucas Gabriel Moraes  #Ana Conti de Melo#Avenida Clara Almeida de Carvalho, nº724#40.871.549-6#(11) 93695-2175#Yasmin.Moraes@coutinhos.com.br#R$2200.00#Financeiro
+109#Laura Brito Rodrigues#Joao Lucas Rodrigues do Carmo#Melinda Brito  #Travessa Livia Bezerra de Carvalho, nº1543#46.178.513-8#(11) 95182-1260#Laura.Rodrigues@coutinhos.com.br#R$2000.00#Comercial
+110#Rebeca Machado Machado#Arthur Gabriel Machado  #Larissa Machado  #Alameda Enzo Rossi  , nº558#70.607.154-1#(11) 98063-6559#Rebeca.Machado@coutinhos.com.br#R$1500.00#Recursos Humanos
+111#Helena Melo Moretti#Bryan Moretti da Costa#Alicia Melo  #Praça Nicolas Lima de Paula, nº2170#19.912.537-5#(11) 91748-7682#Helena.Moretti@coutinhos.com.br#R$1700.00#Administrativo
+112#Murilo Ricci Conceicao#Luiz Miguel Conceicao de Luca#Ana Sophia Ricci da Cunha#Alameda Enzo Fernandes de Luca, nº926#13.354.462-8#(11) 99446-6649#Murilo.Conceicao@coutinhos.com.br#R$1700.00#Marketing
+113#Bryan Teixeira Ferreira#Bernardo Ferreira  #Ana Sophia Teixeira  #Avenida Bryan Medeiros  , nº1058#44.410.783-6#(11) 94258-5818#Bryan.Ferreira@coutinhos.com.br#R$1800.00#Financeiro
+114#Emanuel Mancini Medeiros#Joao Miguel Medeiros de Oliveira#Lais Mancini de Carvalho#Alameda Silvanio Henrique  , nº111#95.811.960-3#(11) 97795-4443#Emanuel.Medeiros@coutinhos.com.br#R$1700.00#Contabilidade
+115#Lucca Tavares Colombo#Theodoro Colombo  #Ana Livia Tavares  #Alameda Nicole Pinto  , nº1801#47.501.102-9#(11) 94805-7316#Lucca.Colombo@coutinhos.com.br#R$3500.00#Marketing
+116#Antonella Lopes Coutinho#Martin Coutinho da Rocha#Sarah Lopes da Rocha#Avenida Gabriel Greco  , nº2288#69.184.157-7#(11) 97613-7992#Antonella.Coutinho@coutinhos.com.br#R$4200.00#Comercial
+117#Kaique Dantas Santoro#Luiz Henrique Santoro de Assis#Maria Dantas de Almeida#Praça Theo Farias  , nº20#52.118.590-8#(11) 94225-4142#Kaique.Santoro@coutinhos.com.br#R$2200.00#Contabilidade
+118#Nayan Soares Mendes#Thomas Mendes de Melo#Gabrielly Soares  #Avenida Isabella Goncalves de Carvalho, nº1410#93.547.562-2#(11) 97303-2765#Nayan.Mendes@coutinhos.com.br#R$2300.00#Contabilidade
+119#Bento Gladys Nunes#Valentim Nunes de Assis#Maria Gladys  #Avenida Kaique Machado de Jesus, nº16#94.674.690-5#(11) 92033-7951#Bento.Nunes@coutinhos.com.br#R$4900.00#Financeiro
+120#Felipe Soares Moraes#Davi Miguel Moraes  #Lara Soares de Sousa#Praça Vicente Neves da Cunha, nº1117#94.704.482-2#(11) 94972-8541#Felipe.Moraes@coutinhos.com.br#R$2600.00#Financeiro
+121#Sarah Vieira Pinheiro#Henrique Pinheiro da Rocha#Mariana Vieira  #Praça Yasmin Ramos de Andrade, nº354#28.679.991-1#(11) 99147-6835#Sarah.Pinheiro@coutinhos.com.br#R$4400.00#Marketing
+122#Larissa Soares Siqueira#Murilo Siqueira  #Rebeca Soares  #Rua Alicia Tavares  , nº2437#12.262.697-2#(11) 94308-8538#Larissa.Siqueira@coutinhos.com.br#R$2000.00#Recursos Humanos
+123#Adriano Colombo Duarte#Enrico Duarte  #Rafaela Colombo da Cruz#Avenida Pietro Neves de Paula, nº1766#98.787.901-6#(11) 95749-1391#Adriano.Duarte@coutinhos.com.br#R$3700.00#Comercial
+124#Pedro Melo Romano#Benicio Romano de Oliveira#Ana Liz Melo  #Rua Antonio Bianchi do Carmo, nº979#41.227.384-1#(11) 95552-1474#Pedro.Romano@coutinhos.com.br#R$4200.00#Recursos Humanos
+125#Antonella Freitas Conti#Tomás Conti de Castro#Amanda Freitas da Cunha#Rua Silvanio Colombo  , nº946#52.529.544-8#(11) 96710-1799#Antonella.Conti@coutinhos.com.br#R$4300.00#Contabilidade
+126#Larissa Coutinho Santos#Pedro Miguel Santos  #Ana Luiza Coutinho  #Alameda Benicio Ricci de Andrade, nº1659#27.484.560-7#(11) 96771-7905#Larissa.Santos@coutinhos.com.br#R$3000.00#Recursos Humanos
+127#Gael Miranda Martins#Nathan Martins  #Mariana Miranda  #Rua Rafael Souza  , nº399#48.266.462-4#(11) 96029-4726#Gael.Martins@coutinhos.com.br#R$4200.00#Contabilidade
+128#Agatha Dantas Neves#Arthur Gabriel Neves dos Reis#Pietra Dantas de Paula#Praça Alice Barbosa  , nº761#33.672.332-4#(11) 99091-1380#Agatha.Neves@coutinhos.com.br#R$3300.00#Financeiro
+129#Caleb Cavalcante Neves#Joao Guilherme Neves  #Maria Flor Cavalcante  #Avenida Gabriela Rossi  , nº890#61.502.376-8#(11) 94836-8990#Caleb.Neves@coutinhos.com.br#R$4300.00#Marketing
+130#Clara Miranda Gallo#Yago Gallo  #Helena Miranda de Freitas#Alameda Lucilia Nogueira  , nº1830#13.754.804-5#(11) 94094-3039#Clara.Gallo@coutinhos.com.br#R$2400.00#Marketing
+131#Rebeca Santos Mancini#Arthur Gabriel Mancini  #Alicia Santos  #Praça Caleb Nascimento da Silva, nº197#97.334.250-7#(11) 98177-6016#Rebeca.Mancini@coutinhos.com.br#R$4900.00#Contabilidade
+132#Emanuel Jhonatta Barbosa#Caua Barbosa do Carmo#Ana Sophia Jhonatta de Freitas#Praça Victor Barbieri  , nº2285#81.967.457-7#(11) 97818-7816#Emanuel.Barbosa@coutinhos.com.br#R$2900.00#Administrativo
+133#Bryan Barbosa Souza#Daniel Souza  #Analu Barbosa  #Praça Lucas Pires  , nº1964#66.692.293-7#(11) 92799-4003#Bryan.Souza@coutinhos.com.br#R$3300.00#Comercial
+134#Manuela Rossi Cavalcante#Yuri Thiago Cavalcante do Nascimento#Allana Rossi  #Rua Gabriela Bianchi de Luca, nº1567#49.950.571-4#(11) 96608-7034#Manuela.Cavalcante@coutinhos.com.br#R$1800.00#Comercial
+135#Antonio Marino Pires#Joao Vitor Pires da Cunha#Marina Marino do Carmo#Avenida Caio Cordeiro  , nº1857#51.389.344-1#(11) 92608-1411#Antonio.Pires@coutinhos.com.br#R$4100.00#Recursos Humanos
+136#Melissa Melo Ferreira#Gael Ferreira de Souza#Maite Melo dos Santos#Rua Maria Henrique de Oliveira, nº2407#68.214.323-2#(11) 98417-2649#Melissa.Ferreira@coutinhos.com.br#R$4400.00#Financeiro
+137#Matheus Moura Farias#Arthur Farias de Souza#Lavinia Moura  #Travessa Giovanna Moraes  , nº1589#79.660.253-2#(11) 97134-8861#Matheus.Farias@coutinhos.com.br#R$1900.00#Recursos Humanos
+138#Adriano Moretti Farias#Mathias Farias da Costa#Ana Moretti dos Reis#Alameda Caua Alves dos Santos, nº927#10.138.922-6#(11) 98437-3333#Adriano.Farias@coutinhos.com.br#R$2900.00#Estoque
+139#Gabriel Cavalcante Nogueira#Samuel Nogueira da Silva#Maite Cavalcante  #Alameda Livia Machado  , nº675#31.141.648-8#(11) 97888-3123#Gabriel.Nogueira@coutinhos.com.br#R$3800.00#Financeiro
+140#Adriano Brito Nunes#Daniel Nunes de Paula#Ana Sophia Brito  #Rua Valentina Correa  , nº1320#59.392.803-8#(11) 96928-5848#Adriano.Nunes@coutinhos.com.br#R$4600.00#Financeiro
+141#Guilherme Cavalcante Henrique#Anthony Gabriel Henrique  #Nicole Cavalcante  #Travessa Maite Araujo  , nº1404#57.946.166-4#(11) 97020-1294#Guilherme.Henrique@coutinhos.com.br#R$1800.00#Comercial
+142#Isac Andrade Braga#Yuri Thiago Braga  #Isabel Andrade de Castro#Rua Vicente Bezerra  , nº1206#68.966.880-1#(11) 95410-6958#Isac.Braga@coutinhos.com.br#R$3900.00#Estoque
+143#Pietro Campos Henrique#Enzo Henrique de Jesus#Isabella Campos da Cunha#Praça Melissa Guimaraes  , nº1007#36.582.723-9#(11) 94941-1127#Pietro.Henrique@coutinhos.com.br#R$4200.00#Financeiro
+144#Helena Correia Cordeiro#Caio Cordeiro  #Clarice Correia de Almeida#Avenida Leonardo Ferrari  , nº2354#95.724.349-6#(11) 96406-1037#Helena.Cordeiro@coutinhos.com.br#R$3300.00#Comercial
+145#Agatha Mendes Ramos#Yan Ramos  #Milena Mendes dos Santos#Alameda Antonio Reis  , nº2106#98.866.619-3#(11) 98988-3280#Agatha.Ramos@coutinhos.com.br#R$4800.00#Contabilidade
+146#Marina Barbieri Barbosa#Yago Barbosa  #Ana Julia Barbieri  #Travessa Isadora Brito  , nº655#55.845.696-2#(11) 95451-7611#Marina.Barbosa@coutinhos.com.br#R$1700.00#Estoque
+147#Bento Marques Lima#Luan Lima  #Allana Marques  #Avenida Anthony Romano da Silva, nº1019#47.899.769-7#(11) 96397-7331#Bento.Lima@coutinhos.com.br#R$4800.00#Contabilidade
+148#Isis Santana Bianchi#Otavio Bianchi do Nascimento#Maria Flor Santana  #Avenida Ketylin Mariani  , nº856#98.528.434-6#(11) 93284-8897#Isis.Bianchi@coutinhos.com.br#R$1600.00#Marketing
+149#Ana Goncalves Esposito#Gael Esposito  #Aurora Goncalves de Assis#Praça Valentina Souza de Souza, nº1154#78.947.704-3#(11) 95241-7412#Ana.Esposito@coutinhos.com.br#R$3000.00#Marketing
+150#Benicio Nogueira Ramos#Tomás Ramos da Conceicao#Ana Cecília Nogueira de Souza#Praça Marina Marques de Paula, nº1988#39.615.150-7#(11) 98137-4210#Benicio.Ramos@coutinhos.com.br#R$2700.00#Comercial
+151#Benicio Moura Araujo#Antonhy Araujo  #Stella Moura de Lima#Travessa Livia Machado  , nº516#39.334.676-3#(11) 97051-9205#Benicio.Araujo@coutinhos.com.br#R$4100.00#Estoque
+152#Lorena Barbosa Mariani#Davi Miguel Mariani  #Maria Alice Barbosa dos Santos#Praça Lorenzo Carneiro  , nº2323#51.747.976-1#(11) 92461-4267#Lorena.Mariani@coutinhos.com.br#R$2600.00#Marketing
+153#Eduarda Santos Santos#Lorenzo Santos de Araujo#Maria Helena Santos da Cruz#Travessa Anthony Carvalho da Silva, nº875#27.311.821-4#(11) 97303-9068#Eduarda.Santos@coutinhos.com.br#R$4300.00#Administrativo
+154#Matheus Bianchi Rizzo#Murilo Rizzo  #Ana Laura Bianchi  #Travessa Henrique Marino  , nº1213#85.374.331-8#(11) 98574-8922#Matheus.Rizzo@coutinhos.com.br#R$1800.00#Administrativo
+155#Guilherme Neves Barbieri#Breno Barbieri  #Emanuelly Neves  #Praça Eduardo Gallo de Assis, nº1903#47.807.842-3#(11) 95574-4855#Guilherme.Barbieri@coutinhos.com.br#R$1800.00#Comercial
+156#Daniel Souza Bezerra#Theo Bezerra de Andrade#Eduarda Souza  #Rua Eloa Vieira  , nº1938#64.800.330-6#(11) 91769-7915#Daniel.Bezerra@coutinhos.com.br#R$4000.00#Estoque
+157#Elisa Alves Esposito#Caio Esposito  #Lara Alves da Cunha#Rua Ketylin Batista  , nº2240#77.362.483-3#(11) 99307-4300#Elisa.Esposito@coutinhos.com.br#R$2100.00#Financeiro
+158#Mariana Conceicao Barbieri#Ryan Barbieri de Oliveira#Clarice Conceicao  #Avenida Lucca Gomes de Oliveira, nº216#10.736.559-5#(11) 94159-3275#Mariana.Barbieri@coutinhos.com.br#R$3200.00#Contabilidade
+159#Guilherme Silveira Leite#Nicolas Leite  #Lorena Silveira  #Praça Yasmin Soares  , nº2141#29.892.974-9#(11) 93227-8972#Guilherme.Leite@coutinhos.com.br#R$4900.00#Recursos Humanos
+160#Manuela Barros Gomes#Emanuel Gomes de Freitas#Rafaela Barros  #Alameda Vitoria Correia da Costa, nº785#56.720.726-3#(11) 92180-6572#Manuela.Gomes@coutinhos.com.br#R$1600.00#Contabilidade
+161#Lorenzo Rodrigues Freitas#Vitor Freitas  #Bella Rodrigues de Sousa#Praça Isadora Colombo  , nº1123#69.471.539-2#(11) 96834-3916#Lorenzo.Freitas@coutinhos.com.br#R$1800.00#Recursos Humanos
+162#Isabelly Cavalcante Guimaraes#Flavio Guimaraes de Lima#Heloisa Cavalcante  #Alameda Rafaela Greco  , nº586#91.161.264-6#(11) 92032-6259#Isabelly.Guimaraes@coutinhos.com.br#R$2800.00#Recursos Humanos
+163#Guilherme Cruz Colombo#Otavio Colombo  #Maria Fernanda Cruz  #Rua Gustavo Gomes  , nº1133#13.265.322-6#(11) 92561-8554#Guilherme.Colombo@coutinhos.com.br#R$4100.00#Financeiro
+164#Liz Correa Nunes#Flavio Nunes de Andrade#Heloisa Correa  #Praça Emanuel Santana  , nº917#96.859.542-5#(11) 97941-7533#Liz.Nunes@coutinhos.com.br#R$3100.00#Contabilidade
+165#Benicio Mancini Souza#Pedro Souza  #Lais Mancini de Sousa#Travessa Lara Gladys  , nº1101#43.496.213-6#(11) 93413-3492#Benicio.Souza@coutinhos.com.br#R$2100.00#Financeiro
+166#Cecilia Nogueira Alves#Matteo Alves do Nascimento#Gabriela Nogueira dos Reis#Alameda Emanuelly Pinto da Costa, nº1293#49.136.542-6#(11) 97442-8685#Cecilia.Alves@coutinhos.com.br#R$4100.00#Financeiro
+167#Giovanna Alves Rizzo#Theodoro Rizzo  #Isabel Alves de Carvalho#Praça Bento Pinheiro de Castro, nº536#55.356.836-4#(11) 93445-7033#Giovanna.Rizzo@coutinhos.com.br#R$4700.00#Marketing
+168#Isadora Colombo Cardoso#Felipe Cardoso da Conceicao#Ana Luiza Colombo  #Rua Eloa Almeida  , nº116#72.648.559-8#(11) 95882-6277#Isadora.Cardoso@coutinhos.com.br#R$2700.00#Financeiro
+169#Vitoria Batista Henrique#Davi Lucas Henrique  #Catarina Batista  #Rua Waldecir Santoro  , nº425#84.313.970-8#(11) 96953-1830#Vitoria.Henrique@coutinhos.com.br#R$2200.00#Contabilidade
+170#Lorenzo Pires Henrique#Caleb Henrique da Costa#Lavinia Pires de Jesus#Alameda Luna Cavalcante de Sousa, nº625#95.874.502-6#(11) 92981-7091#Lorenzo.Henrique@coutinhos.com.br#R$4900.00#Contabilidade
+171#Manuela Soares Carvalho#Erick Carvalho de Andrade#Heloisa Soares  #Travessa Manuela Monteiro da Conceicao, nº2216#64.478.639-9#(11) 99865-2486#Manuela.Carvalho@coutinhos.com.br#R$4500.00#Estoque
+172#Lorena Carvalho Oliveira#Pedro Lucas Oliveira  #Maria Clara Carvalho  #Praça Pedro Coelho do Carmo, nº1307#40.869.755-9#(11) 97983-8639#Lorena.Oliveira@coutinhos.com.br#R$2700.00#Marketing
+173#Theo Pinheiro Tavares#Enzo Gabriel Tavares dos Santos#Ana Beatriz Pinheiro da Conceicao#Travessa Lorenzo Silva da Silva, nº1422#92.865.715-2#(11) 98060-4531#Theo.Tavares@coutinhos.com.br#R$1700.00#Estoque
+174#Isis Carneiro Moreira#Arthur Miguel Moreira de Andrade#Lara Carneiro  #Avenida Lucas Ramos da Cunha, nº2306#65.753.830-4#(11) 99607-7587#Isis.Moreira@coutinhos.com.br#R$4900.00#Contabilidade
+175#Leticia Lopes Teixeira#Joaquim Teixeira de Araujo#Emilly Lopes de Sousa#Rua Isis Correia  , nº1293#94.352.621-9#(11) 97957-6966#Leticia.Teixeira@coutinhos.com.br#R$4000.00#Marketing
+176#Isac Nogueira Gladys#Anthony Gabriel Gladys da Cruz#Eloa Nogueira dos Santos#Alameda Elisa Pinheiro  , nº1938#48.347.979-7#(11) 98716-1754#Isac.Gladys@coutinhos.com.br#R$2400.00#Contabilidade
+177#Valentina Rodrigues Leite#Tomás Leite  #Bianca Rodrigues  #Travessa Elisa Freitas  , nº1722#73.126.378-2#(11) 91159-8900#Valentina.Leite@coutinhos.com.br#R$2200.00#Financeiro
+178#Maite Greco Jhonatta#Pedro Lucas Jhonatta de Freitas#Julia Greco  #Praça Yasmin Tavares da Costa, nº2110#90.243.594-3#(11) 94189-4051#Maite.Jhonatta@coutinhos.com.br#R$3500.00#Recursos Humanos
+179#Maite Santos Alves#Gabriel Alves  #Isis Santos  #Praça Daniel Mancini da Cunha, nº965#95.644.602-7#(11) 98787-7965#Maite.Alves@coutinhos.com.br#R$4900.00#Marketing
+180#Matheus Cavalcante Garcia#Felipe Garcia  #Sarah Cavalcante de Assis#Avenida Clara Tavares de Luca, nº1765#81.294.659-9#(11) 94774-3119#Matheus.Garcia@coutinhos.com.br#R$2900.00#Contabilidade
+181#Guilherme Melo Freitas#Leonardo Freitas  #Eduarda Melo  #Praça Eduardo Nascimento de Paula, nº456#94.131.977-2#(11) 94728-5231#Guilherme.Freitas@coutinhos.com.br#R$4400.00#Contabilidade
+182#Isadora Barbosa Sousa#Mathias Sousa  #Isis Barbosa da Cruz#Avenida Isadora Farias  , nº1042#43.418.208-5#(11) 97514-8882#Isadora.Sousa@coutinhos.com.br#R$4400.00#Administrativo
+183#Theo Nascimento Farias#Icaro Farias de Carvalho#Maria Clara Nascimento  #Rua Murilo Souza da Conceicao, nº1991#76.166.693-4#(11) 93054-8769#Theo.Farias@coutinhos.com.br#R$3300.00#Marketing
+184#Rebeca Cardoso Leite#Gael Leite  #Aurora Cardoso  #Rua Daniel Ferrari  , nº429#16.918.697-4#(11) 91976-2081#Rebeca.Leite@coutinhos.com.br#R$4300.00#Recursos Humanos
+185#Caua Cavalcante Coutinho#Antonhy Coutinho da Silva#Ana Cavalcante da Rocha#Praça Antonella Freitas  , nº1165#59.435.339-9#(11) 91104-9117#Caua.Coutinho@coutinhos.com.br#R$3200.00#Comercial
+186#Eliane Freitas Fontana#Ravi Fontana de Souza#Helena Freitas  #Rua Sophia Alves  , nº706#59.199.967-4#(11) 99101-6044#Eliane.Fontana@coutinhos.com.br#R$2300.00#Recursos Humanos
+187#Maria Neves Mancini#Josue Mancini  #Maria Flor Neves  #Rua Heitor Barbosa  , nº1609#50.277.462-4#(11) 94863-8347#Maria.Mancini@coutinhos.com.br#R$1500.00#Financeiro
+188#Francisco Mariani Monteiro#Nathan Monteiro  #Ana Liz Mariani de Castro#Avenida Luiza Dantas  , nº1142#13.140.860-7#(11) 95072-8511#Francisco.Monteiro@coutinhos.com.br#R$3300.00#Marketing
+189#Eloa Ricci Cardoso#Heitor Cardoso de Almeida#Sarah Ricci  #Alameda Larissa Farias da Silva, nº495#36.347.647-7#(11) 96077-3294#Eloa.Cardoso@coutinhos.com.br#R$1700.00#Financeiro
+190#Anderson Soares Gladys#Rodrigo Gladys  #Elisa Soares  #Avenida Antonella Pires  , nº1206#11.426.283-7#(11) 91970-3659#Anderson.Gladys@coutinhos.com.br#R$1900.00#Recursos Humanos
+191#Luna Tavares Moraes#Yago Moraes  #Ayla Tavares de Andrade#Praça Rebeca Coutinho  , nº198#19.936.970-6#(11) 96063-4869#Luna.Moraes@coutinhos.com.br#R$3800.00#Administrativo
+192#Silvanio Bianchi Souza#Breno Souza do Carmo#Sophia Bianchi dos Santos#Rua Laura Nogueira  , nº1489#39.115.574-7#(11) 93219-7553#Silvanio.Souza@coutinhos.com.br#R$3800.00#Estoque
+193#Giovanna Moura Bezerra#Davi Lucca Bezerra de Araujo#Leticia Moura  #Praça Vinicius Barbieri de Assis, nº281#73.128.269-4#(11) 96372-5519#Giovanna.Bezerra@coutinhos.com.br#R$3600.00#Administrativo
+194#Leonardo Carneiro Russo#Noah Russo da Silva#Pietra Carneiro de Souza#Avenida Leticia Costa de Almeida, nº752#65.856.411-3#(11) 93045-6223#Leonardo.Russo@coutinhos.com.br#R$3700.00#Estoque
+195#Nicolas Sousa Duarte#Joao Vitor Duarte  #Maria Vitoria Sousa da Costa#Avenida Giovanna Nogueira  , nº343#34.151.482-8#(11) 93326-1012#Nicolas.Duarte@coutinhos.com.br#R$1900.00#Recursos Humanos
+196#Augusto Coutinho Santoro#Ravi Santoro  #Maria Isis Coutinho de Sousa#Rua Benjamin Pires  , nº216#42.508.431-3#(11) 99887-2797#Augusto.Santoro@coutinhos.com.br#R$1800.00#Comercial
+197#Ana Batista Rizzo#Nathan Rizzo de Luca#Antonella Batista da Rocha#Rua Enzo Greco  , nº2366#25.872.273-8#(11) 92155-5488#Ana.Rizzo@coutinhos.com.br#R$4400.00#Marketing
+198#Beatriz Henrique Oliveira#Oliver Oliveira  #Gabriela Henrique  #Alameda Heitor Garcia  , nº1378#84.558.642-3#(11) 96953-2389#Beatriz.Oliveira@coutinhos.com.br#R$1900.00#Contabilidade
+199#Murilo Leite Cruz#Lucas Gabriel Cruz de Lima#Mariana Leite  #Avenida Vitoria Viana da Costa, nº1123#92.475.562-3#(11) 96123-7096#Murilo.Cruz@coutinhos.com.br#R$4100.00#Contabilidade
+200#Sarah Coutinho Batista#Guilherme Batista da Conceicao#Maria Sophia Coutinho  #Travessa Maite Braga dos Reis, nº2177#72.935.882-9#(11) 94168-3245#Sarah.Batista@coutinhos.com.br#R$4100.00#Financeiro
+201#Julia Pinto Moreira#Antonio Moreira  #Maria Valentina Pinto de Sousa#Praça Larissa Tavares de Paula, nº2012#61.569.960-7#(11) 91608-3177#Julia.Moreira@coutinhos.com.br#R$2000.00#Comercial
+202#Bernardo Jhonatta Ferrari#Joao Lucas Ferrari de Andrade#Maria Vitoria Jhonatta  #Praça Vitoria Viana  , nº2228#75.247.294-1#(11) 92447-9312#Bernardo.Ferrari@coutinhos.com.br#R$3200.00#Marketing
+203#Samuel Costa Silva#Rafael Silva de Paula#Isis Costa de Castro#Praça Lara Russo  , nº124#51.755.379-4#(11) 98903-4093#Samuel.Silva@coutinhos.com.br#R$2600.00#Marketing
+204#Marina Marino Pereira#Arthur Gabriel Pereira da Silva#Leticia Marino  #Alameda Isadora Pereira  , nº1380#57.768.257-6#(11) 94579-6162#Marina.Pereira@coutinhos.com.br#R$4800.00#Estoque
+205#Nicole Aparecido Bianchi#Caio Bianchi  #Catarina Aparecido dos Reis#Praça Samuel Borges da Costa, nº514#58.218.867-7#(11) 94292-3756#Nicole.Bianchi@coutinhos.com.br#R$3600.00#Administrativo
+206#Anderson Nunes Araujo#Isac Araujo da Costa#Perola Nunes de Araujo#Rua Augusto Ramos dos Santos, nº2296#80.284.639-2#(11) 92264-4696#Anderson.Araujo@coutinhos.com.br#R$2600.00#Recursos Humanos
+207#Eduardo Carvalho Almeida#Jose Almeida dos Santos#Rafaela Carvalho de Luca#Travessa Marina Andrade de Andrade, nº1629#88.861.706-7#(11) 91670-5130#Eduardo.Almeida@coutinhos.com.br#R$4000.00#Estoque
+208#Isadora Bezerra Rocha#Daniel Rocha  #Melina Bezerra  #Alameda Gabriel Henrique da Costa, nº2390#56.146.861-1#(11) 99943-9955#Isadora.Rocha@coutinhos.com.br#R$4800.00#Administrativo
+209#Eduardo Moreira Gladys#Murilo Gladys de Paula#Valentina Moreira de Andrade#Alameda Antonio Guimaraes de Assis, nº1576#63.118.663-4#(11) 95660-2101#Eduardo.Gladys@coutinhos.com.br#R$1500.00#Comercial
+210#Bryan Colombo Rizzo#Flavio Rizzo da Silva#Ana Beatriz Colombo  #Avenida Bryan Rocha de Andrade, nº1092#88.962.344-6#(11) 91988-9131#Bryan.Rizzo@coutinhos.com.br#R$2100.00#Comercial
+211#Gabriela Correia Medeiros#Yuri Thiago Medeiros  #Ana Laura Correia de Freitas#Rua Isis Viana  , nº1747#13.956.737-9#(11) 94739-7898#Gabriela.Medeiros@coutinhos.com.br#R$2500.00#Estoque
+212#Heitor Rossi Nogueira#Derick Nogueira  #Olivia Rossi de Lima#Rua Samuel Greco da Conceicao, nº275#95.864.549-7#(11) 91311-1679#Heitor.Nogueira@coutinhos.com.br#R$4700.00#Comercial
+213#Sarah Almeida Garcia#Gustavo Garcia  #Ana Vitoria Almeida  #Rua Bryan Coelho do Carmo, nº233#46.994.832-8#(11) 99819-8061#Sarah.Garcia@coutinhos.com.br#R$2900.00#Marketing
+214#Kaique Alves Gladys#Davi Lucas Gladys de Almeida#Malu Alves  #Praça Waldecir Andrade  , nº1832#91.717.893-9#(11) 98063-5732#Kaique.Gladys@coutinhos.com.br#R$2900.00#Comercial
+215#Bernardo Braga Campos#Yuri Thiago Campos do Carmo#Malu Braga da Cruz#Praça Caio Oliveira de Oliveira, nº1995#85.493.802-1#(11) 96368-4811#Bernardo.Campos@coutinhos.com.br#R$4000.00#Contabilidade
+216#Larissa Rodrigues Machado#Pietro Machado de Assis#Maria Vitoria Rodrigues  #Travessa Lucas Siqueira  , nº2427#48.471.892-6#(11) 97980-1663#Larissa.Machado@coutinhos.com.br#R$2300.00#Financeiro
+217#Gael Bezerra Barbosa#Vitor Barbosa  #Olivia Bezerra de Assis#Avenida Rafaela Leite da Rocha, nº2005#30.160.793-4#(11) 91555-5912#Gael.Barbosa@coutinhos.com.br#R$3100.00#Marketing
+218#Caleb Alves Moraes#Isac Moraes  #Esther Alves de Melo#Alameda Emanuel Freitas de Paula, nº1706#47.710.166-3#(11) 99622-1611#Caleb.Moraes@coutinhos.com.br#R$1500.00#Estoque
+219#Agatha Aparecido Bezerra#Icaro Bezerra de Freitas#Fernanda Aparecido de Assis#Travessa Beatriz Nunes  , nº1673#44.846.310-3#(11) 95755-9061#Agatha.Bezerra@coutinhos.com.br#R$3500.00#Financeiro
+220#Giovanna Sousa Vieira#Arthur Gabriel Vieira  #Eduarda Sousa da Silva#Rua Maite Goncalves  , nº167#85.792.949-5#(11) 95829-2054#Giovanna.Vieira@coutinhos.com.br#R$3800.00#Contabilidade
+221#Mariana Moretti Freitas#Samuel Freitas da Costa#Ana Moretti  #Praça Luiza Araujo  , nº1742#56.137.133-5#(11) 96328-4899#Mariana.Freitas@coutinhos.com.br#R$2500.00#Contabilidade
+222#Maite Campos Araujo#Pedro Henrique Araujo  #Isabel Campos do Nascimento#Praça Francisco Sousa dos Santos, nº1928#37.600.849-4#(11) 93657-1991#Maite.Araujo@coutinhos.com.br#R$2700.00#Comercial
+223#Davi Campos Araujo#Derick Araujo de Araujo#Larissa Campos de Andrade#Travessa Sophia Carvalho do Carmo, nº854#24.394.656-1#(11) 97492-2184#Davi.Araujo@coutinhos.com.br#R$3100.00#Comercial
+224#Larissa Bianchi Siqueira#Joao Pedro Siqueira de Paula#Catarina Bianchi de Araujo#Travessa Arthur Bezerra  , nº1162#92.849.381-2#(11) 95896-4900#Larissa.Siqueira@coutinhos.com.br#R$4700.00#Financeiro
+225#Caio Neves Silva#Augusto Silva da Rocha#Louise Neves dos Santos#Travessa Miguel Gallo de Andrade, nº586#14.901.948-8#(11) 95421-1615#Caio.Silva@coutinhos.com.br#R$2100.00#Estoque
+226#Alice Correia Pinheiro#Guilherme Pinheiro de Castro#Analu Correia de Freitas#Rua Heloísa Martins  , nº352#24.901.125-3#(11) 96840-9190#Alice.Pinheiro@coutinhos.com.br#R$4900.00#Marketing
+227#Isac Rocha Reis#Samuel Reis do Carmo#Malu Rocha  #Rua Antonella Borges de Assis, nº2187#96.467.788-6#(11) 99704-4179#Isac.Reis@coutinhos.com.br#R$3600.00#Recursos Humanos
+228#Sarah Medeiros Barros#Davi Lucca Barros  #Valentina Medeiros da Cruz#Travessa Theo Campos  , nº1477#48.196.908-6#(11) 96666-4125#Sarah.Barros@coutinhos.com.br#R$2000.00#Marketing
+229#Eloa Conceicao Marino#Joao Vitor Marino de Lima#Maria Fernanda Conceicao  #Travessa Pietro Jhonatta  , nº2079#39.736.133-2#(11) 92651-6494#Eloa.Marino@coutinhos.com.br#R$3900.00#Comercial
+230#Alice Russo Ribeiro#Pedro Henrique Ribeiro dos Santos#Ana Beatriz Russo  #Rua Valentina Nascimento  , nº712#86.498.884-2#(11) 99887-8719#Alice.Ribeiro@coutinhos.com.br#R$3600.00#Marketing
+231#Murilo Melo Martins#Noah Martins de Jesus#Gabrielly Melo  #Avenida Gabriela Ricci de Araujo, nº350#88.273.818-5#(11) 95244-1551#Murilo.Martins@coutinhos.com.br#R$3200.00#Recursos Humanos
+232#Isac Silva Henrique#Raul Henrique  #Maria Vitoria Silva  #Praça Marina Ferrari  , nº807#57.338.929-3#(11) 98411-2820#Isac.Henrique@coutinhos.com.br#R$2800.00#Administrativo
+233#Agatha Correia Duarte#Davi Duarte de Oliveira#Maya Correia de Castro#Praça Heitor Viana dos Santos, nº1181#87.779.850-3#(11) 97086-3327#Agatha.Duarte@coutinhos.com.br#R$4300.00#Administrativo
+234#Emanuel Campos Rodrigues#Pedro Miguel Rodrigues dos Reis#Ana Cecília Campos de Lima#Rua Caua Henrique  , nº1035#24.886.957-8#(11) 95753-9105#Emanuel.Rodrigues@coutinhos.com.br#R$1800.00#Administrativo
+235#Yasmin Cavalcante Freitas#Joao Freitas  #Leticia Cavalcante  #Praça Nicolas Garcia  , nº1548#53.519.552-9#(11) 96397-3678#Yasmin.Freitas@coutinhos.com.br#R$3000.00#Administrativo
+236#Eliane Barros Cruz#Arthur Miguel Cruz  #Isabel Barros de Castro#Rua Lavinia Borges de Lima, nº1042#36.394.651-1#(11) 99474-7237#Eliane.Cruz@coutinhos.com.br#R$2100.00#Estoque
+237#Kaique Cordeiro Viana#Davi Miguel Viana de Lima#Gabrielly Cordeiro  #Avenida Matheus Vieira de Luca, nº1662#67.122.200-2#(11) 98984-5232#Kaique.Viana@coutinhos.com.br#R$4400.00#Financeiro
+238#Ana Nunes Siqueira#Joao Gabriel Siqueira  #Maria Fernanda Nunes  #Avenida Theo Araujo  , nº814#96.492.516-4#(11) 97737-7564#Ana.Siqueira@coutinhos.com.br#R$2400.00#Administrativo
+239#Nicolas Santos Farias#Luiz Miguel Farias  #Fernanda Santos da Costa#Alameda Theo Aparecido  , nº1736#78.373.140-6#(11) 97875-4228#Nicolas.Farias@coutinhos.com.br#R$2700.00#Marketing
+240#Bernardo Fernandes Cardoso#Luiz Felipe Cardoso  #Nicole Fernandes dos Reis#Alameda Eloa Melo  , nº1326#50.772.986-7#(11) 99975-4004#Bernardo.Cardoso@coutinhos.com.br#R$3600.00#Contabilidade
+241#Lucas Cardoso Brito#Jose Brito  #Helena Cardoso  #Alameda Lorena Goncalves  , nº980#80.515.574-1#(11) 96428-9467#Lucas.Brito@coutinhos.com.br#R$3500.00#Financeiro
+242#Antonella Lopes Farias#Joaquim Farias  #Lais Lopes dos Reis#Praça Caio Tavares  , nº2069#50.479.531-6#(11) 99772-6238#Antonella.Farias@coutinhos.com.br#R$3200.00#Administrativo
+243#Luna Vieira Cavalcante#Caua Cavalcante  #Nicole Vieira de Souza#Avenida Isis Correa de Assis, nº1707#92.872.691-2#(11) 91306-3803#Luna.Cavalcante@coutinhos.com.br#R$3000.00#Marketing
+244#Pietro Nunes Siqueira#Eduardo Siqueira  #Ana Clara Nunes  #Travessa Joao Mendes  , nº1948#49.856.560-6#(11) 92143-5447#Pietro.Siqueira@coutinhos.com.br#R$4000.00#Recursos Humanos
+245#Benicio Aparecido Teixeira#Josue Teixeira  #Ana Julia Aparecido  #Avenida Joao Moreira  , nº1321#19.901.586-6#(11) 97890-3472#Benicio.Teixeira@coutinhos.com.br#R$4000.00#Marketing
+246#Nicole Henrique Correia#Enzo Correia da Silva#Maya Henrique  #Avenida Felipe Gomes da Cunha, nº791#49.451.313-3#(11) 99606-4439#Nicole.Correia@coutinhos.com.br#R$2700.00#Estoque
+247#Maria Rocha Correa#Gustavo Correa de Luca#Luna Rocha da Costa#Rua Daniel Mariani  , nº2474#76.735.255-5#(11) 96893-7325#Maria.Correa@coutinhos.com.br#R$3100.00#Marketing
+248#Rafaela Coutinho Jhonatta#Martin Jhonatta do Nascimento#Malu Coutinho  #Rua Joaquim Moretti  , nº686#50.483.912-4#(11) 98499-5357#Rafaela.Jhonatta@coutinhos.com.br#R$4400.00#Comercial
+249#Antonella Soares Dias#Joaquim Dias  #Ana Luiza Soares de Lima#Rua Bento Farias  , nº44#29.427.599-7#(11) 91150-9110#Antonella.Dias@coutinhos.com.br#R$2700.00#Estoque
+250#Luna Moura Correa#Daniel Correa  #Helena Moura  #Travessa Felipe Coelho  , nº650#24.960.879-2#(11) 92055-5702#Luna.Correa@coutinhos.com.br#R$2800.00#Comercial
+251#Kaique Souza Garcia#Lucca Garcia de Jesus#Esther Souza  #Praça Laura Teixeira  , nº1158#68.249.941-6#(11) 99923-1053#Kaique.Garcia@coutinhos.com.br#R$3500.00#Recursos Humanos
+252#Gabriela Ribeiro Carvalho#Luiz Miguel Carvalho dos Reis#Clarice Ribeiro da Conceicao#Travessa Eloa Teixeira  , nº118#22.620.223-9#(11) 99492-4005#Gabriela.Carvalho@coutinhos.com.br#R$2700.00#Comercial
+253#Maria Cordeiro Oliveira#Jose Oliveira  #Julia Cordeiro  #Rua Esther Carvalho de Assis, nº386#81.352.714-7#(11) 96821-1277#Maria.Oliveira@coutinhos.com.br#R$4100.00#Recursos Humanos
+254#Theo Tavares Vieira#Nicolas Vieira de Luca#Ana Luiza Tavares da Costa#Praça Gabriela Garcia  , nº1317#26.395.756-1#(11) 99154-5220#Theo.Vieira@coutinhos.com.br#R$2700.00#Comercial
+255#Esther Bezerra Esposito#Levi Esposito da Costa#Lais Bezerra  #Rua Antonella Teixeira  , nº1408#87.533.152-9#(11) 99403-1781#Esther.Esposito@coutinhos.com.br#R$4200.00#Comercial
+256#Joao Dias Santana#Caua Santana  #Melina Dias  #Rua Heloísa Garcia  , nº1360#85.792.424-7#(11) 98719-6523#Joao.Santana@coutinhos.com.br#R$3400.00#Administrativo
+257#Yasmin Conceicao Coutinho#Davi Coutinho  #Maria Clara Conceicao  #Travessa Benicio Silva da Cruz, nº265#91.497.505-5#(11) 91927-5375#Yasmin.Coutinho@coutinhos.com.br#R$4400.00#Marketing
+258#Waldecir Gallo Henrique#Bryan Henrique de Paula#Ana Clara Gallo de Sousa#Praça Arthur Nunes  , nº1986#36.320.439-6#(11) 97105-2937#Waldecir.Henrique@coutinhos.com.br#R$3200.00#Recursos Humanos
+259#Maite Freitas Mancini#Yago Mancini  #Esther Freitas  #Travessa Esther Correa da Conceicao, nº1060#35.976.842-3#(11) 98176-2112#Maite.Mancini@coutinhos.com.br#R$3900.00#Estoque
+260#Francisco Barbosa Barros#Erick Barros  #Lara Barbosa de Oliveira#Avenida Rafael Andrade  , nº1338#15.268.505-1#(11) 98108-8323#Francisco.Barros@coutinhos.com.br#R$3100.00#Financeiro
+261#Theo Moreira Moretti#Otto Moretti de Castro#Perola Moreira de Sousa#Travessa Eliane Nogueira de Melo, nº1796#18.475.728-2#(11) 95322-8658#Theo.Moretti@coutinhos.com.br#R$3200.00#Comercial
+262#Waldecir Bianchi Viana#Benicio Viana da Costa#Gabriela Bianchi de Andrade#Alameda Rebeca Rodrigues dos Santos, nº1155#51.405.774-7#(11) 98062-5851#Waldecir.Viana@coutinhos.com.br#R$3200.00#Financeiro
+263#Laura Fontana Lopes#Enzo Gabriel Lopes de Melo#Melissa Fontana  #Praça Joao Monteiro  , nº2065#14.782.517-2#(11) 92950-5310#Laura.Lopes@coutinhos.com.br#R$1800.00#Recursos Humanos
+264#Isis Marques Bezerra#Gustavo Bezerra de Carvalho#Alice Marques  #Alameda Leonardo Romano de Paula, nº2104#16.344.968-6#(11) 92000-6950#Isis.Bezerra@coutinhos.com.br#R$2600.00#Comercial
+265#Luna Aparecido Marques#Vicente Marques de Araujo#Maria Sophia Aparecido de Sousa#Praça Felipe Romano  , nº2496#92.180.319-8#(11) 98013-1772#Luna.Marques@coutinhos.com.br#R$2000.00#Administrativo
+266#Liz Cruz Fernandes#Arthur Miguel Fernandes  #Milena Cruz de Sousa#Rua Julia Bezerra de Assis, nº284#39.564.754-3#(11) 94124-7062#Liz.Fernandes@coutinhos.com.br#R$1900.00#Marketing
+267#Nicole Martins Andrade#Josue Andrade  #Ana Clara Martins de Almeida#Alameda Larissa Costa de Assis, nº2489#86.227.245-4#(11) 94662-2137#Nicole.Andrade@coutinhos.com.br#R$4700.00#Contabilidade
+268#Arthur Souza Costa#Anthony Gabriel Costa  #Malu Souza  #Praça Gael Coutinho de Melo, nº2146#27.309.373-4#(11) 99920-4426#Arthur.Costa@coutinhos.com.br#R$3700.00#Comercial
+269#Pietro Carneiro Coelho#Tomás Coelho da Cunha#Emilly Carneiro  #Travessa Helena Barbosa do Nascimento, nº835#62.447.314-8#(11) 93064-2045#Pietro.Coelho@coutinhos.com.br#R$2600.00#Contabilidade
+270#Caua Lopes Neves#Kaue Neves de Araujo#Heloise Lopes  #Praça Vinicius Fontana  , nº284#85.359.466-8#(11) 94242-2103#Caua.Neves@coutinhos.com.br#R$3000.00#Recursos Humanos
+271#Joao Melo Andrade#Valentim Andrade  #Rafaela Melo  #Alameda Isis Vieira  , nº1186#89.226.160-2#(11) 92297-7106#Joao.Andrade@coutinhos.com.br#R$1500.00#Contabilidade
+272#Livia Almeida Carneiro#Rafael Carneiro de Melo#Larissa Almeida de Castro#Praça Luiza Andrade de Carvalho, nº2268#46.670.397-2#(11) 91809-2284#Livia.Carneiro@coutinhos.com.br#R$3300.00#Comercial
+273#Elisa Santana Freitas#Antonio Freitas da Cruz#Joana Santana  #Praça Helena Aparecido  , nº1464#20.580.540-7#(11) 96316-2704#Elisa.Freitas@coutinhos.com.br#R$2300.00#Administrativo
+274#Vinicius Cardoso Vieira#Derick Vieira de Souza#Clara Cardoso  #Avenida Rafael Santana  , nº1425#62.591.444-8#(11) 98874-2925#Vinicius.Vieira@coutinhos.com.br#R$3800.00#Comercial
+275#Marina Goncalves Martins#Lucca Martins de Carvalho#Isabelly Goncalves  #Alameda Lorenzo Lima de Melo, nº759#15.778.576-2#(11) 98322-2345#Marina.Martins@coutinhos.com.br#R$3900.00#Marketing
+276#Alice Coutinho Nunes#Erick Nunes de Carvalho#Bianca Coutinho da Costa#Avenida Henrique Aparecido  , nº2247#70.677.622-7#(11) 99516-9862#Alice.Nunes@coutinhos.com.br#R$2500.00#Administrativo
+277#Luna Barbieri Melo#Joao Lucas Melo de Almeida#Larissa Barbieri  #Travessa Bryan Leite  , nº1775#96.349.729-5#(11) 92441-5727#Luna.Melo@coutinhos.com.br#R$3800.00#Contabilidade
+278#Yasmin Freitas Bezerra#Mathias Bezerra  #Ana Vitoria Freitas  #Avenida Sophia Neves  , nº410#77.228.307-5#(11) 97643-9785#Yasmin.Bezerra@coutinhos.com.br#R$2000.00#Recursos Humanos
+279#Pietro Ramos Conti#Eduardo Conti da Costa#Heloise Ramos de Araujo#Alameda Gael Soares  , nº2246#50.676.203-6#(11) 95625-4534#Pietro.Conti@coutinhos.com.br#R$4700.00#Recursos Humanos
+280#Isabella Fernandes Viana#Eduardo Viana  #Maria Clara Fernandes  #Alameda Waldecir Tavares de Almeida, nº975#83.346.340-8#(11) 96434-5806#Isabella.Viana@coutinhos.com.br#R$2000.00#Estoque
+281#Alice Moretti Nogueira#Arthur Nogueira de Almeida#Marina Moretti de Sousa#Praça Antonella Barbieri  , nº2103#57.376.609-5#(11) 99105-6732#Alice.Nogueira@coutinhos.com.br#R$2000.00#Administrativo
+282#Valentina Borges Vieira#Ryan Vieira de Castro#Heloise Borges da Costa#Praça Anthony Nogueira  , nº843#18.442.214-5#(11) 94155-5965#Valentina.Vieira@coutinhos.com.br#R$3400.00#Administrativo
+283#Bernardo Araujo Santana#Miguel Santana  #Louise Araujo do Nascimento#Rua Isabella Lombardi  , nº1940#37.761.362-6#(11) 96490-9719#Bernardo.Santana@coutinhos.com.br#R$3400.00#Marketing
+284#Pietro Araujo Rocha#Leonardo Rocha  #Melinda Araujo  #Travessa Anderson Romano  , nº379#18.892.949-6#(11) 97880-5737#Pietro.Rocha@coutinhos.com.br#R$1500.00#Recursos Humanos
+285#Esther Barros Conti#Ryan Conti  #Isadora Barros  #Travessa Daniel Farias de Paula, nº1743#50.802.526-1#(11) 93722-7243#Esther.Conti@coutinhos.com.br#R$3600.00#Contabilidade
+286#Ketylin Almeida Coutinho#Benjamin Coutinho  #Gabrielly Almeida  #Praça Emanuel Mariani  , nº1446#24.137.663-9#(11) 99613-6209#Ketylin.Coutinho@coutinhos.com.br#R$2600.00#Contabilidade
+287#Eliane Jhonatta Rossi#Tomás Rossi de Souza#Yasmin Jhonatta da Cunha#Avenida Lorenzo Correa  , nº1703#65.429.828-1#(11) 97344-8414#Eliane.Rossi@coutinhos.com.br#R$1500.00#Marketing
+288#Miguel Monteiro Aparecido#Enrico Aparecido de Sousa#Aurora Monteiro de Jesus#Praça Ketylin Rizzo  , nº89#45.272.728-8#(11) 95497-7990#Miguel.Aparecido@coutinhos.com.br#R$2400.00#Comercial
+289#Matheus Coelho Alves#Augusto Alves  #Antonella Coelho de Oliveira#Travessa Nicolas Farias do Nascimento, nº971#19.870.141-3#(11) 93913-9908#Matheus.Alves@coutinhos.com.br#R$4800.00#Recursos Humanos
+290#Vinicius Ferrari Viana#Joao Lucas Viana  #Maya Ferrari de Andrade#Travessa Luiza Alves de Andrade, nº224#58.732.331-7#(11) 99148-2344#Vinicius.Viana@coutinhos.com.br#R$4300.00#Comercial
+291#Bryan Silveira Marino#Vinicius Marino da Costa#Isabel Silveira de Jesus#Travessa Enzo Barbosa de Jesus, nº345#79.129.573-5#(11) 97194-5430#Bryan.Marino@coutinhos.com.br#R$3800.00#Contabilidade
+292#Joaquim Mendes Pires#Lucas Pires da Rocha#Lais Mendes da Costa#Rua Eloa Ricci da Rocha, nº1659#40.646.322-1#(11) 94242-2308#Joaquim.Pires@coutinhos.com.br#R$4700.00#Estoque
+293#Antonella Carneiro Mancini#Nicolas Mancini do Nascimento#Maria Eduarda Carneiro dos Santos#Travessa Murilo Ferreira de Andrade, nº510#77.417.452-5#(11) 98860-3944#Antonella.Mancini@coutinhos.com.br#R$1500.00#Financeiro
+294#Rebeca Ramos Santos#Bernardo Santos  #Luna Ramos de Carvalho#Praça Isadora Aparecido  , nº1914#38.710.472-5#(11) 94480-5650#Rebeca.Santos@coutinhos.com.br#R$4800.00#Financeiro
+295#Larissa Correa Gallo#Yan Gallo  #Maria Eduarda Correa  #Travessa Isabella Soares  , nº1142#71.639.381-9#(11) 94267-5492#Larissa.Gallo@coutinhos.com.br#R$3900.00#Comercial
+296#Eliane Souza Campos#Luiz Miguel Campos  #Maria Helena Souza de Melo#Rua Gael Mariani de Castro, nº2496#45.363.508-8#(11) 92221-6596#Eliane.Campos@coutinhos.com.br#R$1900.00#Comercial
+297#Caio Santana Gomes#Joao Gomes de Andrade#Luiza Santana  #Alameda Bernardo Henrique  , nº1142#56.278.791-9#(11) 91904-4541#Caio.Gomes@coutinhos.com.br#R$1800.00#Administrativo
+298#Theo Barbosa Santoro#Matteo Santoro de Souza#Lara Barbosa de Paula#Avenida Elisa Neves dos Santos, nº1967#51.738.696-7#(11) 96326-8134#Theo.Santoro@coutinhos.com.br#R$1700.00#Administrativo
+299#Joaquim Marino Borges#Leonardo Borges de Andrade#Cecilia Marino de Almeida#Avenida Theo Siqueira  , nº1776#58.882.748-4#(11) 95141-8774#Joaquim.Borges@coutinhos.com.br#R$4400.00#Contabilidade
+300#Gael Gladys Ferrari#Joaquim Ferrari  #Heloise Gladys de Freitas#Alameda Nayan Carvalho  , nº998#88.581.410-8#(11) 99809-9034#Gael.Ferrari@coutinhos.com.br#R$3700.00#Financeiro
+301#Augusto Guimaraes Melo#Nicolas Melo de Melo#Carolina Guimaraes de Almeida#Praça Alice Romano  , nº1816#36.368.487-6#(11) 94564-6491#Augusto.Melo@coutinhos.com.br#R$3500.00#Estoque
+302#Valentina Machado Nascimento#Hugo Nascimento  #Ana Cecília Machado  #Praça Caio Nascimento da Costa, nº1183#87.307.813-1#(11) 94291-5455#Valentina.Nascimento@coutinhos.com.br#R$3300.00#Contabilidade
+303#Joaquim Nogueira Monteiro#Joao Pedro Monteiro  #Isabelly Nogueira  #Avenida Sophia Gomes  , nº514#79.945.720-2#(11) 91720-6384#Joaquim.Monteiro@coutinhos.com.br#R$2300.00#Contabilidade
+304#Liz Santoro Nogueira#Pedro Lucas Nogueira  #Louise Santoro do Carmo#Avenida Lara Rocha de Souza, nº816#88.933.127-9#(11) 95956-2869#Liz.Nogueira@coutinhos.com.br#R$4800.00#Recursos Humanos
+305#Liz Batista Marino#Vinicius Marino dos Santos#Isadora Batista dos Santos#Travessa Alicia Colombo de Luca, nº417#52.349.356-2#(11) 91673-2423#Liz.Marino@coutinhos.com.br#R$1900.00#Comercial
+306#Daniel Marino Ferreira#Ryan Ferreira  #Nicole Marino de Almeida#Travessa Manuela Santoro  , nº2227#42.583.913-1#(11) 96229-1819#Daniel.Ferreira@coutinhos.com.br#R$2700.00#Contabilidade
+307#Benicio Rocha Ferreira#Benjamin Ferreira  #Maria Heloisa Rocha de Paula#Travessa Enzo Reis de Araujo, nº708#46.454.555-9#(11) 96600-6700#Benicio.Ferreira@coutinhos.com.br#R$1500.00#Marketing
+308#Gabriel Souza Borges#Nicolas Borges de Assis#Eduarda Souza  #Avenida Henrique Brito  , nº1867#20.801.286-2#(11) 96737-2735#Gabriel.Borges@coutinhos.com.br#R$4300.00#Comercial
+309#Joao Romano Giordano#Thomas Giordano  #Rebeca Romano da Costa#Travessa Pedro Lopes  , nº2207#55.773.923-4#(11) 95299-9767#Joao.Giordano@coutinhos.com.br#R$3300.00#Contabilidade
+310#Mariana Moretti Correia#Theo Correia de Melo#Giovanna Moretti da Rocha#Rua Davi Siqueira  , nº438#74.219.341-4#(11) 97625-2973#Mariana.Correia@coutinhos.com.br#R$2000.00#Estoque
+311#Isabella Coelho Coelho#Henrique Coelho  #Eloa Coelho da Costa#Praça Luna Siqueira  , nº2163#36.629.692-6#(11) 99877-9210#Isabella.Coelho@coutinhos.com.br#R$2000.00#Comercial
+312#Valentina Gladys Almeida#Luiz Felipe Almeida da Rocha#Manuela Gladys  #Rua Nicole Silveira  , nº315#55.731.242-1#(11) 99037-3853#Valentina.Almeida@coutinhos.com.br#R$4800.00#Recursos Humanos
+313#Anthony Moraes Almeida#Theo Almeida  #Isis Moraes  #Alameda Waldecir Neves  , nº581#19.686.879-4#(11) 95434-5355#Anthony.Almeida@coutinhos.com.br#R$3400.00#Marketing
+314#Luna Almeida Siqueira#Anthony Gabriel Siqueira  #Rafaela Almeida  #Alameda Pedro Fontana de Assis, nº764#16.595.572-8#(11) 92339-2282#Luna.Siqueira@coutinhos.com.br#R$4800.00#Financeiro
+315#Francisco Marques Cruz#Lucas Gabriel Cruz de Jesus#Esther Marques  #Travessa Waldecir Marino  , nº2391#34.662.377-4#(11) 95141-2332#Francisco.Cruz@coutinhos.com.br#R$1800.00#Estoque
+316#Livia Silveira Dantas#Erick Dantas do Nascimento#Isabelly Silveira de Assis#Travessa Joaquim Sousa de Assis, nº1786#14.165.336-7#(11) 91384-8023#Livia.Dantas@coutinhos.com.br#R$2300.00#Financeiro
+317#Gabriela Conti Lombardi#Arthur Gabriel Lombardi  #Gabriela Conti  #Alameda Benjamin Teixeira da Costa, nº1207#93.475.571-2#(11) 91272-7349#Gabriela.Lombardi@coutinhos.com.br#R$3500.00#Comercial
+318#Matheus Coutinho Moreira#Emanuel Moreira  #Ana Luiza Coutinho dos Santos#Travessa Henrique Aparecido de Assis, nº2466#51.767.131-7#(11) 92458-2719#Matheus.Moreira@coutinhos.com.br#R$3800.00#Administrativo
+319#Rebeca Ribeiro Correia#Pedro Miguel Correia dos Santos#Mariah Ribeiro  #Travessa Laura Ferrari  , nº1716#40.796.639-6#(11) 92873-3288#Rebeca.Correia@coutinhos.com.br#R$2100.00#Marketing
+320#Ana Miranda Pinheiro#Davi Lucas Pinheiro  #Melina Miranda  #Avenida Mariana Ricci de Castro, nº2033#89.574.644-3#(11) 99982-8494#Ana.Pinheiro@coutinhos.com.br#R$3700.00#Comercial
+321#Gabriel Pinheiro Dias#Joao Guilherme Dias  #Allana Pinheiro dos Santos#Travessa Eliane Melo da Costa, nº133#94.203.477-1#(11) 97263-3757#Gabriel.Dias@coutinhos.com.br#R$2700.00#Administrativo
+322#Rebeca Neves Vieira#Antonhy Vieira do Nascimento#Yasmin Neves da Costa#Alameda Lorena Gomes  , nº2338#51.727.304-1#(11) 93200-7526#Rebeca.Vieira@coutinhos.com.br#R$2800.00#Marketing
+323#Lorenzo Correa Russo#Gustavo Russo da Costa#Allana Correa de Lima#Alameda Bryan Siqueira de Jesus, nº1990#37.854.814-8#(11) 98303-1945#Lorenzo.Russo@coutinhos.com.br#R$2200.00#Financeiro
+324#Luiza Pinto Henrique#Enzo Henrique de Freitas#Ana Beatriz Pinto  #Praça Arthur Pereira de Souza, nº2249#10.448.317-1#(11) 99499-3147#Luiza.Henrique@coutinhos.com.br#R$3600.00#Recursos Humanos
+325#Nicolas Carneiro Goncalves#Henry Goncalves  #Lais Carneiro do Nascimento#Travessa Nicolas Oliveira  , nº1554#78.419.848-6#(11) 91323-3931#Nicolas.Goncalves@coutinhos.com.br#R$2300.00#Marketing
+326#Theo Dias Goncalves#Erick Goncalves  #Ana Liz Dias  #Avenida Nayan Barbieri de Oliveira, nº694#13.483.420-5#(11) 91543-8034#Theo.Goncalves@coutinhos.com.br#R$3600.00#Administrativo
+327#Esther Carvalho Miranda#Enrico Miranda de Araujo#Maria Cecilia Carvalho  #Travessa Silvanio Rodrigues dos Reis, nº2317#48.608.281-9#(11) 99981-6587#Esther.Miranda@coutinhos.com.br#R$4300.00#Contabilidade
+328#Antonella Henrique Moretti#Leonardo Moretti de Araujo#Maria Clara Henrique  #Travessa Caleb Duarte  , nº2032#35.959.348-8#(11) 97774-8718#Antonella.Moretti@coutinhos.com.br#R$2900.00#Estoque
+329#Liz Vieira Conceicao#Davi Lucas Conceicao  #Carolina Vieira de Lima#Alameda Eloa Cardoso  , nº155#67.348.310-7#(11) 93390-9238#Liz.Conceicao@coutinhos.com.br#R$4800.00#Marketing
+330#Kaique Brito Braga#Davi Braga  #Ana Brito do Carmo#Avenida Emanuelly Oliveira  , nº100#49.236.891-2#(11) 91664-5601#Kaique.Braga@coutinhos.com.br#R$4800.00#Contabilidade
+331#Maite Costa Braga#Isac Braga  #Isabel Costa de Assis#Praça Enzo Silveira  , nº1300#16.936.990-9#(11) 92897-4544#Maite.Braga@coutinhos.com.br#R$4100.00#Marketing
+332#Gustavo Aparecido Farias#Joao Guilherme Farias  #Marina Aparecido  #Rua Alice Mariani  , nº1851#64.337.572-8#(11) 95799-5257#Gustavo.Farias@coutinhos.com.br#R$4000.00#Financeiro
+333#Maite Correa Rodrigues#Gael Rodrigues  #Ana Laura Correa  #Rua Giovanna Neves de Luca, nº1967#71.834.397-1#(11) 99643-4589#Maite.Rodrigues@coutinhos.com.br#R$4600.00#Contabilidade
+334#Waldecir Marques Freitas#Daniel Freitas  #Livia Marques  #Alameda Elisa Santana de Souza, nº1503#13.648.249-3#(11) 95410-5852#Waldecir.Freitas@coutinhos.com.br#R$4200.00#Marketing
+335#Wylliam Greco Barbosa#Noah Barbosa  #Eliane Greco do Nascimento#Rua Bernardo Dantas  , nº551#98.870.874-6#(11) 97369-1062#Wylliam.Barbosa@coutinhos.com.br#R$1900.00#Financeiro
+336#Laura Goncalves Colombo#Caleb Colombo  #Julia Goncalves de Carvalho#Rua Wylliam Costa da Cunha, nº224#58.827.321-5#(11) 93854-6847#Laura.Colombo@coutinhos.com.br#R$2000.00#Comercial
+337#Gabriel Henrique Mariani#Otto Mariani de Souza#Ana Livia Henrique de Assis#Travessa Liz Mendes  , nº730#90.894.926-4#(11) 95600-6244#Gabriel.Mariani@coutinhos.com.br#R$1700.00#Marketing
+338#Joaquim Conti Sousa#Nicolas Sousa de Araujo#Ana Cecília Conti da Conceicao#Rua Rafaela Nascimento de Carvalho, nº2445#58.180.722-1#(11) 92959-3444#Joaquim.Sousa@coutinhos.com.br#R$2600.00#Administrativo
+339#Elisa Dias Ferreira#Vitor Ferreira  #Melissa Dias da Cunha#Alameda Caio Gladys de Oliveira, nº626#64.185.950-5#(11) 93605-1965#Elisa.Ferreira@coutinhos.com.br#R$3600.00#Marketing
+340#Joaquim Carvalho Aparecido#Joao Guilherme Aparecido da Costa#Maria Cecilia Carvalho de Jesus#Rua Davi Dantas da Cruz, nº1832#38.633.950-4#(11) 96260-6966#Joaquim.Aparecido@coutinhos.com.br#R$4400.00#Financeiro
+341#Alicia Coutinho Bianchi#Lorenzo Bianchi  #Carolina Coutinho de Jesus#Avenida Kaique Andrade  , nº2101#51.187.357-4#(11) 91641-3840#Alicia.Bianchi@coutinhos.com.br#R$1900.00#Contabilidade
+342#Antonella Dias Bianchi#Vitor Bianchi de Araujo#Isis Dias  #Alameda Isadora Colombo do Nascimento, nº1046#12.982.440-3#(11) 94735-8247#Antonella.Bianchi@coutinhos.com.br#R$1700.00#Estoque
+343#Julia Cordeiro Mendes#Davi Miguel Mendes  #Maria Cordeiro  #Rua Emanuelly Pinheiro  , nº942#35.224.522-2#(11) 99834-3674#Julia.Mendes@coutinhos.com.br#R$4700.00#Estoque
+344#Antonio Neves Correia#Lucas Correia  #Ana Neves da Costa#Avenida Rebeca Gomes  , nº439#64.410.783-9#(11) 98773-3901#Antonio.Correia@coutinhos.com.br#R$2800.00#Estoque
+345#Yasmin Goncalves Almeida#Lucca Almeida  #Rebeca Goncalves  #Avenida Sophia Pereira  , nº2477#89.361.843-8#(11) 96088-9493#Yasmin.Almeida@coutinhos.com.br#R$1800.00#Comercial
+346#Alicia Correa Rocha#Flavio Rocha de Jesus#Perola Correa de Castro#Rua Adriano Alves  , nº1076#64.434.601-8#(11) 98761-9223#Alicia.Rocha@coutinhos.com.br#R$1500.00#Financeiro
+347#Rebeca Correia Machado#Yuri Thiago Machado  #Maria Cecilia Correia  #Praça Gustavo Dias da Conceicao, nº2019#58.496.890-9#(11) 93092-6261#Rebeca.Machado@coutinhos.com.br#R$3100.00#Administrativo
+348#Daniel Moretti Nogueira#Levi Nogueira  #Larissa Moretti de Freitas#Rua Anderson Melo da Silva, nº1947#73.243.728-7#(11) 93868-7776#Daniel.Nogueira@coutinhos.com.br#R$1700.00#Estoque
+349#Lucca Cordeiro Marques#Matheus Marques da Silva#Gabriela Cordeiro da Conceicao#Alameda Lucas Cardoso  , nº1471#47.355.214-9#(11) 98701-5692#Lucca.Marques@coutinhos.com.br#R$1700.00#Comercial
+350#Elisa Gomes Pires#Felipe Pires de Oliveira#Heloisa Gomes da Cunha#Rua Daniel Siqueira de Souza, nº149#82.232.625-8#(11) 97222-5676#Elisa.Pires@coutinhos.com.br#R$4000.00#Marketing
+351#Maite Viana Ferrari#Tomás Ferrari da Rocha#Lorena Viana do Carmo#Avenida Maria Vieira  , nº49#13.700.124-1#(11) 96636-3703#Maite.Ferrari@coutinhos.com.br#R$2400.00#Comercial
+352#Melissa Correia Colombo#Enrico Colombo de Jesus#Maria Isis Correia  #Rua Isac Melo de Souza, nº1896#82.861.584-3#(11) 97312-7797#Melissa.Colombo@coutinhos.com.br#R$2200.00#Marketing
+353#Anderson Sousa Soares#Yuri Thiago Soares de Luca#Marina Sousa do Carmo#Praça Lucca Rodrigues  , nº1348#82.182.904-2#(11) 98313-8362#Anderson.Soares@coutinhos.com.br#R$4700.00#Recursos Humanos
+354#Benjamin Conti Miranda#Icaro Miranda  #Ana Conti  #Travessa Lucas Mendes  , nº350#14.139.507-4#(11) 96346-9452#Benjamin.Miranda@coutinhos.com.br#R$2700.00#Financeiro
+355#Joao Campos Gladys#Enzo Gladys  #Alice Campos  #Alameda Isadora Carneiro  , nº2049#45.588.465-7#(11) 91101-1981#Joao.Gladys@coutinhos.com.br#R$3000.00#Marketing
+356#Caleb Neves Miranda#Lorenzo Miranda de Assis#Cecilia Neves  #Avenida Larissa Pinto dos Reis, nº671#51.128.904-2#(11) 94925-2664#Caleb.Miranda@coutinhos.com.br#R$4900.00#Financeiro
+357#Ketylin Moura Lopes#Benjamin Lopes  #Vitoria Moura de Souza#Alameda Leonardo Souza  , nº1669#10.995.575-7#(11) 96127-7240#Ketylin.Lopes@coutinhos.com.br#R$2000.00#Contabilidade
+358#Helena Araujo Mendes#Rodrigo Mendes dos Reis#Aurora Araujo  #Praça Benicio Ramos do Carmo, nº1037#29.970.787-6#(11) 93691-7035#Helena.Mendes@coutinhos.com.br#R$1600.00#Comercial
+359#Helena Santana Nunes#Enzo Gabriel Nunes de Andrade#Alice Santana de Melo#Avenida Luna Monteiro  , nº1298#18.264.727-2#(11) 94936-8612#Helena.Nunes@coutinhos.com.br#R$3900.00#Estoque
+360#Enzo Campos Correia#Lucas Gabriel Correia  #Sarah Campos de Araujo#Rua Pedro Santos da Silva, nº1925#80.698.958-5#(11) 93731-2864#Enzo.Correia@coutinhos.com.br#R$3600.00#Marketing
+361#Sarah Mancini Santoro#Joao Lucas Santoro de Castro#Olivia Mancini de Melo#Avenida Isac Farias do Carmo, nº940#88.942.205-5#(11) 94131-9719#Sarah.Santoro@coutinhos.com.br#R$2500.00#Marketing
+362#Isac Pereira Nascimento#Josue Nascimento  #Maria Cecilia Pereira do Carmo#Avenida Davi Carvalho  , nº797#74.231.474-6#(11) 99319-8192#Isac.Nascimento@coutinhos.com.br#R$1500.00#Estoque
+363#Lucas Jhonatta Vieira#Eduardo Vieira  #Julia Jhonatta da Cruz#Avenida Gael Reis  , nº2043#55.271.841-8#(11) 95704-9592#Lucas.Vieira@coutinhos.com.br#R$4200.00#Financeiro
+364#Francisco Braga Batista#Vinicius Batista  #Nicole Braga de Jesus#Praça Vicente Cruz  , nº2047#23.214.409-6#(11) 92758-2939#Francisco.Batista@coutinhos.com.br#R$1700.00#Financeiro
+365#Lara Batista Lombardi#Nicolas Lombardi  #Maria Julia Batista  #Alameda Caio Dantas  , nº1769#13.722.438-5#(11) 95205-2884#Lara.Lombardi@coutinhos.com.br#R$3500.00#Contabilidade
+366#Felipe Monteiro Pires#Lucas Pires da Cunha#Bianca Monteiro  #Rua Murilo Moreira  , nº742#56.922.422-4#(11) 96971-9845#Felipe.Pires@coutinhos.com.br#R$1600.00#Marketing
+367#Ketylin Costa Correia#Augusto Correia de Araujo#Gabrielly Costa  #Avenida Vicente Ricci de Luca, nº866#98.166.875-5#(11) 98838-6823#Ketylin.Correia@coutinhos.com.br#R$2500.00#Estoque
+368#Isabella Greco Nunes#Vicente Nunes  #Esther Greco  #Travessa Waldecir Nascimento do Nascimento, nº794#20.258.794-9#(11) 97879-4652#Isabella.Nunes@coutinhos.com.br#R$3900.00#Financeiro
+369#Antonella Santoro Moraes#Ravi Moraes  #Ayla Santoro da Cruz#Praça Murilo Viana de Araujo, nº387#13.551.888-6#(11) 94644-1721#Antonella.Moraes@coutinhos.com.br#R$3800.00#Marketing
+370#Nicole Braga Giordano#Leonardo Giordano  #Isabella Braga  #Avenida Maria Teixeira  , nº318#48.251.116-2#(11) 94897-5879#Nicole.Giordano@coutinhos.com.br#R$4800.00#Recursos Humanos
+371#Ketylin Mendes Rodrigues#Martin Rodrigues de Andrade#Ana Livia Mendes da Costa#Rua Nicolas Viana  , nº1545#73.870.528-9#(11) 97812-1788#Ketylin.Rodrigues@coutinhos.com.br#R$2400.00#Financeiro
+372#Enzo Freitas Ferreira#Daniel Ferreira de Almeida#Liz Freitas  #Praça Lara Conceicao  , nº34#63.976.810-5#(11) 98351-4633#Enzo.Ferreira@coutinhos.com.br#R$4600.00#Financeiro
+373#Giovanna Gomes Almeida#Vinicius Almeida  #Luna Gomes dos Reis#Rua Vitoria Greco  , nº883#82.666.174-8#(11) 96391-1752#Giovanna.Almeida@coutinhos.com.br#R$4700.00#Contabilidade
+374#Gabriel Machado Machado#Erick Machado do Nascimento#Catarina Machado  #Rua Lucas Moura do Nascimento, nº1269#82.533.115-6#(11) 95469-2450#Gabriel.Machado@coutinhos.com.br#R$4100.00#Comercial
+375#Theo Greco Greco#Vinicius Greco de Castro#Liz Greco  #Avenida Rafaela Siqueira de Freitas, nº666#66.142.271-4#(11) 98222-7258#Theo.Greco@coutinhos.com.br#R$3700.00#Financeiro
+376#Kaique Oliveira Alves#Hugo Alves  #Maite Oliveira de Sousa#Praça Isabelly Mariani de Castro, nº2364#92.923.249-5#(11) 93682-9962#Kaique.Alves@coutinhos.com.br#R$3400.00#Administrativo
+377#Lucca Ferrari Gallo#Otto Gallo de Jesus#Fernanda Ferrari de Paula#Avenida Gabriel Moura de Jesus, nº2365#76.742.596-7#(11) 97659-7743#Lucca.Gallo@coutinhos.com.br#R$4700.00#Recursos Humanos
+378#Giovanna Pires Dantas#Pedro Henrique Dantas  #Maya Pires  #Praça Anthony Romano da Cunha, nº2377#96.299.903-9#(11) 94513-5887#Giovanna.Dantas@coutinhos.com.br#R$2600.00#Financeiro
+379#Larissa Moreira Gladys#Arthur Henrique Gladys  #Ana Livia Moreira  #Alameda Caleb Leite  , nº989#63.285.499-2#(11) 95264-7365#Larissa.Gladys@coutinhos.com.br#R$3100.00#Financeiro
+380#Cecilia Viana Goncalves#Heitor Goncalves  #Aurora Viana da Rocha#Travessa Pedro Cordeiro de Almeida, nº1047#56.257.704-8#(11) 91122-7871#Cecilia.Goncalves@coutinhos.com.br#R$2800.00#Estoque
+381#Antonella Pinto Teixeira#Pedro Miguel Teixeira  #Joana Pinto de Castro#Praça Eduardo Greco  , nº2193#69.596.518-8#(11) 93157-5358#Antonella.Teixeira@coutinhos.com.br#R$2700.00#Marketing
+382#Emanuelly Moretti Duarte#Matheus Duarte  #Maria Sophia Moretti  #Rua Isabelly Jhonatta de Andrade, nº2067#11.630.256-5#(11) 96800-7714#Emanuelly.Duarte@coutinhos.com.br#R$3200.00#Comercial
+383#Silvanio Gladys Guimaraes#Davi Lucas Guimaraes de Andrade#Lais Gladys do Nascimento#Alameda Elisa Soares  , nº1673#47.698.782-2#(11) 97829-3511#Silvanio.Guimaraes@coutinhos.com.br#R$3400.00#Estoque
+384#Vicente Giordano Cruz#Erick Cruz da Cunha#Manuela Giordano da Costa#Travessa Heitor Alves de Assis, nº1110#86.557.613-4#(11) 95168-1262#Vicente.Cruz@coutinhos.com.br#R$2200.00#Financeiro
+385#Laura Bezerra Greco#Leonardo Greco  #Rafaela Bezerra  #Travessa Silvanio Araujo  , nº1531#42.324.813-3#(11) 96512-5394#Laura.Greco@coutinhos.com.br#R$4100.00#Recursos Humanos
+386#Enzo Batista Borges#Rafael Borges  #Alice Batista de Paula#Travessa Lara Pinheiro  , nº614#58.607.700-5#(11) 95320-4958#Enzo.Borges@coutinhos.com.br#R$2100.00#Estoque
+387#Benjamin Ramos Colombo#Lorenzo Colombo de Oliveira#Sarah Ramos  #Avenida Kaique Cruz  , nº2138#79.988.582-8#(11) 95338-5530#Benjamin.Colombo@coutinhos.com.br#R$2600.00#Administrativo
+388#Giovanna Fontana Ferreira#Pedro Ferreira de Souza#Sarah Fontana de Araujo#Travessa Eloa Bianchi de Oliveira, nº2267#79.325.225-1#(11) 99472-9917#Giovanna.Ferreira@coutinhos.com.br#R$2900.00#Marketing
+389#Larissa Gallo Martins#Joao Martins  #Gabrielly Gallo da Conceicao#Praça Isabella Barbieri  , nº2159#69.992.107-7#(11) 97663-1131#Larissa.Martins@coutinhos.com.br#R$2600.00#Marketing
+390#Bento Pires Gladys#Davi Luiz Gladys do Nascimento#Rebeca Pires da Cruz#Travessa Arthur Cavalcante  , nº2487#90.930.518-4#(11) 95082-6836#Bento.Gladys@coutinhos.com.br#R$3700.00#Financeiro
+391#Lorenzo Reis Garcia#Isac Garcia de Melo#Maria Isis Reis  #Alameda Clara Romano do Carmo, nº343#43.260.302-3#(11) 95634-3941#Lorenzo.Garcia@coutinhos.com.br#R$3600.00#Administrativo
+392#Valentina Bezerra Oliveira#Leonardo Oliveira  #Cecilia Bezerra  #Rua Maite Ramos  , nº1226#82.499.472-4#(11) 93001-4301#Valentina.Oliveira@coutinhos.com.br#R$4700.00#Contabilidade
+393#Antonella Colombo Colombo#Joao Lucas Colombo de Souza#Larissa Colombo do Carmo#Avenida Maria Esposito  , nº1866#21.280.371-1#(11) 92771-1212#Antonella.Colombo@coutinhos.com.br#R$4000.00#Estoque
+394#Benjamin Ramos Mariani#Arthur Gabriel Mariani dos Santos#Melina Ramos da Rocha#Praça Vitoria Nascimento da Rocha, nº1991#52.696.717-4#(11) 99019-4282#Benjamin.Mariani@coutinhos.com.br#R$4900.00#Marketing
+395#Eduarda Santana Alves#Icaro Alves  #Beatriz Santana  #Avenida Caua Marques de Andrade, nº478#21.739.546-4#(11) 93982-7078#Eduarda.Alves@coutinhos.com.br#R$1500.00#Contabilidade
+396#Nayan Russo Romano#Hugo Romano  #Livia Russo de Freitas#Travessa Benicio Marques  , nº1917#56.684.713-9#(11) 95163-4082#Nayan.Romano@coutinhos.com.br#R$3000.00#Administrativo
+397#Guilherme Garcia Silveira#Rodrigo Silveira  #Melina Garcia  #Alameda Giovanna Soares dos Reis, nº2227#29.997.201-6#(11) 95096-9550#Guilherme.Silveira@coutinhos.com.br#R$4200.00#Financeiro
+398#Sophia Cavalcante Bianchi#Vitor Bianchi de Melo#Sarah Cavalcante  #Travessa Lorena Costa  , nº740#97.177.199-9#(11) 97221-2350#Sophia.Bianchi@coutinhos.com.br#R$1800.00#Marketing
+399#Leonardo Reis Fernandes#Otavio Fernandes da Conceicao#Bianca Reis de Carvalho#Travessa Daniel Cruz  , nº1086#94.302.279-8#(11) 97447-9328#Leonardo.Fernandes@coutinhos.com.br#R$4600.00#Recursos Humanos
+400#Vicente Carneiro Marino#Mathias Marino dos Reis#Maria Helena Carneiro da Conceicao#Rua Isac Duarte de Almeida, nº285#31.123.626-6#(11) 93516-3089#Vicente.Marino@coutinhos.com.br#R$2300.00#Administrativo
+401#Theo Rodrigues Teixeira#Enrico Teixeira  #Maria Valentina Rodrigues da Costa#Travessa Julia Vieira  , nº393#20.114.604-6#(11) 93237-7572#Theo.Teixeira@coutinhos.com.br#R$2300.00#Contabilidade
+402#Pietro Freitas Correa#Josue Correa dos Santos#Mariah Freitas  #Alameda Caua Moreira do Carmo, nº217#43.778.968-7#(11) 93091-7533#Pietro.Correa@coutinhos.com.br#R$2500.00#Marketing
+403#Ana Lima Andrade#Theodoro Andrade  #Isis Lima de Araujo#Praça Waldecir Henrique  , nº916#63.654.256-6#(11) 92975-6881#Ana.Andrade@coutinhos.com.br#R$4100.00#Marketing
+404#Gustavo Barros Souza#Joao Miguel Souza de Araujo#Luiza Barros  #Rua Theo Ferrari de Souza, nº1390#40.832.191-9#(11) 97067-8693#Gustavo.Souza@coutinhos.com.br#R$1900.00#Administrativo
+405#Rebeca Rodrigues Leite#Luiz Felipe Leite  #Fernanda Rodrigues do Nascimento#Travessa Ketylin Braga de Assis, nº2314#92.904.494-6#(11) 98621-4303#Rebeca.Leite@coutinhos.com.br#R$3900.00#Comercial
+406#Valentina Duarte Greco#Daniel Greco  #Melinda Duarte  #Rua Leonardo Oliveira de Assis, nº2230#69.392.583-1#(11) 99125-8832#Valentina.Greco@coutinhos.com.br#R$2300.00#Recursos Humanos
+407#Isac Leite Lopes#Thomas Lopes  #Gabrielly Leite de Assis#Avenida Miguel Ricci dos Santos, nº63#18.159.890-7#(11) 96744-4931#Isac.Lopes@coutinhos.com.br#R$2300.00#Comercial
+408#Miguel Vieira Oliveira#Tomás Oliveira da Costa#Helena Vieira da Costa#Avenida Agatha Ricci de Luca, nº77#51.558.837-8#(11) 99410-3457#Miguel.Oliveira@coutinhos.com.br#R$4500.00#Estoque
+409#Lavinia Duarte Barbieri#Heitor Barbieri  #Emilly Duarte  #Avenida Miguel Ferreira  , nº388#21.273.479-7#(11) 99483-4884#Lavinia.Barbieri@coutinhos.com.br#R$4600.00#Administrativo
+410#Benicio Gladys Conti#Joao Pedro Conti da Rocha#Maria Gladys da Costa#Alameda Livia Russo  , nº944#59.135.766-6#(11) 94151-3829#Benicio.Conti@coutinhos.com.br#R$4700.00#Comercial
+411#Eliane Moretti Nunes#Theodoro Nunes de Souza#Heloise Moretti de Andrade#Rua Vitoria Leite  , nº1866#49.139.133-3#(11) 99645-1147#Eliane.Nunes@coutinhos.com.br#R$2500.00#Marketing
+412#Emanuel Moraes Dias#Joao Lucas Dias de Lima#Emilly Moraes da Conceicao#Avenida Enzo Soares dos Reis, nº1600#13.383.192-8#(11) 93116-6065#Emanuel.Dias@coutinhos.com.br#R$1700.00#Marketing
+413#Pedro Mariani Tavares#Pedro Lucas Tavares  #Maria Luiza Mariani de Almeida#Rua Agatha Goncalves de Assis, nº841#53.542.323-3#(11) 92428-1013#Pedro.Tavares@coutinhos.com.br#R$4300.00#Recursos Humanos
+414#Emanuelly Rocha Costa#Samuel Costa  #Pietra Rocha de Melo#Praça Laura Goncalves da Costa, nº430#91.103.180-5#(11) 93839-8192#Emanuelly.Costa@coutinhos.com.br#R$2000.00#Marketing
+415#Nicolas Mancini Pires#Anthony Gabriel Pires da Costa#Maite Mancini da Costa#Travessa Henrique Ribeiro de Araujo, nº981#20.790.985-3#(11) 97461-8472#Nicolas.Pires@coutinhos.com.br#R$2500.00#Estoque
+416#Ana Santos Rizzo#Pedro Rizzo  #Catarina Santos  #Alameda Lucas Siqueira  , nº2459#59.656.379-8#(11) 93393-1670#Ana.Rizzo@coutinhos.com.br#R$3500.00#Marketing
+417#Bryan Oliveira Almeida#Henry Almeida de Jesus#Maria Heloisa Oliveira  #Travessa Heloísa Fernandes  , nº1729#62.587.120-3#(11) 97714-2484#Bryan.Almeida@coutinhos.com.br#R$2600.00#Financeiro
+418#Bernardo Rizzo Araujo#Arthur Gabriel Araujo da Silva#Perola Rizzo de Araujo#Avenida Alice Russo  , nº2192#41.403.232-9#(11) 95110-7961#Bernardo.Araujo@coutinhos.com.br#R$2600.00#Estoque
+419#Benjamin Soares Garcia#Joao Garcia  #Lorena Soares dos Reis#Avenida Ketylin Siqueira  , nº1243#43.741.522-9#(11) 98912-1726#Benjamin.Garcia@coutinhos.com.br#R$3600.00#Marketing
+420#Victor Duarte Dias#Arthur Gabriel Dias dos Reis#Maria Heloisa Duarte  #Alameda Samuel Melo da Cruz, nº1499#60.320.600-3#(11) 92870-8199#Victor.Dias@coutinhos.com.br#R$3900.00#Comercial
+421#Manuela Coelho Romano#Arthur Romano dos Santos#Maria Coelho do Carmo#Travessa Manuela Carvalho  , nº2471#86.148.978-1#(11) 94235-9472#Manuela.Romano@coutinhos.com.br#R$4600.00#Contabilidade
+422#Benicio Conceicao Soares#Enrico Soares de Oliveira#Fernanda Conceicao de Andrade#Avenida Isabella Soares de Assis, nº1816#23.185.156-6#(11) 98231-2288#Benicio.Soares@coutinhos.com.br#R$3700.00#Recursos Humanos
+423#Sophia Pinto Lopes#Davi Lucca Lopes  #Livia Pinto  #Alameda Vicente Borges de Sousa, nº1809#54.132.684-5#(11) 91687-3840#Sophia.Lopes@coutinhos.com.br#R$2900.00#Marketing
+424#Caio Guimaraes Costa#Raul Costa de Assis#Lorena Guimaraes da Rocha#Praça Theo Santoro  , nº535#67.444.522-2#(11) 91512-3499#Caio.Costa@coutinhos.com.br#R$2300.00#Estoque
+425#Lucca Jhonatta Leite#Gael Leite  #Alicia Jhonatta da Costa#Praça Vitoria Moura  , nº1428#69.784.589-3#(11) 91131-7934#Lucca.Leite@coutinhos.com.br#R$3100.00#Recursos Humanos
+426#Antonio Marques Rizzo#Raul Rizzo  #Maite Marques  #Avenida Caleb Leite da Cruz, nº973#93.355.357-6#(11) 93894-9076#Antonio.Rizzo@coutinhos.com.br#R$1700.00#Administrativo
+427#Marina Monteiro Conceicao#Anthony Gabriel Conceicao de Assis#Liz Monteiro  #Rua Victor Russo de Paula, nº592#54.323.856-6#(11) 91597-6373#Marina.Conceicao@coutinhos.com.br#R$2700.00#Contabilidade
+428#Lorenzo Aparecido Araujo#Joao Guilherme Araujo da Costa#Maria Eduarda Aparecido de Carvalho#Travessa Vinicius Henrique dos Reis, nº2303#65.898.455-5#(11) 95588-1041#Lorenzo.Araujo@coutinhos.com.br#R$2200.00#Estoque
+429#Alice Dantas Carneiro#Miguel Carneiro da Conceicao#Emilly Dantas de Oliveira#Travessa Miguel Vieira de Carvalho, nº1088#82.723.466-6#(11) 98191-7030#Alice.Carneiro@coutinhos.com.br#R$1500.00#Contabilidade
+430#Benicio Mariani Ricci#Caio Ricci de Souza#Ana Mariani  #Avenida Rebeca Pires de Castro, nº181#38.471.813-7#(11) 95972-4360#Benicio.Ricci@coutinhos.com.br#R$2800.00#Comercial
+431#Anderson Ferrari Brito#Bernardo Brito da Rocha#Pietra Ferrari  #Alameda Vinicius Guimaraes  , nº1460#90.606.943-8#(11) 95433-7068#Anderson.Brito@coutinhos.com.br#R$2700.00#Estoque
+432#Guilherme Siqueira Esposito#Arthur Henrique Esposito  #Isis Siqueira dos Santos#Alameda Isis Mendes do Carmo, nº1033#38.605.637-7#(11) 92199-6929#Guilherme.Esposito@coutinhos.com.br#R$3800.00#Contabilidade
+433#Pietro Barbieri Nascimento#Lucas Gabriel Nascimento de Luca#Luna Barbieri de Paula#Avenida Lucas Greco  , nº644#73.219.224-3#(11) 94099-2034#Pietro.Nascimento@coutinhos.com.br#R$3400.00#Comercial
+434#Heloísa Batista Mariani#Bryan Mariani  #Maria Alice Batista da Costa#Rua Anthony Ricci  , nº427#70.616.217-8#(11) 95443-3473#Heloísa.Mariani@coutinhos.com.br#R$4300.00#Financeiro
+435#Beatriz Ricci Greco#Arthur Miguel Greco  #Rebeca Ricci  #Avenida Valentina Lopes  , nº2391#87.542.816-6#(11) 95913-7935#Beatriz.Greco@coutinhos.com.br#R$3200.00#Contabilidade
+436#Lorenzo Esposito Soares#Pedro Miguel Soares  #Antonella Esposito de Carvalho#Rua Anderson Braga  , nº1579#91.323.708-7#(11) 95938-4821#Lorenzo.Soares@coutinhos.com.br#R$4100.00#Comercial
+437#Murilo Pereira Miranda#Joao Gabriel Miranda da Costa#Marina Pereira  #Praça Nicolas Garcia de Almeida, nº430#17.128.150-4#(11) 91882-6311#Murilo.Miranda@coutinhos.com.br#R$3100.00#Contabilidade
+438#Murilo Santana Melo#Nathan Melo  #Eduarda Santana  #Alameda Lara Romano de Luca, nº498#38.753.232-6#(11) 92210-5215#Murilo.Melo@coutinhos.com.br#R$3600.00#Recursos Humanos
+439#Gabriela Conti Medeiros#Lucas Medeiros de Lima#Luiza Conti  #Alameda Isabella Ribeiro  , nº1827#60.248.586-1#(11) 91515-1222#Gabriela.Medeiros@coutinhos.com.br#R$2600.00#Recursos Humanos
+440#Rafaela Lima Pires#Ryan Pires  #Alice Lima do Carmo#Travessa Alicia Reis de Paula, nº540#51.809.556-4#(11) 95368-9834#Rafaela.Pires@coutinhos.com.br#R$4300.00#Recursos Humanos
+441#Marina Dantas Marques#Tomás Marques  #Helena Dantas dos Reis#Travessa Francisco Coelho de Carvalho, nº1244#62.639.231-5#(11) 96521-8689#Marina.Marques@coutinhos.com.br#R$2300.00#Administrativo
+442#Waldecir Nunes Martins#Isac Martins de Souza#Joana Nunes  #Alameda Lavinia Barros  , nº2144#45.400.135-4#(11) 98050-1805#Waldecir.Martins@coutinhos.com.br#R$3000.00#Financeiro
+443#Ana Pereira Romano#Davi Luiz Romano de Freitas#Julia Pereira  #Alameda Theo Farias de Castro, nº2262#67.599.466-8#(11) 92572-6295#Ana.Romano@coutinhos.com.br#R$2200.00#Marketing
+444#Maria Silveira Nunes#Gael Nunes  #Maria Heloisa Silveira  #Rua Isac Bianchi  , nº485#35.712.911-9#(11) 92849-7385#Maria.Nunes@coutinhos.com.br#R$4700.00#Recursos Humanos
+445#Francisco Goncalves Correa#Theo Correa de Lima#Joana Goncalves de Melo#Rua Lucas Viana de Almeida, nº1421#88.227.617-2#(11) 98707-3198#Francisco.Correa@coutinhos.com.br#R$1900.00#Comercial
+446#Bento Goncalves Cardoso#Benjamin Cardoso da Rocha#Manuela Goncalves  #Rua Alicia Nogueira de Andrade, nº1054#81.264.153-3#(11) 92022-6099#Bento.Cardoso@coutinhos.com.br#R$4300.00#Contabilidade
+447#Leticia Correia Farias#Enrico Farias da Silva#Ana Julia Correia de Freitas#Alameda Isabelly Teixeira  , nº406#30.681.428-3#(11) 98331-5872#Leticia.Farias@coutinhos.com.br#R$4400.00#Estoque
+448#Ana Ribeiro Moretti#Theo Moretti de Paula#Rebeca Ribeiro da Costa#Avenida Ketylin Carvalho de Sousa, nº988#31.910.888-1#(11) 92531-7766#Ana.Moretti@coutinhos.com.br#R$4300.00#Financeiro
+449#Victor Rodrigues Rodrigues#Rodrigo Rodrigues de Carvalho#Sophia Rodrigues de Luca#Rua Anderson Moreira de Lima, nº1488#46.453.733-3#(11) 98026-5336#Victor.Rodrigues@coutinhos.com.br#R$3400.00#Administrativo
+450#Valentina Neves Brito#Joao Gabriel Brito  #Mariana Neves de Luca#Avenida Maria Barros  , nº1718#76.413.438-7#(11) 95786-3573#Valentina.Brito@coutinhos.com.br#R$3100.00#Administrativo
+451#Larissa Giordano Mendes#Rafael Mendes  #Giovanna Giordano  #Rua Heloísa Jhonatta da Cunha, nº2028#25.770.109-1#(11) 96427-4969#Larissa.Mendes@coutinhos.com.br#R$3400.00#Administrativo
+452#Liz Medeiros Farias#Joaquim Farias  #Mirella Medeiros  #Avenida Lucas Rossi da Costa, nº716#20.336.863-1#(11) 93026-7733#Liz.Farias@coutinhos.com.br#R$1500.00#Estoque
+453#Julia Moretti Conceicao#Flavio Conceicao da Costa#Luna Moretti  #Travessa Theo Correa  , nº1050#96.993.817-4#(11) 96924-9982#Julia.Conceicao@coutinhos.com.br#R$4500.00#Comercial
+454#Nicolas Monteiro Barbosa#Vitor Barbosa  #Melissa Monteiro  #Travessa Waldecir Silva  , nº544#96.396.758-1#(11) 94230-6782#Nicolas.Barbosa@coutinhos.com.br#R$3300.00#Contabilidade
+455#Alice Teixeira Mendes#Eduardo Mendes  #Clara Teixeira  #Avenida Ketylin Romano  , nº2105#55.254.313-4#(11) 98715-9769#Alice.Mendes@coutinhos.com.br#R$3900.00#Financeiro
+456#Clara Bianchi Guimaraes#Miguel Guimaraes  #Maria Bianchi  #Travessa Vicente Cardoso de Sousa, nº1479#18.807.677-4#(11) 98257-9246#Clara.Guimaraes@coutinhos.com.br#R$4600.00#Comercial
+457#Clara Pinto Romano#Levi Romano  #Ana Clara Pinto da Cunha#Travessa Benicio Miranda da Cunha, nº63#64.235.940-6#(11) 92106-8568#Clara.Romano@coutinhos.com.br#R$3000.00#Comercial
+458#Caua Mancini Lombardi#Vitor Lombardi de Andrade#Eliane Mancini  #Travessa Arthur Ferrari  , nº532#47.173.302-5#(11) 97494-8848#Caua.Lombardi@coutinhos.com.br#R$2600.00#Contabilidade
+459#Luiza Aparecido Esposito#Leonardo Esposito de Sousa#Melissa Aparecido de Carvalho#Alameda Isabelly Fontana  , nº1263#15.273.542-3#(11) 97262-2650#Luiza.Esposito@coutinhos.com.br#R$4300.00#Comercial
+460#Livia Reis Nascimento#Matteo Nascimento da Silva#Maria Laura Reis  #Alameda Rebeca Rodrigues  , nº2101#86.714.309-5#(11) 91012-5937#Livia.Nascimento@coutinhos.com.br#R$1600.00#Estoque
+461#Liz Rocha Moretti#Gabriel Moretti de Melo#Melinda Rocha  #Rua Isac Rossi da Costa, nº2262#60.138.545-1#(11) 99832-8302#Liz.Moretti@coutinhos.com.br#R$2500.00#Administrativo
+462#Sarah Santana Carvalho#Pedro Carvalho de Carvalho#Ana Beatriz Santana dos Santos#Avenida Antonella Silva da Silva, nº1573#22.281.175-1#(11) 94571-5998#Sarah.Carvalho@coutinhos.com.br#R$3900.00#Contabilidade
+463#Eduardo Melo Pinto#Arthur Gabriel Pinto  #Ana Julia Melo de Almeida#Praça Melissa Conti de Sousa, nº300#82.554.415-1#(11) 94304-8914#Eduardo.Pinto@coutinhos.com.br#R$1700.00#Estoque
+464#Daniel Esposito Ferrari#Joao Ferrari dos Reis#Melinda Esposito da Silva#Alameda Matheus Nascimento de Andrade, nº1719#52.829.725-7#(11) 93330-4207#Daniel.Ferrari@coutinhos.com.br#R$2400.00#Financeiro
+465#Vicente Romano Bezerra#Miguel Bezerra  #Maria Romano de Andrade#Travessa Anthony Santana de Andrade, nº417#30.990.730-2#(11) 94165-3870#Vicente.Bezerra@coutinhos.com.br#R$4300.00#Financeiro
+466#Lucca Freitas Nogueira#Vicente Nogueira  #Ana Livia Freitas da Cruz#Alameda Antonella Correia  , nº2008#83.941.869-6#(11) 93513-1058#Lucca.Nogueira@coutinhos.com.br#R$1600.00#Financeiro
+467#Antonella Romano Melo#Francisco Melo de Castro#Maite Romano da Conceicao#Alameda Lavinia Leite de Melo, nº2474#80.437.515-5#(11) 91314-5497#Antonella.Melo@coutinhos.com.br#R$2900.00#Recursos Humanos
+468#Agatha Romano Correa#Pietro Correa  #Maria Flor Romano  #Travessa Arthur Jhonatta de Andrade, nº83#22.269.114-4#(11) 92352-9725#Agatha.Correa@coutinhos.com.br#R$1900.00#Comercial
+469#Alicia Carneiro Machado#Joaquim Machado  #Heloisa Carneiro de Araujo#Praça Cecilia Gallo  , nº1488#51.674.233-1#(11) 93700-6510#Alicia.Machado@coutinhos.com.br#R$2000.00#Comercial
+470#Rebeca Souza Mendes#Joao Vitor Mendes  #Isabelly Souza  #Alameda Bento Giordano de Melo, nº1367#27.780.763-8#(11) 95345-8212#Rebeca.Mendes@coutinhos.com.br#R$4200.00#Recursos Humanos
+471#Adriano Borges Santana#Davi Lucca Santana da Conceicao#Giovanna Borges  #Travessa Valentina Coutinho  , nº406#19.826.581-9#(11) 91448-9383#Adriano.Santana@coutinhos.com.br#R$3800.00#Financeiro
+472#Davi Santana Conceicao#Theo Conceicao dos Santos#Liz Santana  #Rua Giovanna Correa dos Santos, nº1845#72.607.267-7#(11) 95650-4931#Davi.Conceicao@coutinhos.com.br#R$3900.00#Marketing
+473#Arthur Cavalcante Martins#Eduardo Martins dos Santos#Sophia Cavalcante  #Praça Felipe Pinheiro  , nº288#16.870.534-6#(11) 96165-4930#Arthur.Martins@coutinhos.com.br#R$4900.00#Comercial
+474#Wylliam Machado Coutinho#Caio Coutinho dos Reis#Mariah Machado  #Rua Wylliam Conti  , nº2454#68.944.746-8#(11) 94713-1718#Wylliam.Coutinho@coutinhos.com.br#R$4900.00#Financeiro
+475#Lorenzo Esposito Romano#Tomás Romano  #Giovanna Esposito  #Alameda Caio Lopes  , nº799#58.432.258-7#(11) 99485-1801#Lorenzo.Romano@coutinhos.com.br#R$2200.00#Marketing
+476#Marina Braga Marques#Miguel Marques de Melo#Eloa Braga de Andrade#Travessa Samuel Carneiro  , nº1283#65.591.248-9#(11) 97820-3249#Marina.Marques@coutinhos.com.br#R$1800.00#Comercial
+477#Lorenzo Rodrigues Moreira#Vinicius Moreira  #Yasmin Rodrigues do Nascimento#Alameda Luna Silveira de Oliveira, nº1071#90.137.940-2#(11) 96066-4836#Lorenzo.Moreira@coutinhos.com.br#R$1800.00#Recursos Humanos
+478#Vitoria Barros Silva#Flavio Silva de Paula#Aurora Barros de Castro#Rua Victor Silveira  , nº1104#36.615.785-1#(11) 98255-8501#Vitoria.Silva@coutinhos.com.br#R$1700.00#Marketing
+479#Alicia Medeiros Nogueira#Augusto Nogueira  #Melina Medeiros da Costa#Alameda Caio Costa da Cunha, nº1691#87.989.527-5#(11) 96701-7122#Alicia.Nogueira@coutinhos.com.br#R$4800.00#Comercial
+480#Luiza Oliveira Martins#Benjamin Martins de Luca#Joana Oliveira  #Praça Manuela Brito  , nº703#82.403.440-7#(11) 92281-9498#Luiza.Martins@coutinhos.com.br#R$2200.00#Marketing
+481#Kaique Pinheiro Carvalho#Lorenzo Carvalho de Assis#Lavinia Pinheiro do Carmo#Avenida Arthur Reis  , nº1558#93.135.332-3#(11) 92864-1972#Kaique.Carvalho@coutinhos.com.br#R$2800.00#Contabilidade
+482#Antonella Colombo Sousa#Arthur Gabriel Sousa de Araujo#Sophia Colombo da Silva#Travessa Esther Marques da Silva, nº2104#23.540.536-6#(11) 97611-9527#Antonella.Sousa@coutinhos.com.br#R$3200.00#Contabilidade
+483#Enzo Siqueira Silveira#Thomas Silveira  #Isis Siqueira  #Praça Daniel Dias do Carmo, nº1686#82.796.563-4#(11) 99563-3783#Enzo.Silveira@coutinhos.com.br#R$4100.00#Recursos Humanos
+484#Agatha Araujo Guimaraes#Arthur Miguel Guimaraes  #Louise Araujo  #Rua Maite Brito da Rocha, nº621#45.990.418-7#(11) 91002-9791#Agatha.Guimaraes@coutinhos.com.br#R$3700.00#Estoque
+485#Vicente Pinheiro Almeida#Anthony Gabriel Almeida  #Amanda Pinheiro  #Alameda Gabriel Lombardi de Oliveira, nº1739#78.572.724-1#(11) 97212-4111#Vicente.Almeida@coutinhos.com.br#R$3700.00#Estoque
+486#Isabella Russo Leite#Benicio Leite da Rocha#Valentina Russo de Paula#Rua Rebeca Lombardi  , nº1533#19.112.595-9#(11) 93404-1483#Isabella.Leite@coutinhos.com.br#R$1900.00#Marketing
+487#Melissa Pinto Alves#Joao Gabriel Alves  #Lara Pinto de Luca#Rua Benjamin Vieira de Freitas, nº20#77.414.598-8#(11) 95408-5383#Melissa.Alves@coutinhos.com.br#R$4900.00#Estoque
+488#Isabelly Nunes Santos#Vitor Hugo Santos de Carvalho#Giovanna Nunes dos Santos#Travessa Isadora Medeiros de Luca, nº2278#44.966.106-1#(11) 96986-7624#Isabelly.Santos@coutinhos.com.br#R$1700.00#Estoque
+489#Silvanio Aparecido Marino#Bruno Marino  #Mariana Aparecido  #Praça Guilherme Vieira da Rocha, nº692#76.284.324-5#(11) 91724-8460#Silvanio.Marino@coutinhos.com.br#R$4400.00#Financeiro
+490#Luiza Fernandes Fontana#Samuel Fontana da Cunha#Emilly Fernandes da Rocha#Praça Felipe Araujo de Carvalho, nº258#17.870.751-9#(11) 94100-4175#Luiza.Fontana@coutinhos.com.br#R$2200.00#Comercial
+491#Caleb Viana Silveira#Arthur Miguel Silveira  #Fernanda Viana  #Alameda Vicente Ramos do Carmo, nº431#51.716.349-5#(11) 93990-8005#Caleb.Silveira@coutinhos.com.br#R$4600.00#Administrativo
+492#Daniel Pires Tavares#Lorenzo Tavares  #Eliane Pires dos Santos#Praça Emanuel Moreira de Araujo, nº2482#94.254.705-6#(11) 92373-5738#Daniel.Tavares@coutinhos.com.br#R$3500.00#Estoque
+493#Emanuel Sousa Fontana#Jose Fontana  #Sarah Sousa de Carvalho#Avenida Arthur Pires de Oliveira, nº2209#73.160.835-4#(11) 99739-7643#Emanuel.Fontana@coutinhos.com.br#R$4400.00#Contabilidade
+494#Benicio Nunes Garcia#Theodoro Garcia  #Maria Clara Nunes  #Praça Silvanio Guimaraes  , nº521#66.190.540-6#(11) 93514-9751#Benicio.Garcia@coutinhos.com.br#R$3300.00#Estoque
+495#Eliane Santos Ricci#Joao Pedro Ricci dos Reis#Pietra Santos da Silva#Avenida Samuel Costa de Jesus, nº1729#85.132.102-8#(11) 93087-4492#Eliane.Ricci@coutinhos.com.br#R$3200.00#Marketing
+496#Melissa Russo Pinheiro#Vitor Hugo Pinheiro de Carvalho#Maria Clara Russo de Freitas#Avenida Ana Coelho  , nº2172#55.481.958-4#(11) 96320-6711#Melissa.Pinheiro@coutinhos.com.br#R$3600.00#Comercial
+497#Emanuel Conceicao Nogueira#Davi Lucas Nogueira do Nascimento#Maria Helena Conceicao da Rocha#Rua Emanuelly Vieira de Souza, nº494#69.968.527-2#(11) 92811-7749#Emanuel.Nogueira@coutinhos.com.br#R$2500.00#Financeiro
+498#Miguel Andrade Silveira#Bryan Silveira de Jesus#Helena Andrade  #Praça Marina Batista  , nº1824#77.688.353-9#(11) 92231-5823#Miguel.Silveira@coutinhos.com.br#R$3000.00#Marketing
+499#Ana Santana Silva#Oliver Silva  #Perola Santana da Costa#Avenida Anderson Guimaraes  , nº1872#89.517.918-5#(11) 94157-5619#Ana.Silva@coutinhos.com.br#R$2900.00#Estoque
+500#Nayan Machado Coelho#Bruno Coelho  #Eloa Machado de Freitas#Travessa Samuel Tavares  , nº1301#86.497.165-9#(11) 97626-6558#Nayan.Coelho@coutinhos.com.br#R$3400.00#Estoque
+501#Gabriela Fernandes Fernandes#Henrique Fernandes de Araujo#Liz Fernandes  #Alameda Clara Fernandes de Almeida, nº329#53.661.214-1#(11) 94410-6970#Gabriela.Fernandes@coutinhos.com.br#R$4900.00#Financeiro
+502#Silvanio Conceicao Romano#Murilo Romano de Sousa#Heloise Conceicao  #Travessa Valentina Sousa  , nº2440#72.534.287-5#(11) 93076-2587#Silvanio.Romano@coutinhos.com.br#R$4100.00#Comercial
+503#Giovanna Cardoso Lopes#Caleb Lopes de Freitas#Perola Cardoso  #Travessa Caio Siqueira  , nº283#98.132.471-9#(11) 94321-1392#Giovanna.Lopes@coutinhos.com.br#R$4000.00#Administrativo
+504#Heloísa Ferreira Pinheiro#Henry Pinheiro  #Bella Ferreira de Araujo#Praça Lucilia Dias  , nº1963#47.691.108-3#(11) 92379-5755#Heloísa.Pinheiro@coutinhos.com.br#R$2900.00#Financeiro
+505#Antonella Barbosa Santana#Augusto Santana da Silva#Ana Sophia Barbosa da Silva#Travessa Francisco Mendes de Lima, nº652#91.844.102-9#(11) 92739-7835#Antonella.Santana@coutinhos.com.br#R$1900.00#Estoque
+506#Joao Conti Medeiros#Vitor Medeiros de Assis#Maria Heloisa Conti de Souza#Praça Manuela Mancini  , nº945#70.344.990-4#(11) 94147-8819#Joao.Medeiros@coutinhos.com.br#R$4700.00#Financeiro
+507#Antonio Giordano Monteiro#Joao Miguel Monteiro  #Alice Giordano da Conceicao#Rua Lucas Nascimento de Assis, nº20#20.155.410-9#(11) 99104-3539#Antonio.Monteiro@coutinhos.com.br#R$4700.00#Contabilidade
+508#Elisa Rodrigues Freitas#Benjamin Freitas dos Reis#Perola Rodrigues de Araujo#Alameda Miguel Monteiro da Costa, nº1690#71.870.969-2#(11) 98054-9280#Elisa.Freitas@coutinhos.com.br#R$1900.00#Estoque
+509#Esther Araujo Moraes#Jose Moraes  #Heloise Araujo  #Travessa Adriano Ferrari  , nº1263#36.651.463-1#(11) 94884-2236#Esther.Moraes@coutinhos.com.br#R$2800.00#Financeiro
+510#Benicio Medeiros Coelho#Henry Coelho  #Marina Medeiros  #Rua Emanuelly Melo  , nº2094#42.682.237-4#(11) 96600-4970#Benicio.Coelho@coutinhos.com.br#R$3200.00#Marketing
+511#Agatha Moretti Pereira#Matheus Pereira  #Gabrielly Moretti  #Avenida Isadora Teixeira  , nº1804#45.732.852-4#(11) 92364-8298#Agatha.Pereira@coutinhos.com.br#R$2000.00#Financeiro
+512#Miguel Santana Alves#Noah Alves  #Laura Santana  #Avenida Nicolas Lima  , nº841#18.969.857-3#(11) 99087-1785#Miguel.Alves@coutinhos.com.br#R$3600.00#Marketing
+513#Rafael Mancini Silva#Arthur Henrique Silva de Sousa#Maria Valentina Mancini de Carvalho#Avenida Benicio Sousa  , nº2148#52.793.494-5#(11) 99153-8677#Rafael.Silva@coutinhos.com.br#R$3200.00#Contabilidade
+514#Isac Lopes Bianchi#Eduardo Bianchi  #Alice Lopes de Souza#Avenida Rebeca Sousa  , nº1262#94.643.766-8#(11) 97546-9822#Isac.Bianchi@coutinhos.com.br#R$3700.00#Estoque
+515#Liz Correia Rocha#Henry Rocha do Carmo#Livia Correia de Sousa#Alameda Beatriz Fontana de Souza, nº1654#65.977.712-5#(11) 93359-1386#Liz.Rocha@coutinhos.com.br#R$4500.00#Recursos Humanos
+516#Pietro Souza Campos#Derick Campos  #Rebeca Souza  #Praça Beatriz Moreira de Oliveira, nº1144#35.449.877-8#(11) 91139-5671#Pietro.Campos@coutinhos.com.br#R$1700.00#Estoque
+517#Maria Barros Vieira#Nathan Vieira  #Eliane Barros  #Travessa Benicio Coelho da Silva, nº1318#58.409.496-1#(11) 97367-7351#Maria.Vieira@coutinhos.com.br#R$3900.00#Contabilidade
+518#Benjamin Miranda Martins#Yago Martins da Rocha#Lara Miranda de Freitas#Rua Clara Esposito da Silva, nº1791#43.680.582-5#(11) 91098-9235#Benjamin.Martins@coutinhos.com.br#R$2100.00#Estoque
+519#Helena Pinheiro Andrade#Joao Gabriel Andrade  #Lara Pinheiro do Carmo#Travessa Ana Rodrigues de Carvalho, nº353#80.645.377-4#(11) 95156-4250#Helena.Andrade@coutinhos.com.br#R$3300.00#Estoque
+520#Felipe Soares Lombardi#Bento Lombardi do Nascimento#Allana Soares de Assis#Avenida Silvanio Pires de Melo, nº1441#86.676.788-2#(11) 92482-6236#Felipe.Lombardi@coutinhos.com.br#R$1900.00#Estoque
+521#Miguel Goncalves Batista#Joao Vitor Batista da Silva#Mariana Goncalves da Silva#Alameda Vinicius Colombo da Cunha, nº1638#14.893.657-4#(11) 97628-5874#Miguel.Batista@coutinhos.com.br#R$1900.00#Estoque
+522#Joao Pinheiro Colombo#Davi Colombo  #Mariah Pinheiro  #Alameda Pietro Alves  , nº19#73.734.120-4#(11) 91847-6171#Joao.Colombo@coutinhos.com.br#R$4700.00#Contabilidade
+523#Eduarda Rodrigues Cordeiro#Arthur Gabriel Cordeiro  #Agatha Rodrigues  #Rua Rafaela Lima  , nº2031#11.205.998-3#(11) 92442-8578#Eduarda.Cordeiro@coutinhos.com.br#R$2000.00#Estoque
+524#Rafael Moreira Cardoso#Arthur Miguel Cardoso da Silva#Livia Moreira  #Praça Helena Bianchi  , nº2339#92.805.715-3#(11) 97742-5142#Rafael.Cardoso@coutinhos.com.br#R$3300.00#Marketing
+525#Emanuel Rodrigues Correa#Noah Correa de Almeida#Perola Rodrigues de Sousa#Alameda Beatriz Gladys de Luca, nº73#69.324.665-2#(11) 99438-9437#Emanuel.Correa@coutinhos.com.br#R$4500.00#Recursos Humanos
+526#Vitoria Ferrari Duarte#Augusto Duarte  #Melina Ferrari  #Rua Henrique Nascimento dos Santos, nº1841#70.927.690-2#(11) 94969-9252#Vitoria.Duarte@coutinhos.com.br#R$2400.00#Recursos Humanos
+527#Lucas Aparecido Cavalcante#Isac Cavalcante dos Santos#Liz Aparecido da Silva#Praça Emanuel Russo da Silva, nº544#57.715.105-3#(11) 96580-2500#Lucas.Cavalcante@coutinhos.com.br#R$4900.00#Contabilidade
+528#Sarah Rocha Miranda#Joao Pedro Miranda dos Reis#Ana Clara Rocha da Cruz#Rua Julia Cordeiro  , nº715#97.161.222-9#(11) 99266-8773#Sarah.Miranda@coutinhos.com.br#R$3900.00#Marketing
+529#Francisco Lopes Santos#Luan Santos  #Ana Liz Lopes  #Alameda Caua Romano da Costa, nº229#56.246.856-6#(11) 93707-4292#Francisco.Santos@coutinhos.com.br#R$3500.00#Financeiro
+530#Leticia Lopes Lopes#Francisco Lopes  #Clara Lopes  #Praça Lavinia Aparecido da Cruz, nº506#38.201.135-8#(11) 97310-5739#Leticia.Lopes@coutinhos.com.br#R$4500.00#Marketing
+531#Maria Fontana Barros#Thomas Barros  #Lavinia Fontana  #Travessa Eduardo Greco de Sousa, nº780#78.747.228-2#(11) 91714-2404#Maria.Barros@coutinhos.com.br#R$4700.00#Financeiro
+532#Clara Monteiro Conti#Davi Lucca Conti  #Gabriela Monteiro  #Alameda Antonio Ramos  , nº1861#52.518.246-4#(11) 92725-9426#Clara.Conti@coutinhos.com.br#R$2900.00#Comercial
+533#Laura Borges Braga#Joaquim Braga  #Bianca Borges do Nascimento#Alameda Joao Freitas  , nº1152#27.859.519-6#(11) 98705-4501#Laura.Braga@coutinhos.com.br#R$3000.00#Estoque
+534#Miguel Lopes Moraes#Benjamin Moraes  #Ana Lopes  #Alameda Isac Carneiro de Almeida, nº355#12.908.546-1#(11) 94853-5300#Miguel.Moraes@coutinhos.com.br#R$3600.00#Financeiro
+535#Waldecir Teixeira Colombo#Arthur Colombo  #Maria Sophia Teixeira de Andrade#Alameda Ana Medeiros  , nº2220#40.361.816-4#(11) 92284-7849#Waldecir.Colombo@coutinhos.com.br#R$3400.00#Marketing
+536#Livia Oliveira Fernandes#Antonio Fernandes  #Clarice Oliveira  #Rua Vinicius Nunes  , nº811#81.884.782-6#(11) 98000-6187#Livia.Fernandes@coutinhos.com.br#R$3700.00#Marketing
+537#Ketylin Santos Santos#Leonardo Santos  #Luna Santos do Carmo#Alameda Valentina Braga de Araujo, nº312#12.489.304-2#(11) 91688-2512#Ketylin.Santos@coutinhos.com.br#R$3000.00#Financeiro
+538#Agatha Pereira Moretti#Luiz Miguel Moretti  #Pietra Pereira  #Rua Lavinia Lombardi de Melo, nº27#94.422.748-5#(11) 93641-7572#Agatha.Moretti@coutinhos.com.br#R$1900.00#Estoque
+539#Caleb Campos Gallo#Enzo Gallo  #Milena Campos da Costa#Avenida Maite Melo de Andrade, nº843#47.128.851-2#(11) 91853-5203#Caleb.Gallo@coutinhos.com.br#R$3800.00#Marketing
+540#Ana Ramos Teixeira#Matheus Teixeira  #Maria Helena Ramos de Araujo#Praça Maria Ramos da Conceicao, nº1584#36.579.498-1#(11) 96208-2110#Ana.Teixeira@coutinhos.com.br#R$3400.00#Comercial
+541#Esther Silva Ferrari#Yago Ferrari da Rocha#Olivia Silva de Jesus#Praça Gabriel Machado  , nº2241#39.438.738-8#(11) 97159-6112#Esther.Ferrari@coutinhos.com.br#R$2300.00#Estoque
+542#Leticia Sousa Correia#Bruno Correia  #Maria Sousa de Assis#Praça Giovanna Medeiros  , nº922#12.961.263-4#(11) 99801-1149#Leticia.Correia@coutinhos.com.br#R$2300.00#Comercial
+543#Adriano Brito Pinheiro#Samuel Pinheiro de Freitas#Melina Brito de Araujo#Alameda Bernardo Neves do Nascimento, nº769#71.347.193-1#(11) 96355-4036#Adriano.Pinheiro@coutinhos.com.br#R$3100.00#Marketing
+544#Matheus Duarte Pinheiro#Mathias Pinheiro de Oliveira#Yasmin Duarte da Costa#Avenida Yasmin Melo  , nº2012#10.202.950-8#(11) 92147-3972#Matheus.Pinheiro@coutinhos.com.br#R$3700.00#Estoque
+545#Helena Bianchi Ricci#Bruno Ricci  #Maria Clara Bianchi  #Avenida Victor Gomes  , nº753#12.642.631-6#(11) 92431-1679#Helena.Ricci@coutinhos.com.br#R$3500.00#Contabilidade
+546#Cecilia Monteiro Santoro#Antonhy Santoro de Melo#Livia Monteiro  #Alameda Joaquim Pinto da Cunha, nº655#58.971.588-1#(11) 99363-4018#Cecilia.Santoro@coutinhos.com.br#R$4100.00#Comercial
+547#Pedro Pinheiro Pinto#Ryan Pinto de Paula#Ayla Pinheiro da Costa#Alameda Maite Medeiros  , nº1629#20.441.673-2#(11) 91758-2092#Pedro.Pinto@coutinhos.com.br#R$4200.00#Marketing
+548#Francisco Fontana Rossi#Guilherme Rossi  #Maria Isis Fontana  #Alameda Felipe Ricci  , nº1625#58.867.839-4#(11) 97989-3046#Francisco.Rossi@coutinhos.com.br#R$1500.00#Financeiro
+549#Eduardo Marques Campos#Caleb Campos da Cunha#Bella Marques  #Avenida Leticia Pires  , nº869#30.121.673-1#(11) 95075-3120#Eduardo.Campos@coutinhos.com.br#R$3600.00#Financeiro
+550#Daniel Mariani Souza#Otto Souza  #Livia Mariani  #Praça Lucca Ferreira  , nº1435#49.742.112-8#(11) 94261-3171#Daniel.Souza@coutinhos.com.br#R$4300.00#Marketing
+551#Isabelly Rodrigues Batista#Matteo Batista de Jesus#Louise Rodrigues da Cunha#Travessa Benicio Nascimento  , nº1404#41.756.407-7#(11) 93171-7688#Isabelly.Batista@coutinhos.com.br#R$4800.00#Financeiro
+552#Larissa Lombardi Coutinho#Jose Coutinho de Freitas#Maria Valentina Lombardi  #Travessa Emanuelly Ramos  , nº481#67.555.477-3#(11) 99836-1128#Larissa.Coutinho@coutinhos.com.br#R$3900.00#Recursos Humanos
+553#Lara Viana Nunes#Benjamin Nunes de Sousa#Lavinia Viana  #Rua Livia Brito  , nº447#92.953.892-7#(11) 95678-7139#Lara.Nunes@coutinhos.com.br#R$2000.00#Financeiro
+554#Isac Greco Moura#Antonio Moura  #Maria Vitoria Greco dos Reis#Alameda Silvanio Carneiro de Andrade, nº614#93.858.131-3#(11) 93246-9892#Isac.Moura@coutinhos.com.br#R$2600.00#Marketing
+555#Sarah Duarte Carvalho#Emanuel Carvalho de Souza#Maria Heloisa Duarte de Luca#Alameda Yasmin Araujo da Costa, nº557#57.226.216-3#(11) 94439-2770#Sarah.Carvalho@coutinhos.com.br#R$4300.00#Recursos Humanos
+556#Elisa Greco Cordeiro#Bruno Cordeiro de Souza#Maria Eduarda Greco  #Rua Antonio Lopes  , nº1694#83.610.375-2#(11) 95082-9616#Elisa.Cordeiro@coutinhos.com.br#R$1800.00#Recursos Humanos
+557#Murilo Cardoso Santoro#Samuel Santoro dos Santos#Lavinia Cardoso da Cunha#Avenida Adriano Moretti de Jesus, nº2227#98.588.127-8#(11) 98212-5263#Murilo.Santoro@coutinhos.com.br#R$2500.00#Estoque
+558#Adriano Siqueira Mancini#Ryan Mancini  #Melina Siqueira  #Praça Beatriz Russo  , nº910#16.434.629-5#(11) 96860-2574#Adriano.Mancini@coutinhos.com.br#R$1700.00#Contabilidade
+559#Sarah Almeida Mariani#Nicolas Mariani da Conceicao#Maria Vitoria Almeida de Lima#Travessa Miguel Bianchi  , nº653#33.783.916-2#(11) 98426-7049#Sarah.Mariani@coutinhos.com.br#R$2400.00#Marketing
+560#Nicole Fernandes Souza#Daniel Souza  #Ana Cecília Fernandes da Conceicao#Avenida Felipe Barros de Jesus, nº72#50.893.280-2#(11) 93387-3709#Nicole.Souza@coutinhos.com.br#R$3200.00#Recursos Humanos
+561#Luiza Braga Mancini#Joaquim Mancini da Silva#Isabelly Braga  #Avenida Joaquim Barbosa  , nº193#96.796.915-9#(11) 93266-1005#Luiza.Mancini@coutinhos.com.br#R$1700.00#Recursos Humanos
+562#Clara Rocha Guimaraes#Eduardo Guimaraes da Costa#Helena Rocha de Oliveira#Alameda Isabelly Monteiro  , nº731#22.580.774-2#(11) 92628-1313#Clara.Guimaraes@coutinhos.com.br#R$4900.00#Financeiro
+563#Victor Giordano Cordeiro#Vitor Cordeiro  #Emanuelly Giordano da Costa#Alameda Esther Conceicao  , nº835#15.479.370-6#(11) 99334-4222#Victor.Cordeiro@coutinhos.com.br#R$1600.00#Financeiro
+564#Luna Guimaraes Rossi#Mathias Rossi da Rocha#Maria Alice Guimaraes  #Praça Antonio Batista  , nº1973#13.309.521-2#(11) 98074-5472#Luna.Rossi@coutinhos.com.br#R$2200.00#Administrativo
+565#Eloa Borges Esposito#Yuri Thiago Esposito  #Maria Flor Borges da Silva#Praça Giovanna Correia  , nº553#42.134.921-6#(11) 91986-4084#Eloa.Esposito@coutinhos.com.br#R$2400.00#Comercial
+566#Giovanna Oliveira Pinheiro#Henry Pinheiro de Jesus#Pietra Oliveira da Conceicao#Rua Vicente Mendes  , nº281#73.561.276-1#(11) 96290-7587#Giovanna.Pinheiro@coutinhos.com.br#R$3300.00#Administrativo
+567#Augusto Russo Esposito#Eduardo Esposito de Souza#Clara Russo  #Travessa Theo Fernandes do Carmo, nº2227#41.958.636-4#(11) 93771-2754#Augusto.Esposito@coutinhos.com.br#R$2900.00#Recursos Humanos
+568#Antonio Monteiro Garcia#Antonio Garcia  #Olivia Monteiro  #Rua Daniel Farias dos Reis, nº1664#22.530.961-9#(11) 95839-2355#Antonio.Garcia@coutinhos.com.br#R$1800.00#Marketing
+569#Luna Tavares Giordano#Gustavo Giordano  #Leticia Tavares  #Rua Vicente Viana do Nascimento, nº1761#37.148.349-6#(11) 93268-3099#Luna.Giordano@coutinhos.com.br#R$4300.00#Estoque
+570#Waldecir Souza Gallo#Lucca Gallo  #Antonella Souza da Rocha#Rua Vitoria Dias  , nº1146#34.100.767-9#(11) 94356-6310#Waldecir.Gallo@coutinhos.com.br#R$3300.00#Financeiro
+571#Gabriel Vieira Duarte#Pedro Miguel Duarte  #Milena Vieira da Costa#Avenida Augusto Romano de Melo, nº188#61.963.358-6#(11) 95358-5960#Gabriel.Duarte@coutinhos.com.br#R$3500.00#Marketing
+572#Laura Dantas Neves#Davi Luiz Neves  #Vitoria Dantas  #Travessa Nayan Pires  , nº202#37.296.939-3#(11) 99190-5756#Laura.Neves@coutinhos.com.br#R$2700.00#Recursos Humanos
+573#Emanuelly Garcia Moura#Erick Moura  #Melina Garcia da Rocha#Praça Augusto Aparecido da Silva, nº87#95.122.759-7#(11) 91869-7856#Emanuelly.Moura@coutinhos.com.br#R$3900.00#Contabilidade
+574#Isabella Siqueira Coutinho#Benjamin Coutinho de Jesus#Valentina Siqueira de Castro#Rua Valentina Alves da Silva, nº1713#83.690.272-5#(11) 91168-8679#Isabella.Coutinho@coutinhos.com.br#R$2300.00#Financeiro
+575#Eloa Cruz Cruz#Samuel Cruz  #Sophia Cruz  #Alameda Nicolas Medeiros de Castro, nº2204#70.657.685-8#(11) 99114-3492#Eloa.Cruz@coutinhos.com.br#R$3900.00#Financeiro
+576#Augusto Gomes Garcia#Eduardo Garcia da Rocha#Ana Sophia Gomes  #Travessa Agatha Mancini  , nº394#54.589.688-9#(11) 93621-6612#Augusto.Garcia@coutinhos.com.br#R$1700.00#Administrativo
+577#Pedro Conti Esposito#Arthur Henrique Esposito  #Analu Conti  #Rua Joao Nascimento de Almeida, nº1277#41.356.626-5#(11) 92672-6504#Pedro.Esposito@coutinhos.com.br#R$2900.00#Estoque
+578#Manuela Moraes Reis#Luiz Miguel Reis de Oliveira#Luiza Moraes  #Alameda Alicia Santos  , nº1171#85.175.934-9#(11) 98526-3038#Manuela.Reis@coutinhos.com.br#R$1900.00#Contabilidade
+579#Guilherme Ferreira Dias#Vinicius Dias  #Luiza Ferreira de Freitas#Rua Luiza Ramos dos Santos, nº2193#31.275.876-7#(11) 91088-2308#Guilherme.Dias@coutinhos.com.br#R$2600.00#Comercial
+580#Vicente Giordano Rodrigues#Flavio Rodrigues  #Marina Giordano de Lima#Rua Caio Medeiros da Silva, nº52#33.239.855-6#(11) 91838-4662#Vicente.Rodrigues@coutinhos.com.br#R$4600.00#Financeiro
+581#Alice Mancini Alves#Lucas Gabriel Alves de Melo#Analu Mancini  #Avenida Isadora Araujo  , nº1257#14.723.227-6#(11) 96263-7151#Alice.Alves@coutinhos.com.br#R$3500.00#Marketing
+582#Mariana Marino Farias#Antonio Farias  #Melina Marino dos Santos#Avenida Isabelly Mancini  , nº1233#10.206.650-9#(11) 92273-8273#Mariana.Farias@coutinhos.com.br#R$3100.00#Recursos Humanos
+583#Gabriel Martins Rizzo#Yago Rizzo  #Maite Martins de Jesus#Avenida Davi Leite  , nº2325#66.817.278-6#(11) 99112-6593#Gabriel.Rizzo@coutinhos.com.br#R$2200.00#Contabilidade
+584#Luiza Sousa Cordeiro#Otto Cordeiro  #Rebeca Sousa de Lima#Avenida Emanuel Romano  , nº2101#91.891.806-3#(11) 98187-8416#Luiza.Cordeiro@coutinhos.com.br#R$3100.00#Administrativo
+585#Leonardo Henrique Rodrigues#Erick Rodrigues  #Allana Henrique de Melo#Avenida Heitor Rocha  , nº455#68.575.590-7#(11) 98506-5501#Leonardo.Rodrigues@coutinhos.com.br#R$1900.00#Marketing
+586#Victor Braga Garcia#Guilherme Garcia  #Heloise Braga de Sousa#Alameda Valentina Guimaraes  , nº1959#16.964.251-1#(11) 98265-1969#Victor.Garcia@coutinhos.com.br#R$1800.00#Recursos Humanos
+587#Francisco Coutinho Teixeira#Icaro Teixeira  #Bella Coutinho da Silva#Rua Isadora Ramos  , nº192#91.612.451-7#(11) 94293-7494#Francisco.Teixeira@coutinhos.com.br#R$3700.00#Contabilidade
+588#Francisco Fernandes Brito#Jose Brito da Rocha#Stella Fernandes do Carmo#Avenida Lucca Borges  , nº1592#10.626.223-6#(11) 99164-1485#Francisco.Brito@coutinhos.com.br#R$1800.00#Comercial
+589#Joao Silva Henrique#Guilherme Henrique  #Amanda Silva  #Praça Larissa Marino do Nascimento, nº1131#59.448.979-9#(11) 95624-2349#Joao.Henrique@coutinhos.com.br#R$2300.00#Estoque
+590#Heloísa Machado Pinheiro#Kaue Pinheiro de Carvalho#Joana Machado de Jesus#Rua Eduarda Brito  , nº1601#59.446.372-8#(11) 93313-9485#Heloísa.Pinheiro@coutinhos.com.br#R$2600.00#Contabilidade
+591#Agatha Costa Dantas#Breno Dantas da Conceicao#Stella Costa  #Alameda Laura Garcia de Araujo, nº1015#25.220.440-5#(11) 97297-2668#Agatha.Dantas@coutinhos.com.br#R$3300.00#Marketing
+592#Heitor Gomes Lima#Rafael Lima de Freitas#Malu Gomes  #Praça Cecilia Sousa da Costa, nº1983#32.976.716-3#(11) 99737-4316#Heitor.Lima@coutinhos.com.br#R$4400.00#Contabilidade
+593#Antonio Mancini Rocha#Icaro Rocha  #Joana Mancini  #Praça Eduardo Bezerra  , nº279#63.286.446-8#(11) 97950-2148#Antonio.Rocha@coutinhos.com.br#R$3000.00#Contabilidade
+594#Lara Giordano Nunes#Pedro Henrique Nunes da Cruz#Joana Giordano da Costa#Avenida Francisco Coutinho de Almeida, nº533#92.582.441-1#(11) 93247-3759#Lara.Nunes@coutinhos.com.br#R$4700.00#Administrativo
+595#Helena Pinheiro Duarte#Hugo Duarte  #Laura Pinheiro  #Praça Isac Soares de Sousa, nº1020#86.298.103-7#(11) 95280-1677#Helena.Duarte@coutinhos.com.br#R$3900.00#Marketing
+596#Eloa Rizzo Moraes#Noah Moraes  #Ana Cecília Rizzo  #Alameda Vicente Borges de Freitas, nº1141#80.529.768-3#(11) 96335-6916#Eloa.Moraes@coutinhos.com.br#R$2800.00#Marketing
+597#Lorenzo Mariani Almeida#Emanuel Almeida  #Bella Mariani  #Avenida Isis Bianchi  , nº1612#57.821.647-9#(11) 91805-3082#Lorenzo.Almeida@coutinhos.com.br#R$4500.00#Contabilidade
+598#Victor Dantas Moretti#Thomas Moretti de Sousa#Maria Luiza Dantas  #Praça Caleb Cordeiro  , nº1884#75.957.261-5#(11) 98177-7992#Victor.Moretti@coutinhos.com.br#R$2900.00#Estoque
+599#Nayan Miranda Nascimento#Derick Nascimento de Melo#Lara Miranda da Rocha#Travessa Sarah Coutinho de Oliveira, nº1878#55.917.239-1#(11) 96588-4296#Nayan.Nascimento@coutinhos.com.br#R$1500.00#Estoque
+600#Mariana Coelho Coelho#Yan Coelho  #Maria Valentina Coelho de Carvalho#Travessa Wylliam Garcia de Lima, nº742#82.961.752-4#(11) 99068-2704#Mariana.Coelho@coutinhos.com.br#R$3700.00#Estoque
+601#Yasmin Gallo Brito#Emanuel Brito de Andrade#Maite Gallo de Melo#Rua Esther Colombo  , nº191#51.207.629-8#(11) 99101-1451#Yasmin.Brito@coutinhos.com.br#R$3600.00#Financeiro
+602#Eduardo Braga Colombo#Flavio Colombo  #Maria Luiza Braga  #Travessa Leonardo Conti de Assis, nº1712#12.849.135-3#(11) 95047-4051#Eduardo.Colombo@coutinhos.com.br#R$3900.00#Recursos Humanos
+603#Agatha Fernandes Vieira#Luiz Felipe Vieira dos Reis#Rafaela Fernandes  #Avenida Beatriz Moraes dos Santos, nº173#17.609.124-7#(11) 96462-5258#Agatha.Vieira@coutinhos.com.br#R$3700.00#Contabilidade
+604#Emanuel Romano Costa#Hugo Costa  #Alicia Romano de Paula#Alameda Heitor Ramos  , nº688#81.772.766-3#(11) 98947-2570#Emanuel.Costa@coutinhos.com.br#R$1700.00#Comercial
+605#Melissa Freitas Ferrari#Pietro Ferrari  #Julia Freitas  #Praça Emanuel Cavalcante de Luca, nº57#32.228.197-2#(11) 94097-3854#Melissa.Ferrari@coutinhos.com.br#R$4100.00#Estoque
+606#Vinicius Viana Jhonatta#Miguel Jhonatta da Cunha#Lorena Viana da Rocha#Alameda Antonella Mariani da Costa, nº855#68.701.935-7#(11) 99802-4644#Vinicius.Jhonatta@coutinhos.com.br#R$4200.00#Comercial
+607#Gabriel Oliveira Miranda#Vinicius Miranda de Almeida#Maria Flor Oliveira  #Alameda Esther Araujo do Carmo, nº467#11.469.302-2#(11) 95718-9671#Gabriel.Miranda@coutinhos.com.br#R$3000.00#Financeiro
+608#Lucas Pires Gladys#Raul Gladys de Melo#Mariana Pires de Assis#Rua Gabriel Viana da Conceicao, nº55#53.291.947-8#(11) 92325-4873#Lucas.Gladys@coutinhos.com.br#R$2500.00#Marketing
+609#Antonella Correa Correa#Nicolas Correa  #Maria Sophia Correa  #Avenida Augusto Santoro  , nº2420#94.870.585-5#(11) 96131-4607#Antonella.Correa@coutinhos.com.br#R$2700.00#Marketing
+610#Luiza Lombardi Miranda#Hugo Miranda de Lima#Isis Lombardi  #Praça Lorenzo Nascimento de Melo, nº2343#56.689.705-9#(11) 96185-6367#Luiza.Miranda@coutinhos.com.br#R$2900.00#Administrativo
+611#Ketylin Machado Ricci#Valentim Ricci  #Antonella Machado do Carmo#Praça Beatriz Duarte de Andrade, nº124#71.924.588-1#(11) 96972-4418#Ketylin.Ricci@coutinhos.com.br#R$3700.00#Comercial
+612#Rebeca Cordeiro Cavalcante#Arthur Cavalcante de Paula#Carolina Cordeiro  #Rua Miguel Conti de Luca, nº742#39.766.159-6#(11) 95749-1852#Rebeca.Cavalcante@coutinhos.com.br#R$1500.00#Administrativo
+613#Lorenzo Rossi Russo#Vitor Russo de Castro#Bella Rossi  #Alameda Pietro Andrade  , nº1047#92.669.257-8#(11) 94712-8142#Lorenzo.Russo@coutinhos.com.br#R$3400.00#Financeiro
+614#Isabella Ferrari Miranda#Benjamin Miranda  #Fernanda Ferrari de Jesus#Rua Lorena Gallo de Luca, nº2244#61.159.922-8#(11) 95992-5504#Isabella.Miranda@coutinhos.com.br#R$4900.00#Marketing
+615#Ketylin Almeida Goncalves#Isac Goncalves da Conceicao#Ana Vitoria Almeida  #Avenida Agatha Giordano da Cruz, nº1335#82.361.718-6#(11) 97528-8474#Ketylin.Goncalves@coutinhos.com.br#R$3100.00#Comercial
+616#Benjamin Ricci Ricci#Luiz Felipe Ricci  #Eduarda Ricci  #Rua Valentina Cavalcante  , nº1304#81.366.746-6#(11) 96173-4839#Benjamin.Ricci@coutinhos.com.br#R$4400.00#Marketing
+617#Julia Carneiro Marino#Nathan Marino de Paula#Larissa Carneiro da Costa#Rua Benjamin Araujo de Assis, nº44#62.204.218-9#(11) 93081-2626#Julia.Marino@coutinhos.com.br#R$3900.00#Contabilidade
+618#Samuel Gallo Pereira#Lucas Gabriel Pereira de Souza#Isabella Gallo  #Rua Isis Vieira  , nº2270#77.568.937-8#(11) 96364-7121#Samuel.Pereira@coutinhos.com.br#R$3200.00#Contabilidade
+619#Ana Fernandes Correia#Kaue Correia  #Heloise Fernandes dos Reis#Travessa Sophia Mendes de Luca, nº1196#32.913.677-6#(11) 91633-1582#Ana.Correia@coutinhos.com.br#R$4200.00#Financeiro
+620#Theo Rossi Guimaraes#Enrico Guimaraes  #Maria Cecilia Rossi  #Alameda Luna Colombo  , nº2068#95.372.156-1#(11) 94885-9507#Theo.Guimaraes@coutinhos.com.br#R$3900.00#Estoque
+621#Gabriel Costa Oliveira#Luiz Henrique Oliveira  #Vitoria Costa  #Avenida Nicole Esposito  , nº166#37.918.557-8#(11) 97183-9074#Gabriel.Oliveira@coutinhos.com.br#R$4700.00#Comercial
+622#Gabriela Romano Ferrari#Joao Pedro Ferrari  #Agatha Romano  #Alameda Livia Nascimento  , nº1304#46.941.838-2#(11) 96369-4480#Gabriela.Ferrari@coutinhos.com.br#R$3600.00#Financeiro
+623#Enzo Barbieri Rizzo#Levi Rizzo de Luca#Alice Barbieri da Costa#Praça Davi Teixeira de Sousa, nº969#90.153.312-4#(11) 91098-6512#Enzo.Rizzo@coutinhos.com.br#R$1900.00#Financeiro
+624#Sophia Batista Mariani#Henrique Mariani do Nascimento#Maria Sophia Batista  #Praça Caua Freitas de Sousa, nº1892#27.697.754-6#(11) 91037-8816#Sophia.Mariani@coutinhos.com.br#R$2900.00#Administrativo
+625#Cecilia Henrique Teixeira#Matheus Teixeira  #Allana Henrique  #Rua Rafaela Gomes  , nº546#93.347.520-2#(11) 95618-2806#Cecilia.Teixeira@coutinhos.com.br#R$2300.00#Contabilidade
+626#Heloísa Santana Almeida#Enrico Almeida  #Maria Fernanda Santana de Andrade#Travessa Bernardo Bianchi  , nº2301#54.207.548-9#(11) 93494-2640#Heloísa.Almeida@coutinhos.com.br#R$4700.00#Marketing
+627#Waldecir Santos Batista#Mathias Batista da Conceicao#Esther Santos de Freitas#Alameda Alice Cardoso  , nº848#48.289.586-5#(11) 99488-9319#Waldecir.Batista@coutinhos.com.br#R$4300.00#Contabilidade
+628#Mariana Leite Greco#Benjamin Greco de Freitas#Maria Laura Leite de Araujo#Avenida Joaquim Nogueira  , nº1787#58.983.436-9#(11) 95143-8223#Mariana.Greco@coutinhos.com.br#R$3600.00#Recursos Humanos
+629#Rebeca Viana Ferreira#Icaro Ferreira de Carvalho#Mariana Viana de Freitas#Alameda Pedro Araujo da Conceicao, nº410#49.172.242-2#(11) 99826-8237#Rebeca.Ferreira@coutinhos.com.br#R$3600.00#Estoque
+630#Ketylin Bezerra Ricci#Anthony Gabriel Ricci dos Reis#Isabelly Bezerra de Assis#Travessa Lorenzo Ramos  , nº2060#43.799.120-8#(11) 95985-6391#Ketylin.Ricci@coutinhos.com.br#R$3700.00#Recursos Humanos
+631#Melissa Bezerra Correia#Daniel Correia  #Larissa Bezerra  #Alameda Isis Campos  , nº1516#26.809.143-8#(11) 93175-8072#Melissa.Correia@coutinhos.com.br#R$4300.00#Recursos Humanos
+632#Alice Miranda Vieira#Theodoro Vieira da Cunha#Laura Miranda da Rocha#Alameda Enzo Cordeiro  , nº432#21.452.248-5#(11) 97660-3175#Alice.Vieira@coutinhos.com.br#R$3800.00#Estoque
+633#Augusto Cruz Silveira#Pedro Henrique Silveira do Nascimento#Maria Luiza Cruz de Luca#Praça Rafael Aparecido de Jesus, nº392#47.409.486-5#(11) 93293-3828#Augusto.Silveira@coutinhos.com.br#R$4000.00#Marketing
+634#Leticia Barros Costa#Antonhy Costa  #Valentina Barros  #Travessa Luiza Martins  , nº734#97.503.158-3#(11) 99373-8657#Leticia.Costa@coutinhos.com.br#R$2100.00#Recursos Humanos
+635#Clara Romano Conceicao#Otto Conceicao  #Vitoria Romano de Sousa#Travessa Bryan Conceicao  , nº2018#75.361.932-1#(11) 98537-2010#Clara.Conceicao@coutinhos.com.br#R$2700.00#Contabilidade
+636#Eduardo Cordeiro Moura#Emanuel Moura  #Maria Cecilia Cordeiro de Jesus#Alameda Joaquim Colombo de Carvalho, nº1935#93.630.481-2#(11) 92915-9887#Eduardo.Moura@coutinhos.com.br#R$2800.00#Administrativo
+637#Guilherme Dantas Lima#Heitor Lima de Luca#Antonella Dantas da Cunha#Alameda Benjamin Barbieri de Luca, nº1802#69.697.701-1#(11) 92940-8571#Guilherme.Lima@coutinhos.com.br#R$4900.00#Comercial
+638#Gabriel Santana Borges#Thomas Borges de Freitas#Maria Valentina Santana de Andrade#Rua Rafael Gomes de Freitas, nº1510#77.693.448-5#(11) 94884-5969#Gabriel.Borges@coutinhos.com.br#R$1600.00#Comercial
+639#Samuel Coelho Pires#Gustavo Pires  #Beatriz Coelho de Paula#Travessa Caua Mancini da Rocha, nº2048#95.908.219-2#(11) 97271-3007#Samuel.Pires@coutinhos.com.br#R$3000.00#Administrativo
+640#Agatha Mariani Silveira#Thomas Silveira  #Mirella Mariani  #Rua Luna Reis de Araujo, nº2030#56.782.981-4#(11) 95712-1948#Agatha.Silveira@coutinhos.com.br#R$2100.00#Estoque
+641#Valentina Lima Carneiro#Enrico Carneiro  #Ana Livia Lima do Nascimento#Praça Arthur Cruz  , nº104#87.228.122-3#(11) 99576-7407#Valentina.Carneiro@coutinhos.com.br#R$3400.00#Comercial
+642#Lavinia Freitas Pires#Enzo Pires  #Elisa Freitas  #Praça Livia Lima de Jesus, nº1932#26.609.472-7#(11) 97742-9214#Lavinia.Pires@coutinhos.com.br#R$2500.00#Administrativo
+643#Mariana Marino Greco#Levi Greco de Melo#Ana Liz Marino  #Alameda Beatriz Tavares  , nº258#18.798.985-7#(11) 91347-4485#Mariana.Greco@coutinhos.com.br#R$2800.00#Recursos Humanos
+644#Leticia Carneiro Dantas#Pietro Dantas da Costa#Lara Carneiro  #Avenida Davi Gomes da Rocha, nº406#90.862.318-2#(11) 93778-8348#Leticia.Dantas@coutinhos.com.br#R$3300.00#Financeiro
+645#Rafaela Moraes Borges#Pietro Borges  #Allana Moraes  #Travessa Lucas Nunes de Souza, nº2343#49.265.427-4#(11) 91290-6026#Rafaela.Borges@coutinhos.com.br#R$4600.00#Comercial
+646#Lucca Santos Nascimento#Yago Nascimento  #Livia Santos de Luca#Rua Matheus Barros do Nascimento, nº1900#78.449.878-4#(11) 91501-4182#Lucca.Nascimento@coutinhos.com.br#R$2400.00#Contabilidade
+647#Nicole Gladys Goncalves#Murilo Goncalves de Souza#Alicia Gladys  #Alameda Waldecir Guimaraes de Araujo, nº2230#35.645.160-8#(11) 99827-4056#Nicole.Goncalves@coutinhos.com.br#R$4000.00#Marketing
+648#Rebeca Ramos Gomes#Ryan Gomes de Paula#Olivia Ramos dos Santos#Alameda Manuela Gallo de Paula, nº1497#70.449.994-4#(11) 92638-2623#Rebeca.Gomes@coutinhos.com.br#R$2000.00#Recursos Humanos
+649#Francisco Moreira Guimaraes#Lucas Gabriel Guimaraes de Castro#Ana Beatriz Moreira de Sousa#Alameda Lucas Oliveira  , nº1872#26.370.793-4#(11) 91180-4056#Francisco.Guimaraes@coutinhos.com.br#R$1900.00#Contabilidade
+650#Vitoria Mariani Siqueira#Lucca Siqueira  #Maria Flor Mariani de Sousa#Praça Giovanna Souza  , nº283#88.305.511-9#(11) 94593-1707#Vitoria.Siqueira@coutinhos.com.br#R$2100.00#Comercial
+651#Emanuel Freitas Pereira#Luiz Henrique Pereira  #Eduarda Freitas de Souza#Praça Kaique Alves  , nº2351#55.686.516-4#(11) 92432-3645#Emanuel.Pereira@coutinhos.com.br#R$3800.00#Financeiro
+652#Nicolas Vieira Ferreira#Benjamin Ferreira da Silva#Bella Vieira  #Alameda Caua Cordeiro da Costa, nº518#55.946.621-9#(11) 95721-3403#Nicolas.Ferreira@coutinhos.com.br#R$3300.00#Contabilidade
+653#Joao Garcia Gladys#Kaue Gladys  #Maria Flor Garcia  #Travessa Vitoria Gladys de Assis, nº1112#84.110.936-5#(11) 98805-4370#Joao.Gladys@coutinhos.com.br#R$3700.00#Marketing
+654#Bento Carneiro Rodrigues#Jose Rodrigues  #Gabriela Carneiro de Assis#Avenida Beatriz Carvalho  , nº1776#61.352.905-4#(11) 97578-4240#Bento.Rodrigues@coutinhos.com.br#R$4900.00#Estoque
+655#Emanuel Correia Carvalho#Bruno Carvalho  #Perola Correia  #Avenida Caleb Conceicao  , nº1907#67.930.164-1#(11) 96595-9161#Emanuel.Carvalho@coutinhos.com.br#R$2000.00#Recursos Humanos
+656#Antonio Araujo Leite#Caleb Leite da Costa#Isabella Araujo de Assis#Avenida Joaquim Silveira  , nº121#18.325.310-8#(11) 99871-4172#Antonio.Leite@coutinhos.com.br#R$3600.00#Administrativo
+657#Lorena Henrique Bezerra#Theodoro Bezerra  #Olivia Henrique  #Praça Matheus Pires  , nº1926#80.989.747-8#(11) 98600-3248#Lorena.Bezerra@coutinhos.com.br#R$2400.00#Financeiro
+658#Victor Miranda Cordeiro#Eduardo Cordeiro  #Marina Miranda  #Travessa Rafaela Souza  , nº1769#29.696.915-9#(11) 91228-5946#Victor.Cordeiro@coutinhos.com.br#R$4500.00#Financeiro
+659#Emanuelly Rossi Colombo#Enrico Colombo de Carvalho#Melinda Rossi de Lima#Rua Melissa Martins  , nº1448#83.405.155-8#(11) 91324-6834#Emanuelly.Colombo@coutinhos.com.br#R$3100.00#Recursos Humanos
+660#Lucilia Neves Marques#Matheus Marques  #Eduarda Neves de Luca#Travessa Ketylin Henrique  , nº2263#96.561.484-6#(11) 98658-3916#Lucilia.Marques@coutinhos.com.br#R$4000.00#Contabilidade
+661#Eloa Andrade Coelho#Pedro Coelho  #Bianca Andrade  #Travessa Manuela Reis da Costa, nº2415#16.783.964-3#(11) 94255-8333#Eloa.Coelho@coutinhos.com.br#R$2100.00#Financeiro
+662#Lucilia Siqueira Gallo#Enzo Gallo  #Helena Siqueira  #Alameda Caleb Farias dos Santos, nº2078#33.763.228-5#(11) 93852-1689#Lucilia.Gallo@coutinhos.com.br#R$2500.00#Recursos Humanos
+663#Sarah Rocha Miranda#Luiz Henrique Miranda  #Gabrielly Rocha  #Praça Gabriela Santos  , nº1479#33.121.620-4#(11) 97139-7342#Sarah.Miranda@coutinhos.com.br#R$2000.00#Recursos Humanos
+664#Isadora Coelho Bezerra#Vitor Hugo Bezerra da Costa#Agatha Coelho  #Praça Bernardo Gallo de Sousa, nº2050#93.719.979-2#(11) 97833-7275#Isadora.Bezerra@coutinhos.com.br#R$1600.00#Estoque
+665#Joao Cavalcante Ricci#Rafael Ricci da Cruz#Luna Cavalcante  #Rua Matheus Campos  , nº151#19.395.168-7#(11) 91965-9156#Joao.Ricci@coutinhos.com.br#R$2700.00#Financeiro
+666#Theo Henrique Fernandes#Raul Fernandes  #Leticia Henrique  #Travessa Mariana Fontana  , nº680#88.239.619-8#(11) 99492-2861#Theo.Fernandes@coutinhos.com.br#R$3700.00#Financeiro
+667#Antonio Nunes Fontana#Theodoro Fontana de Araujo#Lavinia Nunes de Lima#Alameda Gabriel Nunes  , nº589#72.147.667-2#(11) 91151-9420#Antonio.Fontana@coutinhos.com.br#R$3800.00#Comercial
+668#Pedro Araujo Nunes#Luiz Felipe Nunes de Souza#Maria Alice Araujo de Almeida#Travessa Agatha Goncalves de Araujo, nº398#87.651.777-9#(11) 99819-7739#Pedro.Nunes@coutinhos.com.br#R$2500.00#Marketing
+669#Maria Medeiros Rocha#Daniel Rocha  #Ana Vitoria Medeiros de Paula#Praça Rafaela Melo da Costa, nº182#38.372.421-6#(11) 94312-6697#Maria.Rocha@coutinhos.com.br#R$4300.00#Estoque
+670#Heitor Gomes Soares#Vitor Soares  #Isabel Gomes  #Travessa Lucas Santoro  , nº801#94.283.144-5#(11) 97279-4346#Heitor.Soares@coutinhos.com.br#R$3800.00#Estoque
+671#Enzo Machado Nascimento#Noah Nascimento de Sousa#Eduarda Machado do Nascimento#Avenida Lavinia Mancini de Assis, nº1963#82.306.612-8#(11) 96498-4423#Enzo.Nascimento@coutinhos.com.br#R$4300.00#Financeiro
+672#Bento Mendes Santoro#Theo Santoro de Sousa#Ana Cecília Mendes da Rocha#Alameda Caio Conceicao  , nº1089#77.929.111-2#(11) 99227-2947#Bento.Santoro@coutinhos.com.br#R$4700.00#Administrativo
+673#Isadora Dantas Lima#Enzo Lima dos Reis#Sarah Dantas de Carvalho#Avenida Lucca Tavares  , nº288#39.679.395-2#(11) 98870-8214#Isadora.Lima@coutinhos.com.br#R$2700.00#Recursos Humanos
+674#Pietro Marques Sousa#Davi Luiz Sousa  #Bianca Marques de Lima#Rua Pietro Russo  , nº191#80.863.789-7#(11) 94762-6417#Pietro.Sousa@coutinhos.com.br#R$1900.00#Administrativo
+675#Vinicius Guimaraes Silveira#Jose Silveira  #Luiza Guimaraes de Andrade#Alameda Mariana Aparecido  , nº2477#35.605.443-2#(11) 94285-6803#Vinicius.Silveira@coutinhos.com.br#R$4600.00#Marketing
+676#Murilo Tavares Borges#Joaquim Borges da Rocha#Clara Tavares  #Travessa Francisco Mariani de Carvalho, nº176#49.152.760-1#(11) 94562-7899#Murilo.Borges@coutinhos.com.br#R$3000.00#Comercial
+677#Livia Lombardi Nunes#Jose Nunes  #Mariah Lombardi de Souza#Avenida Lavinia Teixeira  , nº2060#52.984.976-3#(11) 92857-2091#Livia.Nunes@coutinhos.com.br#R$3800.00#Recursos Humanos
+678#Larissa Brito Esposito#Lucas Esposito de Araujo#Rafaela Brito do Carmo#Praça Clara Teixeira de Paula, nº26#55.589.806-1#(11) 95909-8864#Larissa.Esposito@coutinhos.com.br#R$2400.00#Estoque
+679#Livia Giordano Araujo#Samuel Araujo  #Ana Laura Giordano  #Praça Leonardo Bezerra  , nº280#30.981.416-3#(11) 93985-9418#Livia.Araujo@coutinhos.com.br#R$2500.00#Comercial
+680#Livia Russo Ricci#Davi Ricci  #Perola Russo  #Avenida Lorena Conceicao  , nº664#90.879.140-7#(11) 96246-1678#Livia.Ricci@coutinhos.com.br#R$3400.00#Comercial
+681#Anthony Melo Costa#Vinicius Costa de Andrade#Maria Clara Melo de Andrade#Travessa Clara Monteiro de Almeida, nº491#12.699.720-3#(11) 91037-3467#Anthony.Costa@coutinhos.com.br#R$4800.00#Marketing
+682#Caleb Ferreira Dantas#Lorenzo Dantas de Melo#Pietra Ferreira de Luca#Travessa Beatriz Bianchi  , nº1766#59.332.595-2#(11) 94599-1096#Caleb.Dantas@coutinhos.com.br#R$3800.00#Recursos Humanos
+683#Sarah Barros Correia#Hugo Correia  #Emanuelly Barros  #Avenida Felipe Ferreira de Freitas, nº1355#95.479.729-3#(11) 96792-8281#Sarah.Correia@coutinhos.com.br#R$2500.00#Administrativo
+684#Clara Brito Aparecido#Bryan Aparecido do Carmo#Clarice Brito de Castro#Praça Gabriel Almeida de Freitas, nº904#53.893.332-8#(11) 94060-1062#Clara.Aparecido@coutinhos.com.br#R$3700.00#Comercial
+685#Gael Russo Carneiro#Noah Carneiro dos Santos#Luiza Russo  #Avenida Bryan Teixeira  , nº925#79.737.753-2#(11) 95250-4817#Gael.Carneiro@coutinhos.com.br#R$2900.00#Financeiro
+686#Augusto Cavalcante Cardoso#Miguel Cardoso de Lima#Maya Cavalcante de Oliveira#Avenida Clara Aparecido de Carvalho, nº131#88.628.675-1#(11) 91288-9184#Augusto.Cardoso@coutinhos.com.br#R$3100.00#Administrativo
+687#Maite Bianchi Goncalves#Antonhy Goncalves da Rocha#Melina Bianchi dos Santos#Rua Maria Almeida da Conceicao, nº243#59.124.988-4#(11) 97337-3565#Maite.Goncalves@coutinhos.com.br#R$2000.00#Financeiro
+688#Giovanna Moraes Dantas#Joao Miguel Dantas de Jesus#Melissa Moraes de Almeida#Avenida Wylliam Jhonatta  , nº176#20.417.976-6#(11) 92574-9320#Giovanna.Dantas@coutinhos.com.br#R$2300.00#Comercial
+689#Ana Borges Souza#Yuri Thiago Souza de Melo#Ana Luiza Borges  #Avenida Pedro Ribeiro de Assis, nº557#51.173.399-5#(11) 97638-8726#Ana.Souza@coutinhos.com.br#R$3700.00#Comercial
+690#Arthur Rocha Araujo#Thomas Araujo  #Isis Rocha  #Alameda Gael Miranda  , nº1067#77.467.185-8#(11) 98587-3110#Arthur.Araujo@coutinhos.com.br#R$4700.00#Estoque
+691#Isis Greco Gomes#Erick Gomes  #Ana Julia Greco  #Rua Murilo Viana de Lima, nº1348#32.346.716-7#(11) 92422-8552#Isis.Gomes@coutinhos.com.br#R$4500.00#Administrativo
+692#Julia Pinto Mendes#Joaquim Mendes dos Reis#Mariah Pinto de Luca#Rua Livia Ricci do Carmo, nº1433#79.540.819-9#(11) 99940-8145#Julia.Mendes@coutinhos.com.br#R$3100.00#Comercial
+693#Esther Machado Rossi#Lucas Rossi de Melo#Allana Machado  #Rua Caio Mancini dos Santos, nº151#34.128.960-5#(11) 95467-6513#Esther.Rossi@coutinhos.com.br#R$1800.00#Financeiro
+694#Leonardo Correia Nascimento#Francisco Nascimento  #Isadora Correia de Melo#Travessa Nicolas Siqueira  , nº526#98.914.748-2#(11) 92716-1158#Leonardo.Nascimento@coutinhos.com.br#R$2200.00#Marketing
+695#Caleb Aparecido Bianchi#Noah Bianchi da Conceicao#Lara Aparecido  #Avenida Eloa Viana  , nº231#80.654.539-6#(11) 96204-1728#Caleb.Bianchi@coutinhos.com.br#R$4800.00#Financeiro
+696#Joaquim Correia Mariani#Oliver Mariani  #Pietra Correia de Freitas#Avenida Lucilia Fontana  , nº2377#41.451.339-8#(11) 94095-3423#Joaquim.Mariani@coutinhos.com.br#R$3500.00#Administrativo
+697#Mariana Gallo Mancini#Joao Pedro Mancini  #Emilly Gallo de Paula#Rua Manuela Ferrari da Cunha, nº2373#92.769.250-7#(11) 95994-1261#Mariana.Mancini@coutinhos.com.br#R$2600.00#Comercial
+698#Matheus Dias Braga#Bryan Braga  #Maria Valentina Dias  #Avenida Heitor Vieira de Carvalho, nº1856#26.661.971-1#(11) 97096-4016#Matheus.Braga@coutinhos.com.br#R$2900.00#Recursos Humanos
+699#Emanuel Borges Moraes#Pedro Henrique Moraes  #Ana Sophia Borges da Conceicao#Alameda Miguel Monteiro  , nº842#44.637.169-6#(11) 91696-7753#Emanuel.Moraes@coutinhos.com.br#R$4000.00#Contabilidade
+700#Manuela Marino Bianchi#Yago Bianchi  #Maria Clara Marino da Rocha#Avenida Bento Batista  , nº2170#65.588.807-5#(11) 96048-6206#Manuela.Bianchi@coutinhos.com.br#R$1500.00#Administrativo
+701#Gustavo Dantas Cardoso#Josue Cardoso de Sousa#Julia Dantas  #Praça Laura Pires  , nº2492#23.257.308-8#(11) 98716-1886#Gustavo.Cardoso@coutinhos.com.br#R$2600.00#Comercial
+702#Felipe Araujo Correa#Martin Correa  #Melissa Araujo da Costa#Rua Elisa Rossi de Castro, nº1300#98.321.444-8#(11) 96039-8854#Felipe.Correa@coutinhos.com.br#R$2900.00#Contabilidade
+703#Eloa Rossi Marques#Joao Guilherme Marques da Rocha#Maria Fernanda Rossi  #Avenida Gael Farias  , nº2274#65.811.157-2#(11) 91828-2169#Eloa.Marques@coutinhos.com.br#R$1500.00#Marketing
+704#Livia Leite Farias#Bento Farias da Cruz#Ana Laura Leite  #Praça Isabelly Aparecido de Carvalho, nº1227#14.810.417-6#(11) 97417-5655#Livia.Farias@coutinhos.com.br#R$2100.00#Marketing
+705#Isac Lima Colombo#Augusto Colombo  #Allana Lima dos Reis#Rua Laura Cordeiro  , nº2159#82.764.287-5#(11) 95758-6272#Isac.Colombo@coutinhos.com.br#R$1800.00#Financeiro
+706#Rafael Miranda Fernandes#Lorenzo Fernandes  #Mariana Miranda de Jesus#Avenida Augusto Campos dos Santos, nº1783#69.810.454-7#(11) 97502-9442#Rafael.Fernandes@coutinhos.com.br#R$1900.00#Contabilidade
+707#Lara Garcia Dias#Luiz Miguel Dias de Almeida#Vitoria Garcia do Nascimento#Praça Eduarda Farias  , nº719#13.749.892-6#(11) 98163-4474#Lara.Dias@coutinhos.com.br#R$1600.00#Financeiro
+708#Enzo Santoro Russo#Emanuel Russo de Paula#Isabel Santoro de Oliveira#Alameda Lucca Bianchi  , nº1789#86.251.908-9#(11) 95848-7971#Enzo.Russo@coutinhos.com.br#R$2600.00#Estoque
+709#Vinicius Duarte Gladys#Joao Guilherme Gladys  #Larissa Duarte da Costa#Travessa Wylliam Cruz  , nº210#83.762.771-3#(11) 96096-2757#Vinicius.Gladys@coutinhos.com.br#R$3500.00#Administrativo
+710#Rafaela Henrique Guimaraes#Rodrigo Guimaraes de Almeida#Amanda Henrique de Araujo#Travessa Gael Siqueira de Melo, nº1305#43.782.570-4#(11) 96712-2516#Rafaela.Guimaraes@coutinhos.com.br#R$1800.00#Financeiro
+711#Laura Rodrigues Coutinho#Henry Coutinho da Rocha#Maria Sophia Rodrigues  #Travessa Sarah Silva  , nº526#96.687.617-8#(11) 94998-5311#Laura.Coutinho@coutinhos.com.br#R$4400.00#Financeiro
+712#Theo Fernandes Borges#Matteo Borges da Cruz#Maria Flor Fernandes  #Travessa Laura Medeiros da Cunha, nº2220#65.620.865-6#(11) 93442-9088#Theo.Borges@coutinhos.com.br#R$4200.00#Estoque
+713#Caio Gallo Soares#Murilo Soares da Silva#Maria Laura Gallo  #Praça Anderson Greco de Souza, nº1806#77.572.414-3#(11) 95367-9169#Caio.Soares@coutinhos.com.br#R$2300.00#Marketing
+714#Caua Teixeira Leite#Hugo Leite de Luca#Emilly Teixeira  #Avenida Bento Moreira  , nº276#55.701.178-3#(11) 95484-5728#Caua.Leite@coutinhos.com.br#R$1800.00#Contabilidade
+715#Isadora Ferreira Garcia#Davi Luiz Garcia  #Heloisa Ferreira do Nascimento#Praça Vinicius Alves  , nº1203#15.827.691-3#(11) 93515-5152#Isadora.Garcia@coutinhos.com.br#R$3400.00#Administrativo
+716#Eliane Nunes Cavalcante#Joao Vitor Cavalcante da Conceicao#Mariah Nunes  #Alameda Lorenzo Pinto de Sousa, nº1842#16.447.595-1#(11) 95082-1317#Eliane.Cavalcante@coutinhos.com.br#R$4000.00#Estoque
+717#Rebeca Moreira Ferrari#Luan Ferrari de Assis#Beatriz Moreira de Castro#Avenida Mariana Sousa dos Santos, nº322#69.807.411-8#(11) 99046-5866#Rebeca.Ferrari@coutinhos.com.br#R$4600.00#Recursos Humanos
+718#Isac Moreira Correa#Otavio Correa  #Isabel Moreira de Jesus#Alameda Alicia Moraes de Melo, nº2442#22.325.997-8#(11) 97835-3875#Isac.Correa@coutinhos.com.br#R$2800.00#Comercial
+719#Vitoria Dias Monteiro#Luiz Miguel Monteiro de Jesus#Mariana Dias  #Alameda Adriano Conceicao  , nº1550#86.969.321-7#(11) 94121-5858#Vitoria.Monteiro@coutinhos.com.br#R$2200.00#Financeiro
+720#Larissa Reis Moreira#Bruno Moreira  #Isadora Reis da Rocha#Travessa Joao Mancini do Carmo, nº2385#86.268.997-3#(11) 98533-7698#Larissa.Moreira@coutinhos.com.br#R$2300.00#Comercial
+721#Rebeca Gladys Cruz#Theodoro Cruz  #Elisa Gladys de Lima#Alameda Lavinia Cordeiro  , nº1353#75.110.619-7#(11) 94171-3796#Rebeca.Cruz@coutinhos.com.br#R$3300.00#Comercial
+722#Elisa Ramos Moura#Matteo Moura de Almeida#Maria Isis Ramos de Araujo#Avenida Maite Coelho dos Reis, nº1091#57.249.137-2#(11) 97516-4137#Elisa.Moura@coutinhos.com.br#R$2000.00#Financeiro
+723#Agatha Correa Alves#Pietro Alves de Assis#Fernanda Correa  #Avenida Esther Coutinho de Freitas, nº2052#37.232.420-3#(11) 93837-8439#Agatha.Alves@coutinhos.com.br#R$2400.00#Recursos Humanos
+724#Lucas Nascimento Nascimento#Matteo Nascimento  #Gabrielly Nascimento de Lima#Praça Leticia Ramos  , nº1145#16.444.600-1#(11) 96880-5390#Lucas.Nascimento@coutinhos.com.br#R$1700.00#Estoque
+725#Julia Goncalves Pinheiro#Benicio Pinheiro  #Maria Goncalves de Andrade#Praça Helena Santos de Araujo, nº25#52.663.490-7#(11) 97215-2437#Julia.Pinheiro@coutinhos.com.br#R$1900.00#Estoque
+726#Julia Fontana Pires#Martin Pires de Sousa#Melina Fontana  #Travessa Antonio Campos  , nº1318#75.217.685-2#(11) 96806-5016#Julia.Pires@coutinhos.com.br#R$1600.00#Recursos Humanos
+727#Isabelly Rocha Jhonatta#Oliver Jhonatta  #Emanuelly Rocha da Cruz#Praça Isabella Marino de Assis, nº1891#58.376.885-5#(11) 96924-9261#Isabelly.Jhonatta@coutinhos.com.br#R$3000.00#Marketing
+728#Caleb Miranda Cruz#Joao Pedro Cruz de Sousa#Luna Miranda de Luca#Travessa Laura Tavares  , nº1774#89.367.925-2#(11) 97126-2325#Caleb.Cruz@coutinhos.com.br#R$3400.00#Administrativo
+729#Luiza Soares Mendes#Lucas Mendes  #Alice Soares de Assis#Travessa Manuela Barbosa dos Reis, nº2453#28.327.935-7#(11) 96068-2737#Luiza.Mendes@coutinhos.com.br#R$3300.00#Recursos Humanos
+730#Joao Vieira Ricci#Joao Vitor Ricci de Carvalho#Gabriela Vieira de Carvalho#Alameda Lara Alves  , nº449#24.786.126-1#(11) 98926-9247#Joao.Ricci@coutinhos.com.br#R$4900.00#Financeiro
+731#Maite Melo Bianchi#Oliver Bianchi  #Marina Melo de Assis#Avenida Gabriela Medeiros de Castro, nº1786#78.585.745-8#(11) 98478-5500#Maite.Bianchi@coutinhos.com.br#R$2200.00#Contabilidade
+732#Julia Gallo Giordano#Matteo Giordano  #Nicole Gallo de Luca#Travessa Silvanio Vieira da Cruz, nº2173#21.199.125-4#(11) 93378-5988#Julia.Giordano@coutinhos.com.br#R$2900.00#Marketing
+733#Rafael Mancini Barros#Joao Pedro Barros  #Milena Mancini de Jesus#Travessa Joao Melo  , nº1333#53.746.810-9#(11) 93534-5716#Rafael.Barros@coutinhos.com.br#R$4200.00#Estoque
+734#Leticia Mancini Oliveira#Benicio Oliveira  #Maite Mancini de Sousa#Praça Lara Dias de Almeida, nº502#73.806.905-6#(11) 97944-7127#Leticia.Oliveira@coutinhos.com.br#R$1800.00#Estoque
+735#Benicio Romano Correa#Arthur Miguel Correa de Luca#Ana Laura Romano de Luca#Travessa Isabelly Leite  , nº1017#95.118.432-3#(11) 96562-2576#Benicio.Correa@coutinhos.com.br#R$4000.00#Financeiro
+736#Enzo Barros Mancini#Nathan Mancini da Costa#Clarice Barros da Costa#Rua Julia Lima  , nº861#16.527.305-8#(11) 93403-6249#Enzo.Mancini@coutinhos.com.br#R$2100.00#Estoque
+737#Isis Barbieri Correa#Ryan Correa de Almeida#Melina Barbieri da Cruz#Travessa Augusto Cruz  , nº1408#95.766.633-5#(11) 92705-7196#Isis.Correa@coutinhos.com.br#R$3400.00#Comercial
+738#Daniel Moura Andrade#Henrique Andrade  #Julia Moura de Oliveira#Praça Gabriel Marino da Cruz, nº1496#21.925.993-8#(11) 91441-8511#Daniel.Andrade@coutinhos.com.br#R$3400.00#Recursos Humanos
+739#Emanuelly Ricci Rocha#Francisco Rocha  #Carolina Ricci dos Santos#Praça Bryan Bianchi  , nº1813#72.616.361-3#(11) 97569-7328#Emanuelly.Rocha@coutinhos.com.br#R$3400.00#Estoque
+740#Silvanio Nascimento Fontana#Arthur Fontana  #Mirella Nascimento  #Rua Augusto Cardoso de Sousa, nº919#40.880.311-2#(11) 96508-9353#Silvanio.Fontana@coutinhos.com.br#R$2100.00#Financeiro
+741#Matheus Cruz Leite#Enrico Leite da Costa#Ayla Cruz da Costa#Praça Francisco Rocha de Souza, nº2065#12.918.601-3#(11) 93706-3645#Matheus.Leite@coutinhos.com.br#R$2600.00#Recursos Humanos
+742#Alicia Pinto Ribeiro#Gael Ribeiro  #Julia Pinto de Araujo#Avenida Gabriela Soares  , nº2452#92.776.799-9#(11) 91722-8340#Alicia.Ribeiro@coutinhos.com.br#R$4900.00#Contabilidade
+743#Antonio Lopes Lima#Josue Lima da Cunha#Maria Laura Lopes da Costa#Travessa Caua Ferreira  , nº1842#29.736.984-7#(11) 95332-1759#Antonio.Lima@coutinhos.com.br#R$2200.00#Administrativo
+744#Caua Almeida Greco#Nathan Greco da Silva#Melina Almeida de Araujo#Avenida Bento Gomes de Castro, nº1628#54.683.654-6#(11) 99964-5813#Caua.Greco@coutinhos.com.br#R$4800.00#Recursos Humanos
+745#Wylliam Viana Santoro#Nathan Santoro  #Maria Eduarda Viana  #Alameda Beatriz Reis  , nº1642#19.598.663-8#(11) 98218-7477#Wylliam.Santoro@coutinhos.com.br#R$2700.00#Estoque
+746#Valentina Moreira Gladys#Mathias Gladys de Jesus#Maria Moreira de Almeida#Rua Larissa Silveira da Costa, nº1198#55.839.276-2#(11) 93869-5829#Valentina.Gladys@coutinhos.com.br#R$4500.00#Administrativo
+747#Laura Fontana Nascimento#Caio Nascimento de Castro#Heloise Fontana  #Alameda Emanuelly Romano de Andrade, nº1417#77.681.620-7#(11) 94771-1682#Laura.Nascimento@coutinhos.com.br#R$3200.00#Comercial
+748#Enzo Marino Aparecido#Enrico Aparecido  #Fernanda Marino  #Rua Augusto Coelho de Melo, nº1044#53.507.909-3#(11) 97834-8750#Enzo.Aparecido@coutinhos.com.br#R$1500.00#Administrativo
+749#Rafael Mariani Silveira#Rafael Silveira de Jesus#Alicia Mariani de Carvalho#Alameda Victor Monteiro de Oliveira, nº1664#53.995.406-2#(11) 98410-5155#Rafael.Silveira@coutinhos.com.br#R$3000.00#Marketing
+750#Davi Miranda Gallo#Rodrigo Gallo  #Maria Cecilia Miranda de Oliveira#Praça Leticia Reis de Almeida, nº1126#97.600.799-7#(11) 92479-9411#Davi.Gallo@coutinhos.com.br#R$2400.00#Contabilidade
+751#Arthur Mariani Siqueira#Miguel Siqueira de Jesus#Ana Vitoria Mariani  #Rua Isabella Esposito  , nº1392#42.907.592-8#(11) 97372-9880#Arthur.Siqueira@coutinhos.com.br#R$2600.00#Recursos Humanos
+752#Emanuelly Pinheiro Ferreira#Luiz Henrique Ferreira  #Lara Pinheiro  #Avenida Henrique Garcia de Castro, nº457#67.348.279-3#(11) 93711-3574#Emanuelly.Ferreira@coutinhos.com.br#R$3600.00#Recursos Humanos
+753#Rebeca Jhonatta Pires#Benjamin Pires dos Santos#Maria Flor Jhonatta  #Alameda Caio Rodrigues da Silva, nº196#23.377.313-4#(11) 91348-2610#Rebeca.Pires@coutinhos.com.br#R$2700.00#Contabilidade
+754#Alice Colombo Henrique#Raul Henrique da Costa#Maria Luiza Colombo  #Rua Caleb Rodrigues  , nº2153#62.785.328-8#(11) 99539-2684#Alice.Henrique@coutinhos.com.br#R$4800.00#Recursos Humanos
+755#Caio Mariani Ribeiro#Caio Ribeiro  #Aurora Mariani de Araujo#Praça Liz Marino de Paula, nº2374#16.950.858-9#(11) 99034-2200#Caio.Ribeiro@coutinhos.com.br#R$2400.00#Recursos Humanos
+756#Vicente Russo Pires#Emanuel Pires de Araujo#Helena Russo da Costa#Praça Bernardo Cardoso de Assis, nº1153#66.817.509-7#(11) 97188-5251#Vicente.Pires@coutinhos.com.br#R$2200.00#Estoque
+757#Caleb Machado Ribeiro#Caua Ribeiro  #Ana Beatriz Machado  #Alameda Luiza Cavalcante da Silva, nº477#26.492.686-6#(11) 94412-2287#Caleb.Ribeiro@coutinhos.com.br#R$1800.00#Estoque
+758#Eduardo Machado Cavalcante#Matheus Cavalcante de Souza#Clarice Machado da Rocha#Praça Vicente Monteiro  , nº1508#56.321.200-9#(11) 92293-6419#Eduardo.Cavalcante@coutinhos.com.br#R$4300.00#Comercial
+759#Gabriel Coelho Siqueira#Isac Siqueira  #Analu Coelho  #Praça Antonio Jhonatta de Jesus, nº1925#11.386.991-8#(11) 99801-5954#Gabriel.Siqueira@coutinhos.com.br#R$4700.00#Contabilidade
+760#Caio Nascimento Costa#Lucas Costa  #Liz Nascimento  #Rua Sophia Almeida  , nº257#17.747.641-7#(11) 98437-5233#Caio.Costa@coutinhos.com.br#R$4200.00#Recursos Humanos
+761#Liz Ferrari Freitas#Matteo Freitas da Cunha#Ana Ferrari  #Praça Manuela Garcia  , nº2113#81.705.147-3#(11) 92701-9749#Liz.Freitas@coutinhos.com.br#R$4300.00#Comercial
+762#Gabriela Bianchi Oliveira#Pedro Miguel Oliveira  #Bianca Bianchi dos Santos#Praça Isabelly Henrique  , nº1940#75.687.128-9#(11) 91867-1291#Gabriela.Oliveira@coutinhos.com.br#R$2000.00#Estoque
+763#Victor Correia Santoro#Bernardo Santoro de Paula#Lorena Correia da Costa#Rua Vitoria Campos do Nascimento, nº1353#98.375.871-8#(11) 99970-5933#Victor.Santoro@coutinhos.com.br#R$2900.00#Marketing
+764#Yasmin Rodrigues Russo#Caio Russo de Melo#Ana Liz Rodrigues do Nascimento#Rua Joaquim Tavares da Silva, nº1139#15.405.211-6#(11) 94617-2532#Yasmin.Russo@coutinhos.com.br#R$1500.00#Contabilidade
+765#Vicente Farias Monteiro#Isac Monteiro do Nascimento#Mirella Farias da Conceicao#Rua Henrique Bianchi da Rocha, nº2260#30.388.719-6#(11) 99224-9986#Vicente.Monteiro@coutinhos.com.br#R$1500.00#Administrativo
+766#Valentina Mancini Correia#Oliver Correia da Costa#Isabella Mancini de Lima#Rua Esther Teixeira  , nº1705#91.637.336-5#(11) 93033-7781#Valentina.Correia@coutinhos.com.br#R$3800.00#Comercial
+767#Francisco Bianchi Cardoso#Noah Cardoso  #Bianca Bianchi de Araujo#Praça Nicolas Ribeiro  , nº1219#34.527.813-9#(11) 95891-9614#Francisco.Cardoso@coutinhos.com.br#R$2900.00#Recursos Humanos
+768#Luna Lima Bezerra#Theo Bezerra  #Rafaela Lima de Assis#Avenida Caio Garcia de Lima, nº600#30.590.917-8#(11) 92097-5659#Luna.Bezerra@coutinhos.com.br#R$2100.00#Recursos Humanos
+769#Lara Fernandes Gladys#Joao Miguel Gladys  #Mirella Fernandes  #Praça Rafaela Ferrari de Carvalho, nº990#92.822.612-1#(11) 94367-8592#Lara.Gladys@coutinhos.com.br#R$2600.00#Contabilidade
+770#Vitoria Duarte Siqueira#Mathias Siqueira  #Eloa Duarte de Souza#Rua Benicio Viana de Araujo, nº1717#36.340.305-1#(11) 94264-2602#Vitoria.Siqueira@coutinhos.com.br#R$1900.00#Administrativo
+771#Sophia Alves Cruz#Ryan Cruz  #Maria Isis Alves da Conceicao#Rua Nicole Santos  , nº677#85.783.744-3#(11) 91071-5282#Sophia.Cruz@coutinhos.com.br#R$3900.00#Marketing
+772#Enzo Monteiro Coelho#Ryan Coelho de Oliveira#Milena Monteiro  #Avenida Leticia Dias  , nº1228#66.954.193-1#(11) 98564-9694#Enzo.Coelho@coutinhos.com.br#R$1900.00#Contabilidade
+773#Maria Araujo Ferreira#Yago Ferreira de Carvalho#Maria Sophia Araujo  #Avenida Agatha Cruz da Costa, nº91#59.831.169-7#(11) 95137-6124#Maria.Ferreira@coutinhos.com.br#R$2900.00#Contabilidade
+774#Gael Lima Moretti#Bernardo Moretti de Andrade#Analu Lima da Cruz#Rua Isadora Braga de Oliveira, nº185#69.792.833-6#(11) 96070-3161#Gael.Moretti@coutinhos.com.br#R$4400.00#Financeiro
+775#Giovanna Freitas Mariani#Bruno Mariani  #Maria Cecilia Freitas do Nascimento#Alameda Bryan Mancini da Cunha, nº693#80.219.328-8#(11) 95312-2678#Giovanna.Mariani@coutinhos.com.br#R$1800.00#Comercial
+776#Enzo Goncalves Henrique#Thomas Henrique de Luca#Maria Alice Goncalves  #Travessa Felipe Conti  , nº1789#47.316.115-3#(11) 96457-6434#Enzo.Henrique@coutinhos.com.br#R$3400.00#Administrativo
+777#Marina Carneiro Cavalcante#Tomás Cavalcante de Carvalho#Alice Carneiro  #Travessa Lorena Moretti de Lima, nº518#39.407.305-2#(11) 91645-5770#Marina.Cavalcante@coutinhos.com.br#R$4800.00#Contabilidade
+778#Lucca Henrique Martins#Joao Miguel Martins  #Vitoria Henrique de Paula#Rua Joaquim Greco  , nº707#81.372.948-1#(11) 94058-2249#Lucca.Martins@coutinhos.com.br#R$4100.00#Financeiro
+779#Elisa Ribeiro Miranda#Yuri Thiago Miranda  #Maria Valentina Ribeiro  #Praça Gael Cardoso da Rocha, nº843#84.799.768-6#(11) 91198-2913#Elisa.Miranda@coutinhos.com.br#R$2200.00#Financeiro
+780#Leticia Guimaraes Cardoso#Antonhy Cardoso da Costa#Helena Guimaraes  #Travessa Cecilia Soares da Silva, nº703#47.421.520-7#(11) 94056-3639#Leticia.Cardoso@coutinhos.com.br#R$3800.00#Contabilidade
+781#Lucilia Romano Santoro#Otavio Santoro  #Rebeca Romano  #Rua Isabelly Alves  , nº200#58.685.464-1#(11) 94252-3814#Lucilia.Santoro@coutinhos.com.br#R$3000.00#Marketing
+782#Augusto Santana Andrade#Vicente Andrade  #Alice Santana  #Alameda Anthony Cardoso  , nº2360#25.838.628-9#(11) 98990-4425#Augusto.Andrade@coutinhos.com.br#R$3900.00#Estoque
+783#Maria Dantas Moretti#Leonardo Moretti  #Luna Dantas de Jesus#Rua Gabriel Rizzo de Lima, nº2112#45.958.144-3#(11) 94212-6488#Maria.Moretti@coutinhos.com.br#R$2200.00#Marketing
+784#Isis Ferreira Campos#Joaquim Campos  #Laura Ferreira  #Avenida Murilo Santoro do Carmo, nº507#81.451.336-6#(11) 97330-8839#Isis.Campos@coutinhos.com.br#R$3600.00#Contabilidade
+785#Lucilia Teixeira Ramos#Joao Miguel Ramos da Conceicao#Milena Teixeira de Souza#Praça Gabriel Santana  , nº1734#54.675.302-6#(11) 91007-2996#Lucilia.Ramos@coutinhos.com.br#R$3100.00#Financeiro
+786#Caio Pereira Coutinho#Ravi Coutinho  #Lorena Pereira  #Rua Felipe Borges de Oliveira, nº2121#22.534.959-5#(11) 93699-9281#Caio.Coutinho@coutinhos.com.br#R$3000.00#Estoque
+787#Isac Romano Carneiro#Noah Carneiro  #Ana Vitoria Romano dos Reis#Travessa Waldecir Siqueira de Melo, nº781#81.905.609-5#(11) 98843-5761#Isac.Carneiro@coutinhos.com.br#R$1700.00#Financeiro
+788#Isabelly Mariani Garcia#Arthur Miguel Garcia de Melo#Maria Julia Mariani  #Alameda Nicolas Santos  , nº196#57.565.545-8#(11) 92142-8563#Isabelly.Garcia@coutinhos.com.br#R$4600.00#Financeiro
+789#Joao Freitas Viana#Nicolas Viana da Conceicao#Maria Vitoria Freitas  #Praça Vitoria Ferrari de Melo, nº483#35.857.166-4#(11) 98363-1364#Joao.Viana@coutinhos.com.br#R$1700.00#Comercial
+790#Miguel Mariani Carvalho#Arthur Henrique Carvalho de Araujo#Melina Mariani da Costa#Alameda Eduardo Soares de Lima, nº2440#56.505.777-6#(11) 93361-2718#Miguel.Carvalho@coutinhos.com.br#R$3000.00#Comercial
+791#Enzo Goncalves Dias#Gabriel Dias  #Bella Goncalves  #Praça Francisco Cordeiro da Costa, nº1137#63.154.991-1#(11) 91507-3177#Enzo.Dias@coutinhos.com.br#R$3800.00#Recursos Humanos
+792#Heitor Sousa Colombo#Davi Luiz Colombo  #Sophia Sousa  #Avenida Lorenzo Almeida de Melo, nº907#10.252.183-4#(11) 96166-6049#Heitor.Colombo@coutinhos.com.br#R$3700.00#Recursos Humanos
+793#Arthur Barbieri Vieira#Vicente Vieira de Oliveira#Maria Valentina Barbieri de Luca#Rua Isabelly Cruz de Assis, nº2442#73.766.181-7#(11) 93293-7867#Arthur.Vieira@coutinhos.com.br#R$1800.00#Recursos Humanos
+794#Bento Lima Henrique#Ryan Henrique  #Maria Clara Lima da Rocha#Praça Elisa Pereira  , nº800#82.152.674-8#(11) 93556-2372#Bento.Henrique@coutinhos.com.br#R$4500.00#Financeiro
+795#Matheus Campos Teixeira#Thomas Teixeira do Carmo#Maria Laura Campos  #Avenida Leonardo Lima  , nº828#41.235.688-5#(11) 93851-1195#Matheus.Teixeira@coutinhos.com.br#R$4600.00#Estoque
+796#Francisco Esposito Silva#Enzo Gabriel Silva  #Maria Heloisa Esposito  #Praça Nicolas Nascimento dos Reis, nº342#72.628.493-3#(11) 95699-8677#Francisco.Silva@coutinhos.com.br#R$2000.00#Marketing
+797#Mariana Machado Jhonatta#Mathias Jhonatta de Carvalho#Giovanna Machado de Jesus#Alameda Enzo Neves de Almeida, nº254#51.114.298-3#(11) 96040-2410#Mariana.Jhonatta@coutinhos.com.br#R$4600.00#Contabilidade
+798#Leticia Rizzo Marino#Nathan Marino  #Ana Luiza Rizzo de Jesus#Avenida Rafaela Conti de Paula, nº1979#87.314.828-1#(11) 96605-5515#Leticia.Marino@coutinhos.com.br#R$1800.00#Recursos Humanos
+799#Heitor Santana Ferrari#Enzo Gabriel Ferrari  #Isabella Santana dos Santos#Rua Antonella Almeida  , nº997#54.496.818-1#(11) 93516-1827#Heitor.Ferrari@coutinhos.com.br#R$1500.00#Marketing
+800#Livia Lombardi Barbosa#Lucas Gabriel Barbosa de Paula#Joana Lombardi do Carmo#Avenida Anderson Almeida  , nº1936#37.464.948-4#(11) 93408-8516#Livia.Barbosa@coutinhos.com.br#R$3400.00#Administrativo
+801#Lavinia Gallo Bezerra#Bernardo Bezerra  #Manuela Gallo de Luca#Rua Sarah Santana de Souza, nº2363#16.865.826-2#(11) 98948-6128#Lavinia.Bezerra@coutinhos.com.br#R$3900.00#Marketing
+802#Vinicius Mendes Borges#Arthur Henrique Borges de Carvalho#Malu Mendes  #Rua Gael Cordeiro da Costa, nº1126#96.483.153-7#(11) 95191-9355#Vinicius.Borges@coutinhos.com.br#R$4800.00#Administrativo
+803#Lavinia Coelho Monteiro#Lorenzo Monteiro de Castro#Gabrielly Coelho  #Praça Adriano Jhonatta  , nº1430#59.748.619-7#(11) 92871-6345#Lavinia.Monteiro@coutinhos.com.br#R$3800.00#Marketing
+804#Heitor Rizzo Ricci#Joao Ricci  #Yasmin Rizzo  #Alameda Isabella Rocha  , nº1297#86.773.615-3#(11) 93881-2816#Heitor.Ricci@coutinhos.com.br#R$3400.00#Administrativo
+805#Ketylin Siqueira Colombo#Gabriel Colombo  #Maya Siqueira de Sousa#Alameda Murilo Campos de Souza, nº258#17.262.843-1#(11) 91395-5773#Ketylin.Colombo@coutinhos.com.br#R$3400.00#Marketing
+806#Elisa Ramos Pereira#Joao Miguel Pereira  #Isadora Ramos  #Alameda Agatha Freitas  , nº1968#41.291.321-8#(11) 92842-3228#Elisa.Pereira@coutinhos.com.br#R$2300.00#Recursos Humanos
+807#Bernardo Duarte Moretti#Joao Pedro Moretti do Carmo#Maria Alice Duarte da Costa#Avenida Eliane Melo  , nº469#69.962.564-8#(11) 94469-9310#Bernardo.Moretti@coutinhos.com.br#R$3700.00#Administrativo
+808#Antonio Rossi Medeiros#Vinicius Medeiros  #Beatriz Rossi  #Rua Vinicius Farias de Sousa, nº1491#72.678.285-9#(11) 96345-3096#Antonio.Medeiros@coutinhos.com.br#R$4500.00#Recursos Humanos
+809#Pietro Lima Carvalho#Daniel Carvalho  #Heloisa Lima da Cunha#Rua Theo Batista de Assis, nº1956#40.328.676-8#(11) 96869-6742#Pietro.Carvalho@coutinhos.com.br#R$3800.00#Financeiro
+810#Sarah Garcia Almeida#Mathias Almeida  #Vitoria Garcia  #Praça Samuel Tavares  , nº2036#45.483.171-5#(11) 97572-1533#Sarah.Almeida@coutinhos.com.br#R$4700.00#Estoque
+811#Ketylin Aparecido Romano#Rafael Romano  #Ana Sophia Aparecido de Souza#Praça Benicio Rodrigues de Luca, nº1489#63.158.723-6#(11) 91415-4028#Ketylin.Romano@coutinhos.com.br#R$3600.00#Comercial
+812#Rafaela Silveira Dantas#Kaue Dantas  #Valentina Silveira  #Praça Isis Martins  , nº1728#11.489.588-9#(11) 96616-3154#Rafaela.Dantas@coutinhos.com.br#R$1500.00#Marketing
+813#Vicente Guimaraes Rossi#Lorenzo Rossi dos Santos#Ana Laura Guimaraes do Nascimento#Avenida Vinicius Soares de Melo, nº2128#58.732.693-8#(11) 95384-5683#Vicente.Rossi@coutinhos.com.br#R$2900.00#Administrativo
+814#Alice Tavares Cardoso#Joao Pedro Cardoso da Cunha#Maria Laura Tavares  #Rua Beatriz Dantas  , nº1473#75.523.255-7#(11) 92561-6407#Alice.Cardoso@coutinhos.com.br#R$3700.00#Estoque
+815#Vitoria Santana Cruz#Arthur Henrique Cruz de Paula#Ana Liz Santana de Souza#Avenida Alicia Barbosa de Andrade, nº505#40.690.724-1#(11) 91773-7955#Vitoria.Cruz@coutinhos.com.br#R$2800.00#Comercial
+816#Francisco Sousa Dias#Luan Dias de Almeida#Aurora Sousa  #Avenida Lucilia Alves  , nº1880#50.892.492-3#(11) 99387-2376#Francisco.Dias@coutinhos.com.br#R$1500.00#Marketing
+817#Beatriz Moretti Rossi#Oliver Rossi de Melo#Luiza Moretti da Rocha#Rua Lorenzo Freitas de Carvalho, nº1369#92.888.539-1#(11) 98363-3650#Beatriz.Rossi@coutinhos.com.br#R$2700.00#Financeiro
+818#Nicole Barbieri Ribeiro#Thomas Ribeiro  #Manuela Barbieri  #Travessa Benicio Goncalves de Assis, nº2254#50.383.157-4#(11) 93713-3643#Nicole.Ribeiro@coutinhos.com.br#R$4000.00#Estoque
+819#Lorena Romano Giordano#Bernardo Giordano de Assis#Melina Romano  #Avenida Benjamin Cordeiro da Costa, nº400#94.732.750-9#(11) 98923-2264#Lorena.Giordano@coutinhos.com.br#R$2900.00#Estoque
+820#Luiza Lombardi Viana#Theodoro Viana  #Maria Cecilia Lombardi  #Alameda Waldecir Rocha de Oliveira, nº1496#35.797.531-4#(11) 92732-3034#Luiza.Viana@coutinhos.com.br#R$2500.00#Contabilidade
+821#Leticia Cardoso Rizzo#Henry Rizzo de Andrade#Helena Cardoso  #Praça Eduardo Miranda da Cruz, nº335#16.377.856-7#(11) 96695-6936#Leticia.Rizzo@coutinhos.com.br#R$4000.00#Financeiro
+822#Felipe Bezerra Farias#Antonhy Farias da Silva#Alice Bezerra da Costa#Avenida Clara Esposito de Sousa, nº342#44.597.486-4#(11) 97165-4036#Felipe.Farias@coutinhos.com.br#R$2700.00#Estoque
+823#Joaquim Lopes Borges#Henry Borges  #Elisa Lopes  #Rua Wylliam Pinto  , nº593#40.257.897-7#(11) 93614-5313#Joaquim.Borges@coutinhos.com.br#R$3000.00#Administrativo
+824#Eliane Russo Moraes#Bernardo Moraes de Souza#Melina Russo  #Alameda Beatriz Correa de Araujo, nº20#11.635.869-2#(11) 93286-7329#Eliane.Moraes@coutinhos.com.br#R$4500.00#Financeiro
+825#Caleb Alves Colombo#Augusto Colombo do Carmo#Pietra Alves  #Travessa Lorena Conceicao da Conceicao, nº501#34.390.475-4#(11) 99126-4001#Caleb.Colombo@coutinhos.com.br#R$2500.00#Estoque
+826#Clara Carneiro Moretti#Davi Lucca Moretti da Costa#Maria Eduarda Carneiro de Oliveira#Avenida Adriano Carvalho da Costa, nº1068#28.529.391-4#(11) 96043-6456#Clara.Moretti@coutinhos.com.br#R$2400.00#Comercial
+827#Gabriel Pinheiro Mendes#Josue Mendes da Costa#Isis Pinheiro  #Praça Lorena Rocha  , nº2468#51.866.824-8#(11) 97268-8001#Gabriel.Mendes@coutinhos.com.br#R$3900.00#Comercial
+828#Agatha Pinheiro Miranda#Caleb Miranda dos Reis#Isabella Pinheiro  #Rua Leticia Greco da Silva, nº1431#82.111.453-4#(11) 93992-6302#Agatha.Miranda@coutinhos.com.br#R$4100.00#Financeiro
+829#Gael Ricci Lima#Levi Lima de Castro#Fernanda Ricci de Souza#Rua Lara Cruz de Melo, nº327#32.560.558-9#(11) 92999-8097#Gael.Lima@coutinhos.com.br#R$4500.00#Estoque
+830#Leticia Farias Cavalcante#Ravi Cavalcante  #Catarina Farias de Paula#Praça Joao Russo da Cunha, nº922#39.673.276-3#(11) 99603-9385#Leticia.Cavalcante@coutinhos.com.br#R$2000.00#Financeiro
+831#Julia Campos Neves#Ryan Neves  #Maya Campos de Almeida#Praça Lucas Conceicao da Costa, nº2190#45.820.883-1#(11) 91416-5253#Julia.Neves@coutinhos.com.br#R$4000.00#Comercial
+832#Guilherme Moraes Romano#Isac Romano  #Emilly Moraes de Andrade#Praça Daniel Batista da Silva, nº1876#19.968.747-6#(11) 99519-5065#Guilherme.Romano@coutinhos.com.br#R$2800.00#Comercial
+833#Francisco Dantas Duarte#Martin Duarte de Araujo#Isis Dantas  #Rua Augusto Rizzo  , nº1899#62.277.859-6#(11) 97925-1779#Francisco.Duarte@coutinhos.com.br#R$4000.00#Marketing
+834#Benicio Jhonatta Giordano#Enzo Gabriel Giordano de Melo#Elisa Jhonatta da Costa#Avenida Daniel Guimaraes  , nº1773#35.202.290-1#(11) 96186-9115#Benicio.Giordano@coutinhos.com.br#R$1900.00#Estoque
+835#Luna Cruz Lombardi#Gabriel Lombardi  #Lais Cruz dos Santos#Praça Joao Pires dos Santos, nº755#61.434.726-2#(11) 94255-2036#Luna.Lombardi@coutinhos.com.br#R$3300.00#Estoque
+836#Guilherme Almeida Gallo#Heitor Gallo  #Liz Almeida de Castro#Rua Bryan Pereira de Carvalho, nº521#24.499.440-7#(11) 98189-6418#Guilherme.Gallo@coutinhos.com.br#R$4900.00#Comercial
+837#Isabelly Aparecido Fernandes#Antonhy Fernandes de Andrade#Gabrielly Aparecido  #Rua Felipe Leite da Cunha, nº1417#31.961.420-4#(11) 94829-5825#Isabelly.Fernandes@coutinhos.com.br#R$2000.00#Administrativo
+838#Helena Alves Siqueira#Matheus Siqueira da Rocha#Pietra Alves da Rocha#Travessa Bryan Melo  , nº522#90.728.926-6#(11) 93300-7605#Helena.Siqueira@coutinhos.com.br#R$1500.00#Marketing
+839#Maria Nascimento Coelho#Nathan Coelho  #Sophia Nascimento de Almeida#Travessa Isis Carvalho  , nº2326#65.825.948-3#(11) 94481-9447#Maria.Coelho@coutinhos.com.br#R$3300.00#Marketing
+840#Maria Colombo Campos#Vinicius Campos  #Rebeca Colombo  #Rua Clara Moretti  , nº491#78.159.592-4#(11) 97763-8213#Maria.Campos@coutinhos.com.br#R$1800.00#Estoque
+841#Victor Russo Henrique#Davi Henrique  #Melina Russo da Cunha#Praça Esther Guimaraes  , nº48#19.480.853-7#(11) 94740-3229#Victor.Henrique@coutinhos.com.br#R$1700.00#Contabilidade
+842#Rebeca Freitas Moretti#Vicente Moretti  #Alice Freitas  #Alameda Gael Correia  , nº1189#37.639.970-3#(11) 97010-8053#Rebeca.Moretti@coutinhos.com.br#R$1500.00#Comercial
+843#Eloa Melo Coelho#Vitor Coelho de Carvalho#Maria Luiza Melo  #Praça Francisco Leite da Costa, nº2080#20.799.146-2#(11) 97381-2315#Eloa.Coelho@coutinhos.com.br#R$3300.00#Contabilidade
+844#Marina Barros Barbieri#Caio Barbieri da Cruz#Lais Barros do Nascimento#Travessa Valentina Moreira  , nº2185#50.240.559-8#(11) 99168-8022#Marina.Barbieri@coutinhos.com.br#R$3600.00#Contabilidade
+845#Antonio Marques Russo#Felipe Russo da Conceicao#Maria Laura Marques de Melo#Rua Henrique Greco dos Reis, nº2036#95.821.224-4#(11) 91536-2355#Antonio.Russo@coutinhos.com.br#R$1600.00#Administrativo
+846#Bryan Guimaraes Duarte#Tomás Duarte de Lima#Elisa Guimaraes  #Travessa Samuel Goncalves  , nº1360#23.559.421-6#(11) 92100-7870#Bryan.Duarte@coutinhos.com.br#R$2100.00#Marketing
+847#Rebeca Martins Pereira#Gustavo Pereira  #Ana Martins  #Praça Enzo Neves  , nº304#16.576.689-1#(11) 97750-3456#Rebeca.Pereira@coutinhos.com.br#R$2600.00#Financeiro
+848#Gabriela Carvalho Rodrigues#Raul Rodrigues  #Allana Carvalho de Freitas#Travessa Elisa Rodrigues de Paula, nº1516#44.196.836-4#(11) 96573-8109#Gabriela.Rodrigues@coutinhos.com.br#R$4200.00#Financeiro
+849#Augusto Rossi Soares#Otavio Soares da Silva#Melissa Rossi de Oliveira#Travessa Caleb Rossi da Rocha, nº1693#23.806.819-3#(11) 92451-2096#Augusto.Soares@coutinhos.com.br#R$3600.00#Administrativo
+850#Ana Lopes Romano#Caleb Romano de Assis#Maria Vitoria Lopes da Cunha#Rua Ketylin Sousa da Costa, nº1925#35.496.891-5#(11) 92998-1250#Ana.Romano@coutinhos.com.br#R$2000.00#Administrativo
+851#Rafael Nunes Araujo#Caleb Araujo  #Lara Nunes de Araujo#Avenida Elisa Nascimento dos Santos, nº17#89.968.159-6#(11) 97058-8258#Rafael.Araujo@coutinhos.com.br#R$3000.00#Estoque
+852#Waldecir Fontana Martins#Pedro Lucas Martins de Lima#Maria Flor Fontana  #Avenida Victor Correia  , nº999#63.506.549-2#(11) 92921-6784#Waldecir.Martins@coutinhos.com.br#R$3800.00#Administrativo
+853#Bryan Silveira Pinto#Bryan Pinto  #Isis Silveira dos Santos#Avenida Joaquim Lima  , nº706#88.329.355-3#(11) 91036-3618#Bryan.Pinto@coutinhos.com.br#R$2400.00#Marketing
+854#Joaquim Neves Marques#Leonardo Marques da Costa#Ana Neves de Lima#Praça Lorenzo Giordano de Sousa, nº1911#14.261.585-7#(11) 99235-1221#Joaquim.Marques@coutinhos.com.br#R$4800.00#Recursos Humanos
+855#Caua Cordeiro Brito#Murilo Brito  #Livia Cordeiro  #Rua Clara Siqueira  , nº53#16.702.970-2#(11) 96458-9149#Caua.Brito@coutinhos.com.br#R$3000.00#Marketing
+856#Livia Barros Vieira#Raul Vieira  #Maria Laura Barros  #Rua Guilherme Freitas  , nº1618#13.592.953-3#(11) 96573-2948#Livia.Vieira@coutinhos.com.br#R$4200.00#Administrativo
+857#Nicole Barbieri Cavalcante#Thomas Cavalcante de Freitas#Eduarda Barbieri  #Travessa Marina Cardoso  , nº1611#18.352.601-2#(11) 93952-1880#Nicole.Cavalcante@coutinhos.com.br#R$2100.00#Estoque
+858#Anthony Borges Fontana#Lucas Fontana  #Vitoria Borges de Araujo#Travessa Francisco Farias  , nº2273#29.349.943-1#(11) 98280-4898#Anthony.Fontana@coutinhos.com.br#R$1600.00#Recursos Humanos
+859#Alicia Oliveira Mariani#Breno Mariani  #Ana Julia Oliveira de Andrade#Alameda Kaique Rizzo  , nº2306#71.110.442-1#(11) 98934-5599#Alicia.Mariani@coutinhos.com.br#R$2400.00#Financeiro
+860#Mariana Araujo Gladys#Isac Gladys de Paula#Bianca Araujo de Melo#Travessa Lucas Almeida  , nº1514#35.517.126-7#(11) 93601-8519#Mariana.Gladys@coutinhos.com.br#R$3500.00#Estoque
+861#Eduardo Sousa Nogueira#Lucca Nogueira da Conceicao#Larissa Sousa  #Rua Lorena Gladys dos Reis, nº577#27.386.380-5#(11) 97487-9335#Eduardo.Nogueira@coutinhos.com.br#R$3400.00#Marketing
+862#Davi Nascimento Miranda#Arthur Henrique Miranda  #Ana Laura Nascimento  #Rua Giovanna Teixeira  , nº912#44.668.123-7#(11) 97685-5298#Davi.Miranda@coutinhos.com.br#R$3000.00#Estoque
+863#Felipe Teixeira Rodrigues#Yuri Thiago Rodrigues  #Ana Beatriz Teixeira de Assis#Praça Eloa Barbieri  , nº1475#64.689.159-2#(11) 94293-2433#Felipe.Rodrigues@coutinhos.com.br#R$2000.00#Administrativo
+864#Livia Brito Ramos#Yan Ramos  #Ana Brito  #Avenida Melissa Teixeira de Andrade, nº392#25.438.616-3#(11) 96755-6693#Livia.Ramos@coutinhos.com.br#R$3300.00#Contabilidade
+865#Pedro Rossi Siqueira#Joao Miguel Siqueira de Oliveira#Maria Helena Rossi do Nascimento#Rua Caleb Braga de Souza, nº375#68.441.806-2#(11) 98781-6983#Pedro.Siqueira@coutinhos.com.br#R$2300.00#Recursos Humanos
+866#Esther Santoro Freitas#Davi Lucas Freitas de Castro#Gabriela Santoro de Castro#Praça Rafaela Neves da Cruz, nº1565#62.380.557-8#(11) 98783-9049#Esther.Freitas@coutinhos.com.br#R$4900.00#Marketing
+867#Alice Fernandes Pinheiro#Benjamin Pinheiro  #Ana Julia Fernandes  #Rua Isac Neves  , nº1878#64.192.663-2#(11) 95158-6284#Alice.Pinheiro@coutinhos.com.br#R$4400.00#Comercial
+868#Livia Araujo Mendes#Leonardo Mendes  #Maria Araujo da Rocha#Alameda Arthur Moreira da Rocha, nº87#64.804.117-1#(11) 96134-8879#Livia.Mendes@coutinhos.com.br#R$1600.00#Marketing
+869#Manuela Santos Pereira#Davi Miguel Pereira  #Maria Cecilia Santos de Carvalho#Rua Murilo Esposito  , nº308#39.150.945-5#(11) 93086-4045#Manuela.Pereira@coutinhos.com.br#R$4300.00#Comercial
+870#Theo Garcia Aparecido#Davi Lucca Aparecido  #Mirella Garcia  #Praça Rebeca Nunes  , nº265#16.441.436-1#(11) 93303-6029#Theo.Aparecido@coutinhos.com.br#R$1700.00#Financeiro
+871#Eloa Marino Mendes#Caio Mendes da Silva#Ana Vitoria Marino  #Rua Eloa Braga  , nº576#17.402.531-1#(11) 91346-1027#Eloa.Mendes@coutinhos.com.br#R$3800.00#Estoque
+872#Beatriz Jhonatta Moretti#Otavio Moretti  #Eliane Jhonatta de Freitas#Praça Daniel Jhonatta  , nº672#10.528.668-3#(11) 94435-1336#Beatriz.Moretti@coutinhos.com.br#R$4300.00#Recursos Humanos
+873#Samuel Barros Santoro#Henrique Santoro  #Maria Sophia Barros de Paula#Alameda Bryan Jhonatta de Jesus, nº421#59.546.331-2#(11) 91482-6676#Samuel.Santoro@coutinhos.com.br#R$2900.00#Comercial
+874#Bernardo Tavares Viana#Arthur Henrique Viana  #Ana Clara Tavares  #Alameda Ana Mariani  , nº1845#87.452.330-3#(11) 95479-6177#Bernardo.Viana@coutinhos.com.br#R$4500.00#Recursos Humanos
+875#Silvanio Alves Bezerra#Kaue Bezerra  #Liz Alves  #Rua Victor Barros de Sousa, nº1733#63.135.120-6#(11) 91519-2146#Silvanio.Bezerra@coutinhos.com.br#R$3600.00#Estoque
+876#Yasmin Ferrari Costa#Benicio Costa  #Joana Ferrari de Paula#Avenida Kaique Jhonatta de Sousa, nº124#82.836.730-4#(11) 91189-6746#Yasmin.Costa@coutinhos.com.br#R$2800.00#Financeiro
+877#Maria Gallo Teixeira#Oliver Teixeira  #Mirella Gallo  #Avenida Lucca Lombardi  , nº1748#12.998.288-5#(11) 96870-4945#Maria.Teixeira@coutinhos.com.br#R$3100.00#Financeiro
+878#Luna Marques Neves#Luiz Henrique Neves  #Isabel Marques de Araujo#Travessa Maria Mancini de Paula, nº1838#29.172.234-6#(11) 92482-5383#Luna.Neves@coutinhos.com.br#R$2000.00#Recursos Humanos
+879#Emanuel Giordano Moura#Arthur Moura de Paula#Antonella Giordano  #Avenida Murilo Mancini dos Reis, nº2035#22.216.437-5#(11) 91097-6591#Emanuel.Moura@coutinhos.com.br#R$3600.00#Recursos Humanos
+880#Vinicius Nogueira Bezerra#Pedro Henrique Bezerra  #Bella Nogueira  #Avenida Yasmin Dantas do Carmo, nº2416#44.730.411-5#(11) 96864-5259#Vinicius.Bezerra@coutinhos.com.br#R$2200.00#Recursos Humanos
+881#Heitor Conceicao Conti#Miguel Conti  #Louise Conceicao do Carmo#Alameda Nicole Ramos  , nº159#58.105.835-2#(11) 91991-5153#Heitor.Conti@coutinhos.com.br#R$2100.00#Marketing
+882#Beatriz Goncalves Siqueira#Luiz Miguel Siqueira da Cunha#Leticia Goncalves da Cunha#Travessa Benicio Leite  , nº2223#40.783.272-1#(11) 91920-9549#Beatriz.Siqueira@coutinhos.com.br#R$2300.00#Financeiro
+883#Lucas Bianchi Andrade#Luiz Henrique Andrade  #Maria Luiza Bianchi  #Avenida Maria Cavalcante  , nº2373#91.617.484-7#(11) 97052-4080#Lucas.Andrade@coutinhos.com.br#R$4400.00#Contabilidade
+884#Wylliam Campos Barbosa#Antonhy Barbosa da Cunha#Maria Laura Campos de Carvalho#Alameda Wylliam Lima  , nº275#53.758.548-2#(11) 97701-5300#Wylliam.Barbosa@coutinhos.com.br#R$3300.00#Estoque
+885#Lavinia Viana Moreira#Flavio Moreira  #Mariah Viana  #Praça Manuela Miranda de Araujo, nº516#13.324.889-4#(11) 96468-1372#Lavinia.Moreira@coutinhos.com.br#R$2100.00#Financeiro
+886#Joaquim Vieira Machado#Emanuel Machado  #Sarah Vieira de Souza#Avenida Eduardo Siqueira de Paula, nº1557#55.410.964-8#(11) 91898-9238#Joaquim.Machado@coutinhos.com.br#R$3900.00#Financeiro
+887#Julia Greco Gladys#Emanuel Gladys da Cunha#Stella Greco  #Avenida Giovanna Correa  , nº347#94.488.701-4#(11) 98389-5203#Julia.Gladys@coutinhos.com.br#R$3200.00#Contabilidade
+888#Waldecir Lopes Guimaraes#Ryan Guimaraes  #Maria Julia Lopes  #Praça Augusto Silveira  , nº1481#25.751.339-7#(11) 91552-3261#Waldecir.Guimaraes@coutinhos.com.br#R$4100.00#Administrativo
+889#Eliane Esposito Miranda#Levi Miranda dos Reis#Melinda Esposito de Melo#Praça Daniel Fernandes  , nº331#48.584.655-5#(11) 98019-6307#Eliane.Miranda@coutinhos.com.br#R$3700.00#Administrativo
+890#Lorena Jhonatta Coelho#Enrico Coelho da Conceicao#Isis Jhonatta  #Travessa Lorenzo Cardoso da Cunha, nº2225#72.789.243-2#(11) 94910-9116#Lorena.Coelho@coutinhos.com.br#R$4100.00#Recursos Humanos
+891#Leonardo Russo Ferrari#Yuri Thiago Ferrari  #Bianca Russo  #Avenida Livia Leite  , nº268#54.285.249-3#(11) 98539-4112#Leonardo.Ferrari@coutinhos.com.br#R$3800.00#Marketing
+892#Clara Conti Henrique#Yago Henrique  #Sophia Conti da Cunha#Travessa Helena Borges  , nº937#13.238.621-9#(11) 99685-8154#Clara.Henrique@coutinhos.com.br#R$3100.00#Recursos Humanos
+893#Vitoria Mancini Carvalho#Guilherme Carvalho  #Maria Vitoria Mancini de Araujo#Alameda Ana Nogueira  , nº1731#65.809.391-8#(11) 93684-5210#Vitoria.Carvalho@coutinhos.com.br#R$3400.00#Contabilidade
+894#Laura Bezerra Neves#Vicente Neves dos Reis#Isabella Bezerra  #Avenida Lorenzo Santana  , nº1206#20.486.248-6#(11) 96848-2500#Laura.Neves@coutinhos.com.br#R$1800.00#Marketing
+895#Ana Almeida Conceicao#Henrique Conceicao  #Maria Isis Almeida do Carmo#Praça Daniel Barbieri de Jesus, nº2193#19.605.468-6#(11) 97854-4302#Ana.Conceicao@coutinhos.com.br#R$4400.00#Financeiro
+896#Isac Nascimento Siqueira#Thomas Siqueira de Castro#Bianca Nascimento  #Travessa Lavinia Coelho  , nº1082#36.134.279-6#(11) 95754-2234#Isac.Siqueira@coutinhos.com.br#R$3800.00#Comercial
+897#Lorenzo Carneiro Batista#Yago Batista da Silva#Maria Julia Carneiro de Assis#Avenida Adriano Ramos  , nº1418#42.899.647-6#(11) 91094-1614#Lorenzo.Batista@coutinhos.com.br#R$4400.00#Contabilidade
+898#Esther Moura Santoro#Martin Santoro  #Maria Cecilia Moura  #Rua Giovanna Moretti de Sousa, nº17#89.636.366-8#(11) 96450-9854#Esther.Santoro@coutinhos.com.br#R$2900.00#Administrativo
+899#Vitoria Bezerra Costa#Joao Guilherme Costa da Conceicao#Gabrielly Bezerra de Andrade#Travessa Samuel Santana  , nº1674#49.873.471-2#(11) 93143-6908#Vitoria.Costa@coutinhos.com.br#R$3000.00#Administrativo
+900#Anderson Batista Garcia#Arthur Henrique Garcia de Assis#Aurora Batista  #Avenida Davi Pinto  , nº1440#29.692.364-9#(11) 99113-3925#Anderson.Garcia@coutinhos.com.br#R$3100.00#Recursos Humanos
+901#Beatriz Mariani Silveira#Davi Silveira de Luca#Maya Mariani de Melo#Praça Leticia Alves do Nascimento, nº1410#43.372.568-4#(11) 94476-7229#Beatriz.Silveira@coutinhos.com.br#R$2100.00#Marketing
+902#Guilherme Pinto Correa#Davi Correa de Freitas#Isis Pinto  #Rua Kaique Cordeiro dos Santos, nº1078#48.289.247-4#(11) 97160-6287#Guilherme.Correa@coutinhos.com.br#R$2200.00#Administrativo
+903#Pietro Conti Miranda#Raul Miranda de Melo#Elisa Conti da Cruz#Avenida Isabella Santoro de Oliveira, nº1613#44.458.315-2#(11) 91666-2689#Pietro.Miranda@coutinhos.com.br#R$3000.00#Comercial
+904#Guilherme Coutinho Lombardi#Samuel Lombardi  #Analu Coutinho  #Travessa Benjamin Garcia  , nº308#80.420.828-2#(11) 98915-5280#Guilherme.Lombardi@coutinhos.com.br#R$1900.00#Administrativo
+905#Heloísa Sousa Rizzo#Pedro Henrique Rizzo de Jesus#Ana Livia Sousa da Conceicao#Avenida Eliane Lima  , nº1495#64.370.419-6#(11) 99955-8197#Heloísa.Rizzo@coutinhos.com.br#R$3400.00#Estoque
+906#Vitoria Silva Barros#Felipe Barros  #Heloise Silva de Carvalho#Praça Gustavo Barbieri de Andrade, nº1976#66.924.297-2#(11) 94712-1074#Vitoria.Barros@coutinhos.com.br#R$1700.00#Administrativo
+907#Eliane Tavares Tavares#Otto Tavares  #Lorena Tavares  #Rua Bernardo Marques dos Reis, nº1279#27.308.735-8#(11) 91840-5367#Eliane.Tavares@coutinhos.com.br#R$4800.00#Financeiro
+908#Wylliam Gomes Moura#Martin Moura de Castro#Vitoria Gomes  #Avenida Joao Medeiros de Paula, nº1890#67.614.141-1#(11) 92233-3199#Wylliam.Moura@coutinhos.com.br#R$2300.00#Financeiro
+909#Augusto Coelho Barros#Samuel Barros  #Perola Coelho da Cunha#Alameda Gabriel Russo de Sousa, nº2494#38.240.144-5#(11) 97507-6462#Augusto.Barros@coutinhos.com.br#R$2000.00#Estoque
+910#Lucilia Andrade Rizzo#Luan Rizzo  #Isabella Andrade da Conceicao#Praça Lucca Barbieri  , nº224#33.797.336-7#(11) 95813-5976#Lucilia.Rizzo@coutinhos.com.br#R$2900.00#Comercial
+911#Bernardo Rossi Cordeiro#Yago Cordeiro da Costa#Pietra Rossi da Conceicao#Praça Bernardo Vieira  , nº734#73.638.253-4#(11) 98679-9074#Bernardo.Cordeiro@coutinhos.com.br#R$3500.00#Financeiro
+912#Vitoria Silva Neves#Anthony Gabriel Neves de Sousa#Heloisa Silva  #Avenida Sophia Giordano de Lima, nº1178#26.552.521-8#(11) 96621-2074#Vitoria.Neves@coutinhos.com.br#R$3500.00#Recursos Humanos
+913#Livia Cardoso Viana#Nicolas Viana do Nascimento#Valentina Cardoso do Nascimento#Travessa Leticia Dantas  , nº768#34.418.979-5#(11) 99795-2246#Livia.Viana@coutinhos.com.br#R$3500.00#Recursos Humanos
+914#Arthur Correia Santana#Caleb Santana  #Rebeca Correia da Rocha#Rua Clara Conceicao  , nº1005#21.432.321-6#(11) 92160-2253#Arthur.Santana@coutinhos.com.br#R$2800.00#Contabilidade
+915#Anthony Miranda Henrique#Matheus Henrique  #Olivia Miranda de Lima#Travessa Vicente Marino do Carmo, nº588#78.337.906-9#(11) 94049-2387#Anthony.Henrique@coutinhos.com.br#R$3200.00#Administrativo
+916#Rafael Ferrari Gomes#Daniel Gomes  #Maria Eduarda Ferrari  #Rua Luiza Martins  , nº315#13.324.145-3#(11) 97593-8128#Rafael.Gomes@coutinhos.com.br#R$2100.00#Administrativo
+917#Nicole Medeiros Soares#Erick Soares de Souza#Fernanda Medeiros de Carvalho#Praça Matheus Silveira de Assis, nº1591#36.894.971-2#(11) 96627-1637#Nicole.Soares@coutinhos.com.br#R$4400.00#Financeiro
+918#Valentina Farias Cordeiro#Francisco Cordeiro da Conceicao#Rafaela Farias da Costa#Travessa Anderson Coelho da Cruz, nº1844#92.107.895-6#(11) 94509-9360#Valentina.Cordeiro@coutinhos.com.br#R$3900.00#Contabilidade
+919#Francisco Alves Esposito#Joao Miguel Esposito da Costa#Lorena Alves  #Travessa Eduardo Teixeira  , nº1145#80.473.996-3#(11) 97184-7319#Francisco.Esposito@coutinhos.com.br#R$2700.00#Financeiro
+920#Felipe Jhonatta Ribeiro#Yago Ribeiro  #Louise Jhonatta de Almeida#Praça Joaquim Barbieri  , nº2041#27.478.494-8#(11) 95627-9464#Felipe.Ribeiro@coutinhos.com.br#R$1700.00#Financeiro
+921#Waldecir Ricci Cordeiro#Arthur Henrique Cordeiro  #Maria Luiza Ricci da Silva#Rua Vinicius Gallo de Oliveira, nº2377#20.390.114-6#(11) 95326-3605#Waldecir.Cordeiro@coutinhos.com.br#R$2100.00#Contabilidade
+922#Lorena Rizzo Pereira#Felipe Pereira  #Louise Rizzo da Silva#Rua Lara Marino  , nº54#30.348.225-3#(11) 95426-1356#Lorena.Pereira@coutinhos.com.br#R$3100.00#Contabilidade
+923#Vicente Aparecido Andrade#Otto Andrade  #Allana Aparecido de Oliveira#Alameda Manuela Pires da Conceicao, nº1230#14.299.589-6#(11) 95799-4764#Vicente.Andrade@coutinhos.com.br#R$2700.00#Administrativo
+924#Heloísa Moraes Nogueira#Derick Nogueira de Andrade#Ana Laura Moraes  #Avenida Arthur Colombo da Rocha, nº318#88.482.789-9#(11) 97628-4818#Heloísa.Nogueira@coutinhos.com.br#R$2800.00#Estoque
+925#Murilo Pereira Sousa#Oliver Sousa  #Maria Pereira  #Travessa Caleb Barbosa de Assis, nº2017#96.378.520-1#(11) 91922-7768#Murilo.Sousa@coutinhos.com.br#R$2100.00#Administrativo
+926#Caleb Aparecido Marino#Vitor Hugo Marino  #Bella Aparecido da Conceicao#Praça Leonardo Rossi  , nº629#89.390.119-5#(11) 99664-8497#Caleb.Marino@coutinhos.com.br#R$3200.00#Estoque
+927#Agatha Carneiro Greco#Luiz Miguel Greco  #Alicia Carneiro  #Avenida Henrique Freitas da Cruz, nº1073#18.669.837-3#(11) 93829-3661#Agatha.Greco@coutinhos.com.br#R$4100.00#Comercial
+928#Caleb Dias Jhonatta#Joao Lucas Jhonatta da Silva#Maria Dias de Lima#Praça Eduarda Moretti da Costa, nº2367#44.302.597-7#(11) 92571-5143#Caleb.Jhonatta@coutinhos.com.br#R$3800.00#Recursos Humanos
+929#Theo Costa Cardoso#Pedro Miguel Cardoso  #Maria Isis Costa  #Avenida Nayan Souza  , nº1275#37.487.788-2#(11) 98030-1755#Theo.Cardoso@coutinhos.com.br#R$1600.00#Estoque
+930#Lorena Oliveira Borges#Otavio Borges  #Mariana Oliveira  #Alameda Nicole Monteiro de Melo, nº351#37.966.135-8#(11) 98779-5796#Lorena.Borges@coutinhos.com.br#R$2800.00#Financeiro
+931#Emanuel Conti Pinto#Lucca Pinto  #Leticia Conti de Araujo#Praça Wylliam Garcia da Costa, nº1298#92.863.275-5#(11) 97296-4340#Emanuel.Pinto@coutinhos.com.br#R$3700.00#Recursos Humanos
+932#Benicio Santoro Gomes#Luiz Henrique Gomes  #Maria Clara Santoro dos Santos#Travessa Agatha Carvalho  , nº661#82.732.319-8#(11) 97234-4932#Benicio.Gomes@coutinhos.com.br#R$3800.00#Comercial
+933#Caleb Giordano Conti#Davi Lucca Conti  #Rafaela Giordano  #Avenida Lara Souza de Jesus, nº1935#76.415.694-9#(11) 99936-3341#Caleb.Conti@coutinhos.com.br#R$4300.00#Recursos Humanos
+934#Sarah Ricci Romano#Otto Romano de Jesus#Luiza Ricci de Luca#Travessa Leticia Dantas  , nº2459#93.826.218-1#(11) 99749-4921#Sarah.Romano@coutinhos.com.br#R$3400.00#Marketing
+935#Gabriel Barbieri Costa#Augusto Costa da Costa#Perola Barbieri da Silva#Avenida Liz Pereira de Paula, nº1887#42.986.997-6#(11) 97806-7059#Gabriel.Costa@coutinhos.com.br#R$1500.00#Comercial
+936#Luna Colombo Pereira#Joao Guilherme Pereira de Oliveira#Mirella Colombo de Jesus#Travessa Liz Greco da Rocha, nº1271#90.331.375-3#(11) 93097-5710#Luna.Pereira@coutinhos.com.br#R$1600.00#Marketing
+937#Isadora Marques Araujo#Icaro Araujo  #Gabrielly Marques de Araujo#Travessa Silvanio Mendes  , nº1977#14.770.833-2#(11) 99056-4712#Isadora.Araujo@coutinhos.com.br#R$3500.00#Contabilidade
+938#Laura Vieira Coutinho#Henry Coutinho  #Marina Vieira  #Avenida Enzo Moreira de Carvalho, nº2257#88.156.271-8#(11) 95250-2025#Laura.Coutinho@coutinhos.com.br#R$2900.00#Administrativo
+939#Rafaela Cardoso Dantas#Luiz Felipe Dantas de Oliveira#Ayla Cardoso da Rocha#Avenida Benicio Pinheiro  , nº1714#37.412.329-8#(11) 94595-9356#Rafaela.Dantas@coutinhos.com.br#R$4800.00#Financeiro
+940#Livia Lopes Gomes#Joao Vitor Gomes de Andrade#Maria Laura Lopes  #Alameda Enzo Conti de Sousa, nº1427#77.372.358-9#(11) 97008-6612#Livia.Gomes@coutinhos.com.br#R$3700.00#Estoque
+941#Samuel Tavares Miranda#Nathan Miranda  #Sarah Tavares  #Travessa Lorena Martins de Paula, nº1245#46.299.902-4#(11) 95169-9687#Samuel.Miranda@coutinhos.com.br#R$3900.00#Marketing
+942#Silvanio Vieira Greco#Benicio Greco de Jesus#Esther Vieira  #Travessa Felipe Moretti  , nº2245#90.430.599-6#(11) 97609-7296#Silvanio.Greco@coutinhos.com.br#R$3300.00#Contabilidade
+943#Lucca Soares Monteiro#Bryan Monteiro  #Liz Soares dos Reis#Rua Vinicius Moraes  , nº354#91.800.504-6#(11) 99795-8051#Lucca.Monteiro@coutinhos.com.br#R$3800.00#Recursos Humanos
+944#Theo Borges Leite#Joaquim Leite de Assis#Isabelly Borges da Cunha#Avenida Bento Batista  , nº1112#88.335.407-6#(11) 98098-5155#Theo.Leite@coutinhos.com.br#R$3900.00#Estoque
+945#Luiza Correia Conti#Matteo Conti  #Ana Luiza Correia de Almeida#Rua Isabella Aparecido  , nº1615#11.894.268-9#(11) 95863-1476#Luiza.Conti@coutinhos.com.br#R$3800.00#Administrativo
+946#Guilherme Guimaraes Vieira#Vinicius Vieira  #Clara Guimaraes de Andrade#Praça Ketylin Teixeira de Sousa, nº2146#17.956.981-7#(11) 91770-9667#Guilherme.Vieira@coutinhos.com.br#R$2500.00#Financeiro
+947#Victor Martins Barros#Yuri Thiago Barros da Costa#Livia Martins da Silva#Avenida Clara Duarte dos Reis, nº2347#84.748.219-5#(11) 95484-7470#Victor.Barros@coutinhos.com.br#R$4100.00#Administrativo
+948#Vitoria Mancini Giordano#Josue Giordano de Melo#Louise Mancini  #Avenida Lorenzo Leite da Costa, nº1769#97.785.673-9#(11) 98344-5107#Vitoria.Giordano@coutinhos.com.br#R$4500.00#Estoque
+949#Leticia Ferreira Oliveira#Vitor Oliveira de Sousa#Malu Ferreira de Oliveira#Avenida Esther Correia  , nº1180#24.356.478-8#(11) 97978-5486#Leticia.Oliveira@coutinhos.com.br#R$3200.00#Administrativo
+950#Lara Barbosa Costa#Rodrigo Costa da Conceicao#Giovanna Barbosa de Castro#Rua Nicole Bianchi de Castro, nº621#64.726.936-9#(11) 94464-6954#Lara.Costa@coutinhos.com.br#R$1700.00#Recursos Humanos
+951#Waldecir Cavalcante Campos#Arthur Campos  #Joana Cavalcante de Lima#Travessa Mariana Aparecido de Oliveira, nº1729#21.958.983-7#(11) 97211-3833#Waldecir.Campos@coutinhos.com.br#R$4300.00#Financeiro
+952#Bernardo Viana Carneiro#Davi Carneiro  #Leticia Viana de Melo#Avenida Livia Souza de Lima, nº2408#54.903.381-3#(11) 92924-2034#Bernardo.Carneiro@coutinhos.com.br#R$4800.00#Administrativo
+953#Nicole Santos Dantas#Luiz Miguel Dantas dos Santos#Yasmin Santos  #Alameda Nicole Nascimento  , nº2277#26.776.385-1#(11) 91955-2140#Nicole.Dantas@coutinhos.com.br#R$3900.00#Estoque
+954#Bryan Ferrari Fernandes#Lucas Gabriel Fernandes  #Ana Laura Ferrari  #Praça Caua Correia  , nº1245#12.521.277-8#(11) 94259-9076#Bryan.Fernandes@coutinhos.com.br#R$2200.00#Contabilidade
+955#Caua Aparecido Conceicao#Davi Miguel Conceicao  #Rafaela Aparecido dos Santos#Praça Emanuelly Pinto  , nº569#42.627.416-2#(11) 92181-1819#Caua.Conceicao@coutinhos.com.br#R$1600.00#Recursos Humanos
+956#Rafael Brito Rodrigues#Joao Miguel Rodrigues  #Aurora Brito dos Santos#Travessa Antonella Carvalho  , nº2088#75.832.419-3#(11) 97984-5629#Rafael.Rodrigues@coutinhos.com.br#R$2200.00#Marketing
+957#Emanuelly Ricci Lombardi#Emanuel Lombardi de Assis#Ayla Ricci  #Praça Caleb Vieira de Almeida, nº2259#47.211.211-9#(11) 97539-5136#Emanuelly.Lombardi@coutinhos.com.br#R$3600.00#Financeiro
+958#Lavinia Miranda Campos#Arthur Miguel Campos  #Louise Miranda do Carmo#Alameda Melissa Gladys  , nº1202#47.303.755-3#(11) 97719-2033#Lavinia.Campos@coutinhos.com.br#R$4900.00#Estoque
+959#Ketylin Silveira Moreira#Jose Moreira do Carmo#Isis Silveira  #Travessa Arthur Rodrigues  , nº1179#41.422.374-9#(11) 94559-9286#Ketylin.Moreira@coutinhos.com.br#R$2600.00#Comercial
+960#Benicio Rodrigues Aparecido#Levi Aparecido  #Maria Eduarda Rodrigues  #Travessa Lorenzo Moretti  , nº2438#56.308.927-8#(11) 91067-2375#Benicio.Aparecido@coutinhos.com.br#R$1700.00#Marketing
+961#Maite Nascimento Rocha#Kaue Rocha da Cruz#Ana Julia Nascimento do Nascimento#Avenida Caua Souza  , nº1244#34.479.443-2#(11) 94397-1366#Maite.Rocha@coutinhos.com.br#R$2400.00#Marketing
+962#Joaquim Correia Goncalves#Arthur Goncalves  #Clara Correia de Sousa#Alameda Emanuel Pinto do Carmo, nº915#34.377.834-2#(11) 99929-7090#Joaquim.Goncalves@coutinhos.com.br#R$4200.00#Recursos Humanos
+963#Gael Coutinho Rodrigues#Joao Gabriel Rodrigues de Lima#Maria Sophia Coutinho  #Alameda Nicole Machado da Costa, nº1600#62.491.645-2#(11) 91174-8150#Gael.Rodrigues@coutinhos.com.br#R$2600.00#Marketing
+964#Nayan Guimaraes Moreira#Lorenzo Moreira  #Perola Guimaraes de Araujo#Rua Sophia Rizzo de Castro, nº1830#52.980.723-4#(11) 91028-7458#Nayan.Moreira@coutinhos.com.br#R$4500.00#Estoque
+965#Ana Oliveira Rodrigues#Bruno Rodrigues dos Reis#Lara Oliveira  #Avenida Clara Neves do Carmo, nº1134#45.630.832-8#(11) 92464-6043#Ana.Rodrigues@coutinhos.com.br#R$2900.00#Financeiro
+966#Nicolas Freitas Giordano#Yago Giordano da Costa#Maria Freitas  #Avenida Lorenzo Monteiro da Costa, nº2493#66.835.101-8#(11) 93626-8786#Nicolas.Giordano@coutinhos.com.br#R$2100.00#Financeiro
+967#Giovanna Lopes Alves#Otavio Alves  #Maria Lopes de Luca#Alameda Augusto Santana  , nº1505#86.686.253-3#(11) 96745-5952#Giovanna.Alves@coutinhos.com.br#R$4900.00#Administrativo
+968#Waldecir Ricci Silva#Lucas Silva de Andrade#Maria Clara Ricci  #Travessa Marina Rodrigues da Costa, nº469#67.384.372-9#(11) 96248-5153#Waldecir.Silva@coutinhos.com.br#R$2100.00#Financeiro
+969#Enzo Santos Borges#Raul Borges de Jesus#Maria Julia Santos de Castro#Travessa Anthony Melo de Andrade, nº924#89.515.598-8#(11) 95873-1587#Enzo.Borges@coutinhos.com.br#R$3500.00#Estoque
+970#Davi Pereira Bianchi#Eduardo Bianchi  #Ana Liz Pereira  #Rua Rafael Cordeiro da Silva, nº177#19.363.386-5#(11) 99412-6381#Davi.Bianchi@coutinhos.com.br#R$4900.00#Contabilidade
+971#Isabella Siqueira Guimaraes#Rodrigo Guimaraes de Souza#Eliane Siqueira  #Rua Isabelly Aparecido da Rocha, nº123#59.551.788-7#(11) 96070-1988#Isabella.Guimaraes@coutinhos.com.br#R$3500.00#Financeiro
+972#Marina Mancini Dantas#Isac Dantas  #Giovanna Mancini da Costa#Avenida Beatriz Pinto  , nº1576#69.270.197-3#(11) 96027-4656#Marina.Dantas@coutinhos.com.br#R$4200.00#Recursos Humanos
+973#Bryan Rossi Cordeiro#Nicolas Cordeiro da Costa#Carolina Rossi da Cruz#Avenida Nayan Coutinho do Carmo, nº1202#57.307.411-4#(11) 95523-8895#Bryan.Cordeiro@coutinhos.com.br#R$2500.00#Contabilidade
+974#Lorena Cruz Ferreira#Augusto Ferreira da Cunha#Maria Julia Cruz  #Travessa Sophia Dias  , nº417#48.714.870-4#(11) 92116-7447#Lorena.Ferreira@coutinhos.com.br#R$3800.00#Financeiro
+975#Lavinia Monteiro Melo#Arthur Melo de Lima#Ana Vitoria Monteiro dos Santos#Praça Lara Dantas  , nº2105#14.783.200-4#(11) 99892-8872#Lavinia.Melo@coutinhos.com.br#R$1600.00#Financeiro
+976#Valentina Dantas Andrade#Davi Andrade  #Malu Dantas  #Rua Alice Romano  , nº2016#85.661.706-1#(11) 97900-5307#Valentina.Andrade@coutinhos.com.br#R$4000.00#Estoque
+977#Luna Duarte Almeida#Arthur Miguel Almeida de Oliveira#Isabel Duarte  #Rua Arthur Neves da Costa, nº2430#47.203.605-5#(11) 96759-3018#Luna.Almeida@coutinhos.com.br#R$4900.00#Financeiro
+978#Esther Conti Alves#Miguel Alves da Cunha#Lais Conti  #Praça Lucas Silva dos Reis, nº45#90.494.516-3#(11) 96920-4299#Esther.Alves@coutinhos.com.br#R$3700.00#Contabilidade
+979#Nicolas Nunes Cardoso#Benicio Cardoso de Paula#Ana Sophia Nunes de Souza#Rua Isis Nascimento  , nº1753#32.657.221-9#(11) 91241-2969#Nicolas.Cardoso@coutinhos.com.br#R$1700.00#Administrativo
+980#Eloa Lima Barbieri#Vitor Barbieri de Lima#Eliane Lima da Cunha#Rua Clara Duarte dos Reis, nº1965#55.121.863-1#(11) 98289-8068#Eloa.Barbieri@coutinhos.com.br#R$3800.00#Administrativo
+981#Nicole Oliveira Bezerra#Joao Miguel Bezerra  #Ana Laura Oliveira do Carmo#Avenida Pedro Moreira  , nº1152#91.135.428-9#(11) 99090-6590#Nicole.Bezerra@coutinhos.com.br#R$1600.00#Administrativo
+982#Eloa Miranda Cruz#Bento Cruz  #Maria Fernanda Miranda  #Avenida Benicio Romano  , nº2159#65.301.746-3#(11) 95051-3756#Eloa.Cruz@coutinhos.com.br#R$1500.00#Estoque
+983#Caua Aparecido Giordano#Antonio Giordano  #Maria Cecilia Aparecido da Costa#Praça Ana Coutinho  , nº1580#21.609.205-7#(11) 92765-3500#Caua.Giordano@coutinhos.com.br#R$2700.00#Marketing
+984#Waldecir Oliveira Braga#Felipe Braga de Almeida#Larissa Oliveira  #Praça Sarah Bianchi  , nº769#91.601.834-2#(11) 99218-9409#Waldecir.Braga@coutinhos.com.br#R$3300.00#Comercial
+985#Agatha Marino Lombardi#Enrico Lombardi  #Mariana Marino  #Alameda Guilherme Ferrari dos Reis, nº2303#24.726.263-2#(11) 93894-4848#Agatha.Lombardi@coutinhos.com.br#R$4000.00#Estoque
+986#Gabriel Teixeira Andrade#Eduardo Andrade de Araujo#Alice Teixeira da Silva#Travessa Enzo Cordeiro  , nº1755#82.873.755-2#(11) 97776-7992#Gabriel.Andrade@coutinhos.com.br#R$4600.00#Estoque
+987#Joaquim Bezerra Nogueira#Rafael Nogueira dos Santos#Marina Bezerra  #Rua Eliane Santos  , nº2305#96.108.183-4#(11) 96404-5640#Joaquim.Nogueira@coutinhos.com.br#R$1700.00#Estoque
+988#Luiza Lopes Garcia#Yago Garcia da Costa#Maya Lopes de Almeida#Avenida Eduardo Oliveira de Luca, nº2158#69.200.661-9#(11) 97138-2464#Luiza.Garcia@coutinhos.com.br#R$3300.00#Marketing
+989#Leonardo Siqueira Barbieri#Davi Barbieri da Silva#Lorena Siqueira  #Avenida Bento Mendes de Carvalho, nº2447#98.385.309-6#(11) 94611-9490#Leonardo.Barbieri@coutinhos.com.br#R$1900.00#Administrativo
+990#Victor Goncalves Araujo#Antonhy Araujo de Sousa#Maria Isis Goncalves de Castro#Rua Melissa Coutinho de Lima, nº1330#92.255.463-6#(11) 96425-5177#Victor.Araujo@coutinhos.com.br#R$2600.00#Estoque
+991#Silvanio Nunes Santana#Emanuel Santana  #Mirella Nunes de Jesus#Alameda Henrique Martins da Cunha, nº574#89.291.669-2#(11) 92094-5452#Silvanio.Santana@coutinhos.com.br#R$4400.00#Contabilidade
+992#Eduardo Goncalves Araujo#Henry Araujo  #Maria Helena Goncalves dos Santos#Travessa Felipe Moreira  , nº1216#56.653.895-9#(11) 99233-4774#Eduardo.Araujo@coutinhos.com.br#R$2100.00#Financeiro
+993#Agatha Brito Mancini#Guilherme Mancini  #Cecilia Brito da Cunha#Praça Rafael Machado  , nº385#13.847.870-2#(11) 93719-5223#Agatha.Mancini@coutinhos.com.br#R$3000.00#Comercial
+994#Vinicius Brito Bianchi#Francisco Bianchi da Silva#Clarice Brito  #Avenida Lucilia Ribeiro dos Santos, nº267#96.114.739-6#(11) 95759-5504#Vinicius.Bianchi@coutinhos.com.br#R$2900.00#Estoque
+995#Caio Coutinho Bezerra#Miguel Bezerra  #Isis Coutinho dos Santos#Travessa Antonio Pereira  , nº796#22.208.815-1#(11) 94826-9409#Caio.Bezerra@coutinhos.com.br#R$4800.00#Comercial
+996#Emanuelly Rocha Pinto#Arthur Miguel Pinto de Luca#Emilly Rocha  #Praça Benjamin Braga de Paula, nº1227#88.625.463-8#(11) 94256-9941#Emanuelly.Pinto@coutinhos.com.br#R$1900.00#Estoque
+997#Clara Alves Ferrari#Luan Ferrari da Cunha#Melissa Alves  #Alameda Laura Dias de Carvalho, nº1618#88.888.223-8#(11) 99552-9967#Clara.Ferrari@coutinhos.com.br#R$2400.00#Contabilidade
+998#Esther Carvalho Conti#Samuel Conti da Silva#Ana Carvalho da Cruz#Rua Isabella Teixeira dos Reis, nº2246#41.709.694-6#(11) 98382-4597#Esther.Conti@coutinhos.com.br#R$1900.00#Contabilidade
+999#Pietro Andrade Batista#Murilo Batista da Rocha#Emilly Andrade  #Avenida Matheus Gomes de Melo, nº2218#25.706.114-1#(11) 92316-5274#Pietro.Batista@coutinhos.com.br#R$2500.00#Comercial
+1000#Samuel Henrique Melo#Miguel Melo da Conceicao#Liz Henrique da Rocha#Avenida Isabella Carvalho de Andrade, nº1106#52.646.197-9#(11) 97713-1744#Samuel.Melo@coutinhos.com.br#R$3600.00#Contabilidade
