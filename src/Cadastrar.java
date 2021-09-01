@@ -434,6 +434,9 @@ public class Cadastrar extends javax.swing.JFrame {
         jta_Nome.append(jtf_Nome.getText() + "\n");
         jtf_Nome.setText(null);
         jtf_Nome.requestFocus();
+        
+        //Ativando o botão Gravar
+        btn_Gravar1.setEnabled(true);
     }//GEN-LAST:event_btn_Adicionar1ActionPerformed
 
     private void btn_Adicionar2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar2ActionPerformed
@@ -441,6 +444,9 @@ public class Cadastrar extends javax.swing.JFrame {
         jta_NomePai.append(jtf_NomePai.getText() + "\n");
         jtf_NomePai.setText(null);
         jtf_NomePai.requestFocus();
+        
+        //Ativando o botão Gravar
+        btn_Gravar2.setEnabled(true);
     }//GEN-LAST:event_btn_Adicionar2ActionPerformed
 
     private void btn_Adicionar3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar3ActionPerformed
@@ -448,6 +454,9 @@ public class Cadastrar extends javax.swing.JFrame {
         jta_NomeMae.append(jtf_NomeMae.getText() + "\n");
         jtf_NomeMae.setText(null);
         jtf_NomeMae.requestFocus();
+        
+        //Ativando o botão Gravar
+        btn_Gravar3.setEnabled(true);
     }//GEN-LAST:event_btn_Adicionar3ActionPerformed
 
     private void btn_Adicionar4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar4ActionPerformed
@@ -455,6 +464,9 @@ public class Cadastrar extends javax.swing.JFrame {
         jta_Sobrenome1.append(jtf_Sobrenome1.getText() + "\n");
         jtf_Sobrenome1.setText(null);
         jtf_Sobrenome1.requestFocus();
+        
+        //Ativando o botão Gravar
+        btn_Gravar4.setEnabled(true);
     }//GEN-LAST:event_btn_Adicionar4ActionPerformed
 
     private void btn_Gravar1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Gravar1ActionPerformed
@@ -519,6 +531,9 @@ public class Cadastrar extends javax.swing.JFrame {
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar ler!");
         }
+        
+        //Ativando o botão Adicionar
+        btn_Adicionar1.setEnabled(true);
     }//GEN-LAST:event_btn_Ler1ActionPerformed
 
     private void btn_Ler2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Ler2ActionPerformed
@@ -531,6 +546,9 @@ public class Cadastrar extends javax.swing.JFrame {
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar ler!");
         }
+        
+        //Ativando o botão Adicionar
+        btn_Adicionar2.setEnabled(true);
     }//GEN-LAST:event_btn_Ler2ActionPerformed
 
     private void btn_Ler3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Ler3ActionPerformed
@@ -543,6 +561,9 @@ public class Cadastrar extends javax.swing.JFrame {
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar ler!");
         }
+        
+        //Ativando o botão Adicionar
+        btn_Adicionar3.setEnabled(true);
     }//GEN-LAST:event_btn_Ler3ActionPerformed
 
     private void btn_Ler4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Ler4ActionPerformed
@@ -555,6 +576,9 @@ public class Cadastrar extends javax.swing.JFrame {
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar ler!");
         }
+        
+        //Ativando o botão Adicionar
+        btn_Adicionar4.setEnabled(true);
     }//GEN-LAST:event_btn_Ler4ActionPerformed
 
     private void btn_GerarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_GerarActionPerformed
@@ -691,6 +715,9 @@ public class Cadastrar extends javax.swing.JFrame {
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar ler!");
         }
+        
+        //Ativando o botão Adicionar
+        btn_Adicionar5.setEnabled(true);
     }//GEN-LAST:event_btn_Ler5ActionPerformed
 
     private void btn_Adicionar5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar5ActionPerformed
@@ -698,6 +725,9 @@ public class Cadastrar extends javax.swing.JFrame {
         jta_Sobrenome2.append(jtf_Sobrenome2.getText() + "\n");
         jtf_Sobrenome2.setText(null);
         jtf_Sobrenome2.requestFocus();
+        
+        //Ativando o botão Gravar
+        btn_Gravar5.setEnabled(true);
     }//GEN-LAST:event_btn_Adicionar5ActionPerformed
 
     private void btn_Gravar5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Gravar5ActionPerformed
@@ -718,6 +748,9 @@ public class Cadastrar extends javax.swing.JFrame {
         jta_Endereco.append(jtf_Endereco.getText() + "\n");
         jtf_Endereco.setText(null);
         jtf_Endereco.requestFocus();
+        
+        //Ativando o botão Gravar
+        btn_Gravar6.setEnabled(true);
     }//GEN-LAST:event_btn_Adicionar6ActionPerformed
 
     private void btn_Gravar6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Gravar6ActionPerformed
@@ -743,6 +776,9 @@ public class Cadastrar extends javax.swing.JFrame {
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar ler!");
         }
+        
+        //Ativando o botão Adicionar
+        btn_Adicionar6.setEnabled(true);
     }//GEN-LAST:event_btn_Ler6ActionPerformed
 
     private void formWindowOpened(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowOpened
@@ -754,6 +790,18 @@ public class Cadastrar extends javax.swing.JFrame {
         jta_Sobrenome1.setEnabled(false);
         jta_Sobrenome2.setEnabled(false);
         jta_Endereco.setEnabled(false);
+        btn_Gravar1.setEnabled(false);
+        btn_Gravar2.setEnabled(false);
+        btn_Gravar3.setEnabled(false);
+        btn_Gravar4.setEnabled(false);
+        btn_Gravar5.setEnabled(false);
+        btn_Gravar6.setEnabled(false);
+        btn_Adicionar1.setEnabled(false);
+        btn_Adicionar2.setEnabled(false);
+        btn_Adicionar3.setEnabled(false);
+        btn_Adicionar4.setEnabled(false);
+        btn_Adicionar5.setEnabled(false);
+        btn_Adicionar6.setEnabled(false);
     }//GEN-LAST:event_formWindowOpened
 
     private void btn_FecharActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_FecharActionPerformed
