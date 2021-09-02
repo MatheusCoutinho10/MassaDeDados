@@ -430,43 +430,75 @@ public class Cadastrar extends javax.swing.JFrame {
     }//GEN-LAST:event_btn_LimparActionPerformed
 
     private void btn_Adicionar1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar1ActionPerformed
-        //Adicionar_Nome
-        jta_Nome.append(jtf_Nome.getText() + "\n");
-        jtf_Nome.setText(null);
-        jtf_Nome.requestFocus();
+        //Armazenando o valor do TextField em uma variável
+        String digitado = jtf_Nome.getText();
+
+        //Fazendo a verificação se o campo não está vazio
+        if(digitado.equals("") || digitado.equals(null)){
+            JOptionPane.showMessageDialog(this, "A área do texto não pode estar vazia!");
+        }else{
+            //Adicionar_Nome
+            jta_Nome.append(jtf_Nome.getText() + "\n");
+            jtf_Nome.setText(null);
+            jtf_Nome.requestFocus();
         
-        //Ativando o botão Gravar
-        btn_Gravar1.setEnabled(true);
+            //Ativando o botão Gravar
+            btn_Gravar1.setEnabled(true);
+        }
     }//GEN-LAST:event_btn_Adicionar1ActionPerformed
 
     private void btn_Adicionar2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar2ActionPerformed
-        //Adicionar_NomePai
-        jta_NomePai.append(jtf_NomePai.getText() + "\n");
-        jtf_NomePai.setText(null);
-        jtf_NomePai.requestFocus();
+        //Armazenando o valor do TextField em uma variável
+        String digitado = jtf_NomePai.getText();
+
+        //Fazendo a verificação se o campo não está vazio
+        if(digitado.equals("") || digitado.equals(null)){
+            JOptionPane.showMessageDialog(this, "A área do texto não pode estar vazia!");
+        }else{
+            //Adicionar_NomePai
+            jta_NomePai.append(jtf_NomePai.getText() + "\n");
+            jtf_NomePai.setText(null);
+            jtf_NomePai.requestFocus();
         
-        //Ativando o botão Gravar
-        btn_Gravar2.setEnabled(true);
+            //Ativando o botão Gravar
+            btn_Gravar2.setEnabled(true);
+        }
     }//GEN-LAST:event_btn_Adicionar2ActionPerformed
 
     private void btn_Adicionar3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar3ActionPerformed
-        //Adicionar_NomeMãe
-        jta_NomeMae.append(jtf_NomeMae.getText() + "\n");
-        jtf_NomeMae.setText(null);
-        jtf_NomeMae.requestFocus();
+        //Armazenando o valor do TextField em uma variável
+        String digitado = jtf_NomeMae.getText();
+
+        //Fazendo a verificação se o campo não está vazio
+        if(digitado.equals("") || digitado.equals(null)){
+            JOptionPane.showMessageDialog(this, "A área do texto não pode estar vazia!");
+        }else{
+            //Adicionar_NomeMãe
+            jta_NomeMae.append(jtf_NomeMae.getText() + "\n");
+            jtf_NomeMae.setText(null);
+            jtf_NomeMae.requestFocus();
         
-        //Ativando o botão Gravar
-        btn_Gravar3.setEnabled(true);
+            //Ativando o botão Gravar
+            btn_Gravar3.setEnabled(true);
+        }
     }//GEN-LAST:event_btn_Adicionar3ActionPerformed
 
     private void btn_Adicionar4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar4ActionPerformed
-        //Adicionar_Sobrenome1
-        jta_Sobrenome1.append(jtf_Sobrenome1.getText() + "\n");
-        jtf_Sobrenome1.setText(null);
-        jtf_Sobrenome1.requestFocus();
+        //Armazenando o valor do TextField em uma variável
+        String digitado = jtf_Sobrenome1.getText();
+
+        //Fazendo a verificação se o campo não está vazio
+        if(digitado.equals("") || digitado.equals(null)){
+            JOptionPane.showMessageDialog(this, "A área do texto não pode estar vazia!");
+        }else{
+            //Adicionar_Sobrenome1
+            jta_Sobrenome1.append(jtf_Sobrenome1.getText() + "\n");
+            jtf_Sobrenome1.setText(null);
+            jtf_Sobrenome1.requestFocus();
         
-        //Ativando o botão Gravar
-        btn_Gravar4.setEnabled(true);
+            //Ativando o botão Gravar
+            btn_Gravar4.setEnabled(true);
+        }
     }//GEN-LAST:event_btn_Adicionar4ActionPerformed
 
     private void btn_Gravar1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Gravar1ActionPerformed
@@ -721,13 +753,21 @@ public class Cadastrar extends javax.swing.JFrame {
     }//GEN-LAST:event_btn_Ler5ActionPerformed
 
     private void btn_Adicionar5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar5ActionPerformed
-        //Adicionar_Sobrenome2
-        jta_Sobrenome2.append(jtf_Sobrenome2.getText() + "\n");
-        jtf_Sobrenome2.setText(null);
-        jtf_Sobrenome2.requestFocus();
+        //Armazenando o valor do TextField em uma variável
+        String digitado = jtf_Sobrenome2.getText();
+
+        //Fazendo a verificação se o campo não está vazio
+        if(digitado.equals("") || digitado.equals(null)){
+            JOptionPane.showMessageDialog(this, "A área do texto não pode estar vazia!");
+        }else{
+            //Adicionar_Sobrenome2
+            jta_Sobrenome2.append(jtf_Sobrenome2.getText() + "\n");
+            jtf_Sobrenome2.setText(null);
+            jtf_Sobrenome2.requestFocus();
         
-        //Ativando o botão Gravar
-        btn_Gravar5.setEnabled(true);
+            //Ativando o botão Gravar
+            btn_Gravar5.setEnabled(true);
+        }
     }//GEN-LAST:event_btn_Adicionar5ActionPerformed
 
     private void btn_Gravar5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Gravar5ActionPerformed
@@ -744,13 +784,21 @@ public class Cadastrar extends javax.swing.JFrame {
     }//GEN-LAST:event_btn_Gravar5ActionPerformed
 
     private void btn_Adicionar6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar6ActionPerformed
-        //Adicionar_Endereço
-        jta_Endereco.append(jtf_Endereco.getText() + "\n");
-        jtf_Endereco.setText(null);
-        jtf_Endereco.requestFocus();
+        //Armazenando o valor do TextField em uma variável
+        String digitado = jtf_Endereco.getText();
+
+        //Fazendo a verificação se o campo não está vazio
+        if(digitado.equals("") || digitado.equals(null)){
+            JOptionPane.showMessageDialog(this, "A área do texto não pode estar vazia!");
+        }else{
+            //Adicionar_Endereço
+            jta_Endereco.append(jtf_Endereco.getText() + "\n");
+            jtf_Endereco.setText(null);
+            jtf_Endereco.requestFocus();
         
-        //Ativando o botão Gravar
-        btn_Gravar6.setEnabled(true);
+            //Ativando o botão Gravar
+            btn_Gravar6.setEnabled(true);
+        }
     }//GEN-LAST:event_btn_Adicionar6ActionPerformed
 
     private void btn_Gravar6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Gravar6ActionPerformed
