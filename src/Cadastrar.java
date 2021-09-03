@@ -509,8 +509,10 @@ public class Cadastrar extends javax.swing.JFrame {
 
             jta_Nome.write(arq);
             JOptionPane.showMessageDialog(this, "Gravado com sucesso!");
+            btn_Gravar1.setEnabled(false);
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar gravar!");
+            btn_Gravar1.setEnabled(false);
         }
     }//GEN-LAST:event_btn_Gravar1ActionPerformed
 
@@ -522,8 +524,10 @@ public class Cadastrar extends javax.swing.JFrame {
 
             jta_NomePai.write(arq);
             JOptionPane.showMessageDialog(this, "Gravado com sucesso!");
+            btn_Gravar2.setEnabled(false);
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar gravar!");
+            btn_Gravar2.setEnabled(false);
         }
     }//GEN-LAST:event_btn_Gravar2ActionPerformed
 
@@ -535,8 +539,10 @@ public class Cadastrar extends javax.swing.JFrame {
 
             jta_NomeMae.write(arq);
             JOptionPane.showMessageDialog(this, "Gravado com sucesso!");
+            btn_Gravar3.setEnabled(false);
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar gravar!");
+            btn_Gravar3.setEnabled(false);
         }
     }//GEN-LAST:event_btn_Gravar3ActionPerformed
 
@@ -548,8 +554,10 @@ public class Cadastrar extends javax.swing.JFrame {
 
             jta_Sobrenome1.write(arq);
             JOptionPane.showMessageDialog(this, "Gravado com sucesso!");
+            btn_Gravar4.setEnabled(false);
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar gravar!");
+            btn_Gravar4.setEnabled(false);
         }
     }//GEN-LAST:event_btn_Gravar4ActionPerformed
 
@@ -778,8 +786,10 @@ public class Cadastrar extends javax.swing.JFrame {
 
             jta_Sobrenome2.write(arq);
             JOptionPane.showMessageDialog(this, "Gravado com sucesso!");
+            btn_Gravar5.setEnabled(false);
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar gravar!");
+            btn_Gravar5.setEnabled(false);
         }
     }//GEN-LAST:event_btn_Gravar5ActionPerformed
 
@@ -809,8 +819,10 @@ public class Cadastrar extends javax.swing.JFrame {
 
             jta_Endereco.write(arq);
             JOptionPane.showMessageDialog(this, "Gravado com sucesso!");
+            btn_Gravar6.setEnabled(false);
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar gravar!");
+            btn_Gravar6.setEnabled(false);
         }
     }//GEN-LAST:event_btn_Gravar6ActionPerformed
 
