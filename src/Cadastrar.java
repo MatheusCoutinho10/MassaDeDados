@@ -422,11 +422,14 @@ public class Cadastrar extends javax.swing.JFrame {
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar ler!");
         }
+        
+        btn_Gravar.setEnabled(false);
     }//GEN-LAST:event_btn_LerActionPerformed
 
     private void btn_LimparActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_LimparActionPerformed
         //Limpar
         jta_Dados.setText(null);
+        btn_Gravar.setEnabled(false);
     }//GEN-LAST:event_btn_LimparActionPerformed
 
     private void btn_Adicionar1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_Adicionar1ActionPerformed
@@ -655,7 +658,7 @@ public class Cadastrar extends javax.swing.JFrame {
                 telefone[j] = Integer.toString(k);
                 k++;
             }
-            
+
             //Loop do número do endereço
             for(int j = 0; j < 2490; j++){
                 numeros[j] = Integer.toString(m);
@@ -667,25 +670,25 @@ public class Cadastrar extends javax.swing.JFrame {
                 rg1[j] = Integer.toString(d);
                 d++;
             }
-               
+
             //Loop das duas outras partes do RG
             for(int j = 0; j < 899; j++){
                 rg2[j] = Integer.toString(a);
                 a++;
             }
-            
+
             //Loop do dígito do RG
             for(int j = 0; j < 9; j++){
                 rg3[j] = Integer.toString(b);
                 b++;
             }
-            
+
             //Loop do salário
             for(int j = 0; j < 35; j++){
                 salarios[j] = Integer.toString(c);
                 c = c + 100;
             }
-            
+
             //Random para selecionar aleatóriamente os dados
             Random rnd = new Random();
 
@@ -710,7 +713,7 @@ public class Cadastrar extends javax.swing.JFrame {
             int posTelefone2 = rnd.nextInt(telefone.length);
             int posSetor = rnd.nextInt(setores.length);
             int posSalario = rnd.nextInt(salarios.length);
-            
+
             //Guandando os dados de cada linha em uma String
             String novoFuncionario = registroFuncional + "#" + 
                                      nomes[posNome] + " " + sobrenomes1[posSobrenomeMae1] + " " + sobrenomes1[posSobrenomePai1] + "#" + 
@@ -726,10 +729,11 @@ public class Cadastrar extends javax.swing.JFrame {
             //Adicionando a String com a linha no JTextArea
             jta_Dados.append(novoFuncionario + "\n");
         }
-        
+
         //Limpando e recolocando o foco no jTextField
         jtf_Gerar.setText(null);
         jtf_Gerar.requestFocus();
+        btn_Gravar.setEnabled(true);
     }//GEN-LAST:event_btn_GerarActionPerformed
 
     private void btn_GravarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_GravarActionPerformed
@@ -740,6 +744,7 @@ public class Cadastrar extends javax.swing.JFrame {
 
             jta_Dados.write(arq);
             JOptionPane.showMessageDialog(this, "Gravado com sucesso!");
+            btn_Gravar.setEnabled(false);
         }catch(IOException ex){
             JOptionPane.showMessageDialog(this, "Erro ao tentar gravar!");
         }
@@ -862,6 +867,7 @@ public class Cadastrar extends javax.swing.JFrame {
         btn_Adicionar4.setEnabled(false);
         btn_Adicionar5.setEnabled(false);
         btn_Adicionar6.setEnabled(false);
+        btn_Gravar.setEnabled(false);
     }//GEN-LAST:event_formWindowOpened
 
     private void btn_FecharActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_FecharActionPerformed
