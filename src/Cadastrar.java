@@ -177,6 +177,12 @@ public class Cadastrar extends javax.swing.JFrame {
 
         jLabel1.setText("Número de registros a serem gerados:");
 
+        jtf_Gerar.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyTyped(java.awt.event.KeyEvent evt) {
+                jtf_GerarKeyTyped(evt);
+            }
+        });
+
         jta_NomeMae.setColumns(20);
         jta_NomeMae.setRows(5);
         jScrollPane4.setViewportView(jta_NomeMae);
@@ -626,114 +632,124 @@ public class Cadastrar extends javax.swing.JFrame {
 
     private void btn_GerarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_GerarActionPerformed
         //Gerar aleatoriamente os dados dos colaboradores
-        int n = Integer.parseInt(jtf_Gerar.getText());
-        int id = 0;
+        jta_Dados.setText("");
+        String digitado = jtf_Gerar.getText();
+        
+        if(digitado.equals("") || digitado.equals(null) || digitado.equals("0")){
+            JOptionPane.showMessageDialog(this, "Digite um valor para gerar os dados!");
+            btn_Gravar.setEnabled(false);
+        }else{
+            int n = Integer.parseInt(jtf_Gerar.getText());
+            int id = 0;
+            
+            //Loop para gerar os dados
+            for(int i=0; i<n; i++){
+                id++;
+                int k = 1000;
+                int m = 10;
+                int d = 10;
+                int a = 100;
+                int b = 1;
+                int c = 1500;
+                String registroFuncional = Integer.toString(id);
+                String nomes[] = jta_Nome.getText().split("\n");
+                String nomeshomens[] = jta_NomePai.getText().split("\n");
+                String nomesmulheres[] = jta_NomeMae.getText().split("\n");
+                String sobrenomes1[] = jta_Sobrenome1.getText().split("\n");
+                String sobrenomes2[] = jta_Sobrenome2.getText().split("\n");
+                String lorgadouro[] = jta_Endereco.getText().split("\n");
+                String numeros[] = new String[2490];
+                String telefone[] = new String[9000];
+                String rg1[] = new String[89];
+                String rg2[] = new String[899];
+                String rg3[] = new String[9];
+                String[] setores = {"Marketing", "Financeiro", "Recursos Humanos", "Comercial", "Estoque", "Contabilidade", "Administrativo"};
+                String salarios[] = new String[35];
 
-        //Loop para gerar os dados
-        for(int i=0; i<n; i++){
-            id++;
-            int k = 1000;
-            int m = 10;
-            int d = 10;
-            int a = 100;
-            int b = 1;
-            int c = 1500;
-            String registroFuncional = Integer.toString(id);
-            String nomes[] = jta_Nome.getText().split("\n");
-            String nomeshomens[] = jta_NomePai.getText().split("\n");
-            String nomesmulheres[] = jta_NomeMae.getText().split("\n");
-            String sobrenomes1[] = jta_Sobrenome1.getText().split("\n");
-            String sobrenomes2[] = jta_Sobrenome2.getText().split("\n");
-            String lorgadouro[] = jta_Endereco.getText().split("\n");
-            String numeros[] = new String[2490];
-            String telefone[] = new String[9000];
-            String rg1[] = new String[89];
-            String rg2[] = new String[899];
-            String rg3[] = new String[9];
-            String[] setores = {"Marketing", "Financeiro", "Recursos Humanos", "Comercial", "Estoque", "Contabilidade", "Administrativo"};
-            String salarios[] = new String[35];
+                //Loop do número de telefone
+                for(int j = 0; j < 9000; j++){
+                    telefone[j] = Integer.toString(k);
+                    k++;
+                }
 
-            //Loop do número de telefone
-            for(int j = 0; j < 9000; j++){
-                telefone[j] = Integer.toString(k);
-                k++;
+                //Loop do número do endereço
+                for(int j = 0; j < 2490; j++){
+                    numeros[j] = Integer.toString(m);
+                    m++;
+                }
+
+                //Loop do inicio do RG
+                for(int j = 0; j < 89; j++){
+                    rg1[j] = Integer.toString(d);
+                    d++;
+                }
+
+                //Loop das duas outras partes do RG
+                for(int j = 0; j < 899; j++){
+                    rg2[j] = Integer.toString(a);
+                    a++;
+                }
+
+                //Loop do dígito do RG
+                for(int j = 0; j < 9; j++){
+                    rg3[j] = Integer.toString(b);
+                    b++;
+                }
+
+                //Loop do salário
+                for(int j = 0; j < 35; j++){
+                    salarios[j] = Integer.toString(c);
+                    c = c + 100;
+                }
+
+                //Random para selecionar aleatóriamente os dados
+                Random rnd = new Random();
+
+                //Gerando as posíções aleatórias dos dados selecionados
+                int posNome = rnd.nextInt(nomes.length);
+                int posNomePai = rnd.nextInt(nomeshomens.length);
+                int posNomeMae = rnd.nextInt(nomesmulheres.length);
+                int posSobrenomePai1 = rnd.nextInt(sobrenomes1.length);
+                int posSobrenomePai2 = rnd.nextInt(sobrenomes2.length);
+                int posSobrenomeMae1 = rnd.nextInt(sobrenomes1.length);
+                int posSobrenomeMae2 = rnd.nextInt(sobrenomes2.length);
+                int posLorgadouro = rnd.nextInt(lorgadouro.length);
+                int posEndereco = rnd.nextInt(nomes.length);
+                int posEndereco2 = rnd.nextInt(sobrenomes1.length);
+                int posEndereco3 = rnd.nextInt(sobrenomes2.length);
+                int posNumero = rnd.nextInt(numeros.length);
+                int posRG1 = rnd.nextInt(rg1.length);
+                int posRG2 = rnd.nextInt(rg2.length);
+                int posRG22 = rnd.nextInt(rg2.length);
+                int posRG3 = rnd.nextInt(rg3.length);
+                int posTelefone1 = rnd.nextInt(telefone.length);
+                int posTelefone2 = rnd.nextInt(telefone.length);
+                int posSetor = rnd.nextInt(setores.length);
+                int posSalario = rnd.nextInt(salarios.length);
+
+                //Guandando os dados de cada linha em uma String
+                String novoFuncionario = registroFuncional + "#" + 
+                                         nomes[posNome] + " " + sobrenomes1[posSobrenomeMae1] + " " + sobrenomes1[posSobrenomePai1] + "#" + 
+                                         nomeshomens[posNomePai] + " " + sobrenomes1[posSobrenomePai1] + " " + sobrenomes2[posSobrenomePai2] + "#" + 
+                                         nomesmulheres[posNomeMae] + " " + sobrenomes1[posSobrenomeMae1] + " " + sobrenomes2[posSobrenomeMae2] + "#" + 
+                                         lorgadouro[posLorgadouro] + " " + nomes[posEndereco] + " " + sobrenomes1[posEndereco2] + " " + sobrenomes2[posEndereco3] + ", nº" + numeros[posNumero] + "#" + 
+                                         rg1[posRG1] + "." + rg2[posRG2] + "." + rg2[posRG22] + "-" + rg3[posRG3] + "#" + 
+                                         "(11) 9" + telefone[posTelefone1] + "-" + telefone[posTelefone2] + "#" + 
+                                         nomes[posNome] + "." + sobrenomes1[posSobrenomePai1] + "@coutinhos.com.br" + "#" +
+                                         "R$" + salarios[posSalario] + ".00" + "#" +
+                                         setores[posSetor];
+
+                //Adicionando a String com a linha no JTextArea
+                jta_Dados.append(novoFuncionario + "\n");
             }
-
-            //Loop do número do endereço
-            for(int j = 0; j < 2490; j++){
-                numeros[j] = Integer.toString(m);
-                m++;
-            }
-
-            //Loop do inicio do RG
-            for(int j = 0; j < 89; j++){
-                rg1[j] = Integer.toString(d);
-                d++;
-            }
-
-            //Loop das duas outras partes do RG
-            for(int j = 0; j < 899; j++){
-                rg2[j] = Integer.toString(a);
-                a++;
-            }
-
-            //Loop do dígito do RG
-            for(int j = 0; j < 9; j++){
-                rg3[j] = Integer.toString(b);
-                b++;
-            }
-
-            //Loop do salário
-            for(int j = 0; j < 35; j++){
-                salarios[j] = Integer.toString(c);
-                c = c + 100;
-            }
-
-            //Random para selecionar aleatóriamente os dados
-            Random rnd = new Random();
-
-            //Gerando as posíções aleatórias dos dados selecionados
-            int posNome = rnd.nextInt(nomes.length);
-            int posNomePai = rnd.nextInt(nomeshomens.length);
-            int posNomeMae = rnd.nextInt(nomesmulheres.length);
-            int posSobrenomePai1 = rnd.nextInt(sobrenomes1.length);
-            int posSobrenomePai2 = rnd.nextInt(sobrenomes2.length);
-            int posSobrenomeMae1 = rnd.nextInt(sobrenomes1.length);
-            int posSobrenomeMae2 = rnd.nextInt(sobrenomes2.length);
-            int posLorgadouro = rnd.nextInt(lorgadouro.length);
-            int posEndereco = rnd.nextInt(nomes.length);
-            int posEndereco2 = rnd.nextInt(sobrenomes1.length);
-            int posEndereco3 = rnd.nextInt(sobrenomes2.length);
-            int posNumero = rnd.nextInt(numeros.length);
-            int posRG1 = rnd.nextInt(rg1.length);
-            int posRG2 = rnd.nextInt(rg2.length);
-            int posRG22 = rnd.nextInt(rg2.length);
-            int posRG3 = rnd.nextInt(rg3.length);
-            int posTelefone1 = rnd.nextInt(telefone.length);
-            int posTelefone2 = rnd.nextInt(telefone.length);
-            int posSetor = rnd.nextInt(setores.length);
-            int posSalario = rnd.nextInt(salarios.length);
-
-            //Guandando os dados de cada linha em uma String
-            String novoFuncionario = registroFuncional + "#" + 
-                                     nomes[posNome] + " " + sobrenomes1[posSobrenomeMae1] + " " + sobrenomes1[posSobrenomePai1] + "#" + 
-                                     nomeshomens[posNomePai] + " " + sobrenomes1[posSobrenomePai1] + " " + sobrenomes2[posSobrenomePai2] + "#" + 
-                                     nomesmulheres[posNomeMae] + " " + sobrenomes1[posSobrenomeMae1] + " " + sobrenomes2[posSobrenomeMae2] + "#" + 
-                                     lorgadouro[posLorgadouro] + " " + nomes[posEndereco] + " " + sobrenomes1[posEndereco2] + " " + sobrenomes2[posEndereco3] + ", nº" + numeros[posNumero] + "#" + 
-                                     rg1[posRG1] + "." + rg2[posRG2] + "." + rg2[posRG22] + "-" + rg3[posRG3] + "#" + 
-                                     "(11) 9" + telefone[posTelefone1] + "-" + telefone[posTelefone2] + "#" + 
-                                     nomes[posNome] + "." + sobrenomes1[posSobrenomePai1] + "@coutinhos.com.br" + "#" +
-                                     "R$" + salarios[posSalario] + ".00" + "#" +
-                                     setores[posSetor];
-
-            //Adicionando a String com a linha no JTextArea
-            jta_Dados.append(novoFuncionario + "\n");
+        
+            //Ativando o botão Gravar
+            btn_Gravar.setEnabled(true);
         }
 
         //Limpando e recolocando o foco no jTextField
         jtf_Gerar.setText(null);
         jtf_Gerar.requestFocus();
-        btn_Gravar.setEnabled(true);
     }//GEN-LAST:event_btn_GerarActionPerformed
 
     private void btn_GravarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_GravarActionPerformed
@@ -874,6 +890,13 @@ public class Cadastrar extends javax.swing.JFrame {
         //Fechar
         this.setVisible(false);
     }//GEN-LAST:event_btn_FecharActionPerformed
+
+    private void jtf_GerarKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jtf_GerarKeyTyped
+        String caracteres="0987654321";
+        if(!caracteres.contains(evt.getKeyChar()+"")){
+            evt.consume();
+        }
+    }//GEN-LAST:event_jtf_GerarKeyTyped
 
     public static void main(String args[]) {
         try {
