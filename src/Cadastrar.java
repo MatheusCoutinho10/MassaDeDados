@@ -374,27 +374,23 @@ public class Cadastrar extends javax.swing.JFrame {
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                                     .addComponent(jtf_Sobrenome2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                    .addComponent(jtf_Sobrenome1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                                    .addComponent(jtf_Sobrenome1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                    .addComponent(jtf_Endereco, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                                     .addComponent(btn_Adicionar5)
-                                    .addComponent(btn_Adicionar4))
+                                    .addComponent(btn_Adicionar4)
+                                    .addComponent(btn_Adicionar6))
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                                     .addComponent(btn_Gravar5)
-                                    .addComponent(btn_Gravar4))
+                                    .addComponent(btn_Gravar4)
+                                    .addComponent(btn_Gravar6))
                                 .addGap(29, 29, 29))
-                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                                .addComponent(jtf_Endereco, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addComponent(btn_Adicionar6)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                                .addComponent(btn_Gravar6)
-                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                                    .addComponent(btn_Ler6)
-                                    .addComponent(btn_Ler5)
-                                    .addComponent(btn_Ler4)))))
+                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                                .addComponent(btn_Ler6)
+                                .addComponent(btn_Ler5)
+                                .addComponent(btn_Ler4))))
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(jScrollPane1)
                         .addGap(13, 13, 13)
@@ -416,6 +412,7 @@ public class Cadastrar extends javax.swing.JFrame {
         );
 
         pack();
+        setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
     private void btn_LerActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_LerActionPerformed
@@ -787,7 +784,7 @@ public class Cadastrar extends javax.swing.JFrame {
 
         //Fazendo a verificação se o campo não está vazio
         if(digitado.equals("") || digitado.equals(null)){
-            JOptionPane.showMessageDialog(this, "A área do texto não pode estar vazia!");
+            JOptionPane.showMessageDialog(this, "A área de texto não pode estar vazia!");
         }else{
             //Adicionar_Sobrenome2
             jta_Sobrenome2.append(jtf_Sobrenome2.getText() + "\n");
@@ -820,7 +817,7 @@ public class Cadastrar extends javax.swing.JFrame {
 
         //Fazendo a verificação se o campo não está vazio
         if(digitado.equals("") || digitado.equals(null)){
-            JOptionPane.showMessageDialog(this, "A área do texto não pode estar vazia!");
+            JOptionPane.showMessageDialog(this, "A área de texto não pode estar vazia!");
         }else{
             //Adicionar_Endereço
             jta_Endereco.append(jtf_Endereco.getText() + "\n");
