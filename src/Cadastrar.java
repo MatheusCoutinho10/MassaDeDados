@@ -886,6 +886,9 @@ public class Cadastrar extends javax.swing.JFrame {
     private void btn_FecharActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_FecharActionPerformed
         //Fechar
         this.setVisible(false);
+        
+        Listar frm = new Listar();
+        frm.setVisible(true);
     }//GEN-LAST:event_btn_FecharActionPerformed
 
     private void jtf_GerarKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jtf_GerarKeyTyped
