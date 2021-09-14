@@ -230,6 +230,7 @@ public class Listar extends javax.swing.JFrame {
     }//GEN-LAST:event_formWindowOpened
 
     private void btn_CadastroActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_CadastroActionPerformed
+        //Tornando o formulário listar invisível
         this.setVisible(false);
         
         //Abrir outro formulário, o de Cadastro
