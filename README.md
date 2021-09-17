@@ -82,7 +82,7 @@ O formulário de Cadastro contém 7 jTextArea, cada um carrega um arquivo .txt d
 git clone https://github.com/MatheusCoutinho10/MassaDeDados
 
 # entrar na pasta do executável
-cd MassaDeDados\dist
+cd MassaDeDados
 
 # executar o projeto
 MassaDeDados.jar spring-boot:run
