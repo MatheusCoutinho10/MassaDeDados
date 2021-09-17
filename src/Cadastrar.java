@@ -414,7 +414,7 @@ public class Cadastrar extends javax.swing.JFrame {
         pack();
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
-
+    
     private void btn_LerActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_LerActionPerformed
         //Ler
         FileReader arq;
@@ -918,7 +918,7 @@ public class Cadastrar extends javax.swing.JFrame {
 
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Cadastrar().setVisible(true);
+                new Listar().setVisible(true);
             }
         });
     }
